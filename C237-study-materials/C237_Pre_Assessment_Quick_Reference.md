@@ -5,6 +5,8 @@
 
 ## PART 1: MISSED QUESTIONS — Why the Right Answer Is Right
 
+**12 misses on your PA (Q12, 15, 18, 24, 26, 35, 45, 47, 49, 50, 52, 58). Q17 was CORRECT — you picked renting the condo.**
+
 ### Q12 — Tax planning vs research
 - **You picked:** Tax research  
 - **Correct:** **Tax planning**  
@@ -23,12 +25,37 @@
 ### Q24 — Qualified Tuition Plan (529) tax-free uses (pick 2)
 - **You picked:** Rent + student health insurance (wrong)  
 - **Correct:** **Textbooks** (+ tuition/fees/supplies/equipment for eligible education—textbooks is the clear one on this question)  
-- **Why:** QTP/529 money is tax-free for **qualified education expenses**—tuition, **books**, supplies, equipment at eligible institutions. **Room/board** and **health insurance** are generally **not** qualified unless specific limited rules apply—don’t assume them on the test.
+- **Why:** QTP/529 money is tax-free for **qualified education expenses**—tuition, **books**, supplies, equipment at eligible institutions. **Room/board** and **health insurance** are generally **not** qualified—don’t pick them on the test.
+
+### Q26 — Stock that went up in value (not sold)
+- **You picked:** Realized and recognized gain  
+- **Correct:** **Unrealized gain**  
+- **Why:** If you still **own** the stock and only the **market value** rose, nothing is taxable yet. **Unrealized** = on paper only. **Realized** = you sold and have cash; **recognized** = you report it on the return.
 
 ### Q35 — Mortgage interest reducing AGI
 - **You picked:** Rental home  
 - **Correct (per this PA):** **Personal residence**  
-- **Why for the test:** Read **“reduction for adjusted gross income”** carefully—this PA keys **personal residence**. **Remember for class:** Rental mortgage interest is usually a **Schedule E / FOR** deduction (before AGI); personal home mortgage is normally **itemized (FROM)**. If wording says “itemized,” pick personal residence; if “business/rental expense before AGI,” pick rental.
+- **Why for the test:** Read **“reduction for adjusted gross income”** carefully—this PA keys **personal residence**. **Remember for class:** Rental mortgage interest is usually **Schedule E / FOR** (before AGI); personal home mortgage is normally **itemized (FROM)**. Match the wording on the question.
+
+### Q45 — Cost-per-mile as itemized deduction (all taxpayers)
+- **You picked:** Travel for medical purposes  
+- **Correct:** **Travel for moving required by employment** (military orders)  
+- **Why:** The only **moving expense** itemized deduction left for most people is **active-duty military** moving pursuant to orders. Medical mileage is part of **medical itemized** (with the 7.5% floor)—not the “moving mileage for all taxpayers” answer.
+
+### Q47 — Tax that qualifies as itemized deduction
+- **You picked:** **Gambling income tax**  
+- **Correct:** **State income tax**  
+- **Why:** Itemized taxes are **state and local income tax** OR **sales tax** (choose one), plus property tax—subject to SALT cap. **FICA, unemployment, and gambling taxes** are not itemized deductions. Gambling **losses** (not the tax on winnings) can be miscellaneous itemized to the extent of winnings.
+
+### Q49 — Deductible charitable contribution
+- **You picked:** Donations to a movie theater for renovations  
+- **Correct:** **Contributions to a local church**  
+- **Why:** Charity must be a **qualified 501(c)(3)** organization **registered with the IRS**. Churches qualify. Random businesses, neighbors, or theaters renovating are **not** deductible unless they’re a registered charity. **Time volunteering** is never deductible—only **money or property** donated.
+
+### Q50 — Appreciated stock donated to public charity
+- **You picked:** FMV **less long-term capital gain**, limited to **20%** of AGI  
+- **Correct:** **Fair market value of the property, limited to 30% of AGI** (no reduction for built-in gain)  
+- **Why:** Donating **appreciated capital gain property** (stock) to a **public charity** → deduction is **full FMV**, limited to **30% of AGI** (carryforward excess). Memorize: **Cash 60% / Capital gain property 30% / Ordinary property 50%** of AGI.
 
 ### Q52 — Maximum capital loss deduction on personal return
 - **You picked:** $3,200  
@@ -38,34 +65,10 @@
 ### Q58 — Tax credit that applies to individuals
 - **You picked:** Child tax credit  
 - **Correct:** **Individual recovery credit** (as keyed on this PA)  
-- **Why:** Read every option—this question’s keyed answer is **Individual recovery credit**. **Child tax credit** absolutely applies to individuals too (Elin emphasizes it heavily), but match the **exact wording** on objective assessments. Know both credits exist; watch for “which one” phrasing.
-
-### Q26 — Stock that went up in value (not sold)
-- **You picked:** Realized and recognized gain  
-- **Correct:** **Unrealized gain**  
-- **Why:** If you still **own** the stock and only the **market value** rose, nothing is taxable yet. **Unrealized** = on paper only. **Realized** = you sold and have cash; **recognized** = you report it on the return.
-
-### Q45 — Cost-per-mile as itemized deduction (all taxpayers)
-- **You picked:** Travel for medical purposes  
-- **Correct:** **Travel for moving required by employment** (military orders)  
-- **Why:** The only **moving expense** itemized deduction left for most people is **active-duty military** moving pursuant to orders. Medical mileage is tied to **medical expenses** (part of medical itemized, with limits)—not the standalone “moving mileage for all taxpayers” answer.
-
-### Q47 — Tax that qualifies as itemized deduction
-- **You picked:** (Unemployment / gambling tax)  
-- **Correct:** **State income tax**  
-- **Why:** Itemized taxes are **state and local income tax** OR **sales tax** (choose one), plus property tax—subject to SALT cap. **FICA/Unemployment** are not itemized deductions. Gambling **income** is taxable; gambling **losses** are miscellaneous itemized (to extent of winnings).
-
-### Q49 — Deductible charitable contribution
-- **You picked:** Donations to a movie theater for renovations  
-- **Correct:** **Contributions to a local church**  
-- **Why:** Charity must be a **qualified 501(c)(3)** organization **registered with the IRS**. Churches qualify. Random businesses, neighbors, or theaters renovating are **not** deductible unless they’re a registered charity. **Time volunteering** is never deductible—only **money or property** donated.
-
-### Q50 — Appreciated stock donated to public charity
-- **You picked:** FMV less LTCG, limited to 30% (wrong wording/limit combo)  
-- **Correct:** **Fair market value of the property, limited to 30% of AGI**  
-- **Why:** Donating **appreciated capital gain property** (stock) to a **public charity** → deduction is generally **FMV**, limited to **30% of AGI** (carryforward excess). Memorize: **Cash 60% / Capital gain property 30% / Ordinary property 50%** of AGI.
+- **Why:** Read every option—this question’s keyed answer is **Individual recovery credit**. **Child tax credit** absolutely applies to individuals too (Elin emphasizes it heavily), but match the **exact wording** on objective assessments.
 
 ---
+
 
 ## PART 2: QUICK REMINDERS — Other High-Value PA Topics (1–2 sentences each)
 
