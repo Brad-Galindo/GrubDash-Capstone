@@ -15,10 +15,10 @@
 - **Correct:** **$15,914**  
 - **Why:** Walk the **4-step formula** every time: (1) MFJ filing status, (2) income = wages + taxable interest only (exclude municipal bond interest), (3) deduction = **greater of** itemized ($23,590) vs standard MFJ ($29,200) → use **standard**, (4) apply **MFJ tax chart** to taxable income. A small math or exclusion error changes the final bracket amount—recalculate on whiteboard.
 
-### Q17 — Income that is fully taxable
-- **You picked:** (not rent)  
-- **Correct:** **Renting out a condo for $5,000**  
-- **Why:** Taxable income must be **earned/received, realized, and recognized**. Rent is ordinary income you actually receive from a transaction. Gifts, inheritances, and **loans** are not income—you don’t “make” money on a loan; you owe it back.
+### Q18 — Constructive receipt (include in current-year gross income)
+- **You picked:** Employer held year-end paycheck in a drawer; taxpayer didn’t deposit until January  
+- **Correct:** **Dec 28 car sale—buyer gave a check and asked taxpayer to wait two weeks to deposit**  
+- **Why:** **Constructive receipt** = income is taxable when it is **made available to you**, even if you choose not to deposit it yet. A **check in hand** on Dec 28 = include in that year. The paycheck still controlled by the **employer** in a drawer (you didn’t have unrestricted access) is **not** constructive receipt—the car-sale check is.
 
 ### Q24 — Qualified Tuition Plan (529) tax-free uses (pick 2)
 - **You picked:** Rent + student health insurance (wrong)  
