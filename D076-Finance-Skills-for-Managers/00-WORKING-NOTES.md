@@ -2,8 +2,8 @@
 ## Working Notes (accumulate until ready for final study guide)
 
 > Status: **Collecting material** — do not finalize full study guide until user says we have everything.
-> Sources so far: Unit 2 Form A, Unit 2 Form B, Unit 2 Module Assessment Section 1 (3 quiz sets), Reddit OA tips (2024–2026)
-> **Quizlet on hold:** Do not use Quizlet as a source until all course questions are collected and we can validate which Quizlet items actually match.
+> Trusted sources so far: Unit 2 Form A/B, Unit 2 Module Assessment Section 1 (multiple quiz sets)
+> Reddit OA tips = strategy only | **Quizlet on hold** until full question set can validate matches
 
 ---
 
@@ -11,271 +11,242 @@
 
 ## Key Concepts to Remember
 
-### Areas of Finance / What Institutions Do
+### Areas of Finance
 | Topic | What it means | Remember |
 |-------|---------------|----------|
-| **Investments** | Deciding which assets to invest in to create wealth in the future | Choosing assets for future wealth |
-| **Financial management** | Evaluating funding sources, capital structure, actions to increase firm value | Firm-level decisions |
-| **Financial institutions (main services)** | Accepting deposits, offering investment products, providing loans, and brokering financial transactions | Banks, insurance companies, mutual funds provide these |
+| **Business finance** | Sources of funding, capital structure of corporations; seeks to increase firm value to owners | Uses/sources of funding to increase firm value |
+| **Investments** | Decide which assets to invest in to create wealth / earn positive returns in the future | Allocate money for future wealth |
+| **Financial institutions** | Accept deposits, offer investment products, provide loans, broker transactions; **primary role** = conduct financial transactions (investments, loans, deposits) to circulate money | Circulate money via transactions |
 | **Asset pricing** | Determining the value/price of financial assets | Valuation focus |
 
+### Finance vs Accounting (MUST KNOW)
+| | Finance | Accounting |
+|--|---------|------------|
+| Time focus | **Future**-looking | Generally **backward**-looking |
+| Role | Manage/allocate capital: investing, forecasting, budgeting, saving, lending, borrowing | Historical financial records/data |
+
 ### Goals: Firm vs Personal Finance
-| Context | Main goal / objective |
-|---------|----------------------|
-| **Firm** | Maximize **owner wealth** |
-| **Personal financial goals** | Maximize **individual utility** (satisfaction/happiness by covering necessities and priorities) |
+| Context | Goal / aim |
+|---------|------------|
+| **Firm / financial manager** | Maximize **owner wealth** (NOT manager’s utility; NOT just minimize costs) |
+| **Personal financial goals** | Maximize **individual utility** / maximize satisfaction from products & services obtained |
+| **Any investment decision — main question** | Do the **benefits outweigh the costs**? (benefit ≥ initial cost) |
 
-**Related personal-finance roles / actions:**
-- **Financial planner** = professional who works with **individuals** to help them achieve financial goals
-- Already decided to buy something, now choosing how to pay (loan vs cash) = **financing a goal** (not investing, not budgeting)
-
-### Why Finance Definition Matters Personally
-- Understanding finance helps individuals **compare the costs and benefits** of an action to decide whether to take it.
-- Any financial decision should make sense in terms of costs vs benefits.
+**Personal finance tools / actions:**
+- **Budgeting** = tool to understand overall personal cash flows (income & expenses)
+- Emergency stash alternative = **savings account** (readily withdrawable + some interest) — NOT high-risk stocks, long-term bonds, or a nicer car
+- Affordable mortgage for a house = **financing** (finance goals within your means)
+- Already decided to buy; choosing how to pay = **financing a goal**
+- **Financial planner** = works with **individuals** to achieve financial goals
 
 ### Three Types of Financial Manager Decisions
-| Decision type | What it is | Example / Test cue |
-|---------------|------------|-------------------|
-| **Investment decision** | Evaluate whether spending money on something is worth it | Is R&D for a new product worth it? |
-| **Financing decision** | How to raise/fund money for investments / capital structure | **Issuing new stocks and bonds**; Hannah raising $5M after project approved |
-| **Working capital management** | Day-to-day cash flow management | Inventory, receivables, payables |
-
-**Traps to avoid:**
-- Evaluating R&D / projects = **investment** decision (NOT working capital)
-- Issuing new stocks/bonds / raising funds after approval = **financing** decision (NOT investing)
+| Decision type | What it is | Test cues |
+|---------------|------------|-----------|
+| **Investment decision** | Assess costs/benefits of potential projects | R&D worth it?; assessing costs/benefits of projects |
+| **Financing decision** | Where to get funds / capital structure | Issue stocks/bonds; obtain a **loan** to buy equipment; Hannah raises $5M after approval |
+| **Working capital management** | Day-to-day cash flows | Inventory, receivables, payables |
 
 ### Financial Markets & Regulation
-| Market / body | Definition | Test cue |
-|---------------|------------|----------|
-| **Primary market** | Securities sold for the **first time** | Company issues bonds or stocks **for the first time** |
-| **Secondary market** | Securities traded **after** initial issuance | Trading among investors after IPO |
-| **SEC (U.S. Securities and Exchange Commission)** | Protect investors; maintain fair, orderly, efficient markets; facilitate capital formation | Focus responsibility tested: **protect investors** |
-
-**Remember:** First sale = primary; after that = secondary. SEC ≠ Fed (Fed ≠ “raise interest rates” as SEC’s job; SEC ≠ provide liquidity).
+| Item | Definition / role |
+|------|-------------------|
+| **Purposes of financial markets** | Provide **liquidity** and **determine prices** |
+| **Primary market** | First-time issuance (IPO / new stock to raise capital) |
+| **Secondary market** | Trading after initial issuance |
+| **Money market** | Institutions borrow/lend **short term**; highly liquid; typically **≤ 1 year** |
+| **SEC** | Protect investors; fair/orderly/efficient markets; capital formation |
+| **Central bank / Fed** | Controls money circulating; adjusts rates to regulate **inflation and unemployment** |
 
 ### Types of Financial Institutions
-| Type | Examples / Role | Test cue |
-|------|-----------------|----------|
-| **Depository** | Banks, credit unions — take deposits | Accept deposits |
-| **Contractual** | **Insurance companies** | Insurance = contractual |
-| **Investment institution** | **Mutual funds**; provide individuals and firms **access to financial markets** | Mutual fund / “access to markets” = investment institution |
-| **Pension fund** | Specializes in managing/administering **retirement funds** | Retirement funds = pension fund |
-| **Private equity (buyout)** | Receives money from institutional investors / wealthy individuals to **buy troubled companies**, improve them, earn returns by selling or going public | Troubled-company buyouts = private equity |
+| Type | Role / definition | Test cue |
+|------|-------------------|----------|
+| **Depository** | Accepts & pays interest on deposits; extends loans | Banks, credit unions |
+| **Contractual** | Insurance companies | Insurance = contractual |
+| **Insurance (how claims are paid)** | Invest premiums in stocks/bonds; use **returns** to pay claims | Not “withdraw from premium accounts” |
+| **Investment institution** | Provides individuals & firms **access to financial markets** | Mutual funds |
+| **Pension fund** | Retirement through employers | Employer retirement |
+| **Private equity** | Invest in firms **not on public exchanges**; buyout troubled companies → improve → sell/IPO | Non-public / troubled buyouts |
+| **Investment bank** | Complex deals like **mergers** | M&A help |
+| **Central bank** | Nation’s money supply / economy health | Fed |
 
 ### Economic Indicators — Leading, Lagging, Coincident (MUST KNOW)
-Know the **timing relative to the economy**, not just the names.
+| Type | When it moves | Examples from YOUR tests | Extra tested facts |
+|------|---------------|--------------------------|--------------------|
+| **Leading** | **Before** economy changes | **Yield curve** | Inverted curve → may signal **economic downturn** (low/negative future growth) |
+| **Coincident** | **During** / with the economy | **Personal income** | Useful: analyzed during shifts to show **current** state of economy (big picture). Note: GDP & personal income are coincident — they do **not** predict the future |
+| **Lagging** | **After** economy changes | **CPI**, **unemployment rate** | Confirm what already happened |
 
-| Type | When it moves | Meaning / Use | Examples from your tests so far |
-|------|---------------|---------------|----------------------------------|
-| **Leading** | **Before** the economy changes | Predict / signal future economic shifts | **Yield curve** (Module quiz) |
-| **Coincident** | **At the same time** as the economy | Change **as** economic shifts happen | **Personal income** (Form A) |
-| **Lagging** | **After** the economy changes | Confirm what already happened | **CPI** (Form B) |
+**Memory:** Leading = ahead | Coincident = with | Lagging = behind
 
-**Memory hook:**
-- Leading = **looks ahead** (predicts)
-- Coincident = **coincides** / moves **with** the economy
-- Lagging = **lags behind** (follows after)
+### Ethics Terms (Distinguish Carefully)
+| Term | Meaning | Test note |
+|------|---------|-----------|
+| **Ethical** | Based on **accepted standards of conduct** | Society/industry accepted standards |
+| **Moral** | Person’s **beliefs** about right/wrong, good/bad, just/unjust | Personal sense of right/wrong |
+| **Legal** | In accordance with **laws/rules of an authority** | Legal error → government **penalty/repercussion** |
+| **Standard** | Measure, norm, or model for comparison | |
 
-**Tested facts (your materials only):**
-- Personal income → **coincident**
-- CPI → **lagging**
-- Yield curve → **leading**
-- **Inverted yield curve** (short-term rates **higher** than long-term rates) → may indicate an **economic downturn**
-- Do **not** confuse coincident with lagging: coincident = during; lagging = after
+**Moral vs ethical trap (Lucas / Bullzai):**
+- Practice is legal + commonly accepted in industry → **not** legal issue, **not** ethical issue
+- But advisor knows it’s not in clients’ best interest → **moral** dilemma (his own sense of right/wrong)
 
-### Ethics Terms (Distinguish These)
-| Term | Meaning |
-|------|---------|
-| **Ethical** | Accepted **standards of conduct** that guide a person’s behavior |
-| **Moral** | One’s beliefs about right/wrong, good/bad, just/unjust |
-| **Legal** | An action in accordance with the **laws and rules set by an authority** |
-| **Standard** | An idea/thing used as a measure, norm, or model |
+**Nora (investment manager) ethical dilemma:**
+- Considering a risky client investment **just to meet her monthly goal** = ethical dilemma (duty to client vs personal goal)
+
+**Other ethics applications:**
+- Maximize shareholder value **unethically** → often **decreases** shareholder value (costly results)
+- Moving production overseas: **unethical** = saving money by paying **inadequate wages** to overseas workers
+- Advisor (Jack): may recommend firm product if you **explain performance vs market** and don’t hide alternatives
 
 ### Steps to Solve an Ethical Dilemma
-1. **Identify and define the problem**
-2. **Consider alternative courses of action** ← second step (tested on Form A)
-3. Consider the consequences that may come from the action
-4. (Continue toward choosing/implementing the best ethical action — refine when more quizzes/transcripts cover this)
+1. Identify and define the problem  
+2. Consider alternative courses of action ← **2nd step**  
+3. **Consider all stakeholders involved** ← **3rd step** (confirmed)  
+4. Move forward with the chosen course of action  
 
-### Ethical Advisor Behavior (Jack scenario)
-- OK to recommend your firm’s product **if** you also explain performance vs market and don’t hide alternatives (e.g., cheaper index funds).
-- **Wrong:** only share info if asked; show only years the competitor did poorly; call your product “best” and waive fees to push it.
-- Rule: recommendation is fine; **hiding information is not**.
-
-### Agency Problems & Corporate Control
-- **Agency problem:** Managers (agents) follow **their own interests** instead of the owners’ interests
-- **Why manipulate accounting?** To make company performance look good → inflate earnings → optimize **bonuses / stock-price-related benefits** for management
-- **Example (Form B):** Officers/board sell stock at inflated prices based on **false accounting reports**
-- **How to reduce via corporate control:** **Executive compensation** — stocks and stock options align management with owners
-- Setting stricter goals alone does **not** necessarily reduce agency problems
-
-### Lenders / Bondholder Protection
-- If a risky project may leave a firm unable to repay a loan, a bank may **set a strict covenant** the company cannot easily achieve
-- Purpose: risk the firm won’t meet the covenant → **deters taking on risky projects** → protects the lender’s interest
+### Agency Problems & Bondholders
+| Concept | Remember |
+|---------|----------|
+| **Agency problem** | Managers follow **own interests** instead of owners’ |
+| Agency examples | Fake accounting + sell inflated stock; manager buys **company car** as company expense (luxury, doesn’t help shareholders) |
+| Why manipulate accounting? | Make performance look good → bonuses / stock benefits |
+| Mitigate agency costs | **Align managers’ interests with shareholders’** (usually ownership shares / executive compensation) |
+| Bondholders want | **Safe** projects with higher chance of being paid back |
+| Why strict bond contracts/covenants? | Bondholders primarily want to be **paid back**; deter risky projects |
+| Bank on risky loan | Set a **strict covenant** company can’t easily achieve |
 
 ---
 
-## Practice Questions — Unit 2 Form A (Correct Answers)
+## Practice Questions — Unit 2 Form A
 
-**1.** Which area of finance involves deciding which assets to invest in to create wealth in the future?  
-**Answer: Investments**
-
-**2.** What is the main goal of a firm?  
-**Answer: To maximize owner wealth**
-
-**3.** What are financial managers doing if they evaluate whether it is worth spending money on research and development for a new product?  
-**Answer: Making an investment decision**  
-Trap: Not managing working capital (day-to-day cash flows).
-
-**4.** Which type of financial market is where securities such as stocks and bonds are traded after their initial issuance?  
-**Answer: The secondary financial market**
-
-**5.** What type of financial institution is an insurance company?  
-**Answer: Contractual**
-
-**6.** Which financial institution invests funds contributed by a company to provide retirement funds for the company’s employees?  
-**Answer: Pension fund**
-
-**7.** Personal income is which type of economic indicator?  
-**Answer: Coincident**
-
-**8.** Which term refers to something that conforms with accepted standards of conduct that guide a person’s behavior?  
-**Answer: Ethical**
-
-**9.** What is the second step in finding a solution to an ethical dilemma?  
-**Answer: Consider alternative courses of action**
-
-**10.** How can agency problems be reduced through corporate control?  
-**Answer: Executive compensation**  
-Trap: Setting strict goals ≠ reducing agency problems.
+1. Assets for future wealth → **Investments**  
+2. Main goal of firm → **Maximize owner wealth**  
+3. R&D evaluation → **Investment decision**  
+4. After initial issuance → **Secondary market**  
+5. Insurance company type → **Contractual**  
+6. Company retirement funds → **Pension fund**  
+7. Personal income → **Coincident**  
+8. Standards of conduct → **Ethical**  
+9. 2nd ethical step → **Consider alternative courses of action**  
+10. Reduce agency via corporate control → **Executive compensation**  
 
 ---
 
-## Practice Questions — Unit 2 Form B (Correct Answers)
+## Practice Questions — Unit 2 Form B
 
-**1.** What are the main services offered by financial institutions?  
-**Answer: Accepting a wide variety of deposits, offering investment products, providing loans, and brokering financial transactions**
-
-**2.** What is the main objective of personal financial goals?  
-**Answer: To maximize individual utility**  
-Why: Goals increase satisfaction/happiness by covering necessities and priorities.  
-Contrast: Firm goal = maximize owner wealth (not the same as personal utility).
-
-**3.** Which task does the financial manager of a firm perform that involves the issuance of new stocks and bonds?  
-**Answer: Making financing decisions**  
-Trap: Not investing decisions — investing is choosing where to put money; financing is how to raise it.
-
-**4.** Why is understanding the definition of finance important in managing personal finances?  
-**Answer: It helps individuals compare the costs and benefits of an action to determine whether to take that action.**
-
-**5.** In which type of market would a company issue bonds or stocks for the first time?  
-**Answer: Primary market**
-
-**6.** Which type of financial institution is a mutual fund?  
-**Answer: Investment institution**  
-Why: Investment institutions provide individuals and firms access to financial markets.
-
-**7.** Which financial institution specializes in managing and administering retirement funds?  
-**Answer: Pension funds**
-
-**8.** Which type of economic indicator is the consumer price index?  
-**Answer: Lagging indicator**  
-Why: CPI usually changes **after** the economy as a whole changes.  
-Trap: Not coincident (coincident = changes as shifts happen).
-
-**9.** What does the term ethical refer to?  
-**Answer: The accepted standards of conduct that guide a person’s behavior**
-
-**10.** A company’s officers and board of directors are selling their stocks in the firm at higher prices due to false accounting reports that made the stock seem more valuable than it truly was. Which ethical issue is occurring?  
-**Answer: Agency problem due to conflicting interests**  
-Why: Accounting manipulation by management for higher stock-related compensation = agency problem.
+1. Institution services → **Deposits, investment products, loans, brokering transactions**  
+2. Personal goals objective → **Maximize individual utility**  
+3. Issuing stocks/bonds → **Financing decisions**  
+4. Why finance definition matters personally → **Compare costs and benefits**  
+5. First-time issue → **Primary market**  
+6. Mutual fund → **Investment institution**  
+7. Administer retirement funds → **Pension funds**  
+8. CPI → **Lagging**  
+9. Ethical means → **Accepted standards of conduct**  
+10. Fake accounting + sell stock → **Agency problem due to conflicting interests**  
 
 ---
 
-## Practice Questions — Unit 2 Module Assessment Section 1 (Correct Answers)
+## Practice Questions — Unit 2 Module Assessment Section 1 (earlier sets)
 
-### Set A — Personal finance / manager tasks
-**1.** What area of finance involves deciding which assets to invest in to create wealth in the future?  
-**Answer: Investments**
+**Personal / manager tasks:** Investments; Hannah $5M → financing; Spain trip goal → maximize individual utility; Financial planner; Omar car pay → financing a goal  
 
-**2.** Hannah’s project is approved; she must raise $5M via bonds/stocks/loan. What task?  
-**Answer: Making a financing decision**  
-Why: Project already approved → now funding / capital structure.
+**Markets / institutions / indicators:** SEC → protect investors; Access to markets → investment institutions; Troubled buyouts → private equity; Yield curve → leading; Inverted curve → downturn  
 
-**3.** Maria and Mateo save $200/month for a Spain trip. Objective of setting such a goal?  
-**Answer: To maximize individual utility**
-
-**4.** Which professional works with individuals to help them achieve their financial goals?  
-**Answer: Financial planner**
-
-**5.** Omar already decided to buy a $30k car; deciding loan vs cash mix. What is he doing?  
-**Answer: Financing a goal**
-
-### Set B — Markets, institutions, indicators
-**1.** Which responsibility is a focus of the U.S. Securities and Exchange Commission?  
-**Answer: To protect investors**  
-Also: fair/orderly/efficient markets; facilitate capital formation.
-
-**2.** Which type of financial institution provides individuals and firms access to financial markets?  
-**Answer: Investment institutions**
-
-**3.** Which institution buys troubled companies (with institutional/wealthy investor money) to improve and sell or take public?  
-**Answer: Private equity**
-
-**4.** Yield curve is which type of economic indicator?  
-**Answer: Leading**  
-Why: Leading indicators change **before** the economy changes.
-
-**5.** Short-term Treasuries now yield more than long-term (inverted curve). What does this indicate?  
-**Answer: It may indicate an economic downturn.**
-
-### Set C — Ethics & agency
-**1.** What does the term legal describe?  
-**Answer: An action that is in accordance with the laws and rules set by an authority.**
-
-**2.** Jack (advisor): firm product sometimes beats market, higher fees than index fund, selling it doubles loyalty. What should he do?  
-**Answer: Give a personal recommendation of the company’s product while explaining its performance relative to the market over the past several years.**  
-Why: Recommendation OK; never hide other information.
-
-**3.** Why might a manager manipulate accounting procedures?  
-**Answer: To make the company’s performance look good**  
-Why: Inflate earnings → bonuses / stock-price benefits.
-
-**4.** Which situation is an example of an agency problem?  
-**Answer: Managers follow their own interests instead of the owners’ interest.**
-
-**5.** Risky project may prevent loan repayment. What might the bank do to protect its interest?  
-**Answer: Set a strict covenant that the company cannot easily achieve.**  
-Why: Deters taking on risky projects.
+**Ethics / agency:** Legal = laws of authority; Jack → recommend + explain vs market; Manipulate accounting → look good; Agency = managers’ interests ≠ owners’; Bank → strict covenant  
 
 ---
 
-## Quick Memory Hooks (Unit 2 — Combined)
-- Institutions’ main services = deposits + investments + loans + brokerage  
-- Firm goal = **owner wealth**; personal goal = **individual utility**  
-- Financial planner = helps **individuals**  
-- Already buying, choosing how to pay → **financing a goal**  
-- R&D worth it? → **investment**; raise funds / issue stocks-bonds / Hannah $5M → **financing**  
-- First issue → **primary**; later trading → **secondary**  
-- SEC focus → **protect investors**  
-- Insurance → **contractual**; mutual fund / market access → **investment**; retirement → **pension**; troubled buyouts → **private equity**  
-- **Leading** = before (**yield curve**); **Coincident** = during (**personal income**); **Lagging** = after (**CPI**)  
-- Inverted yield curve (ST > LT rates) → possible **downturn**  
-- Ethical = standards of conduct; Legal = laws/rules of authority  
-- Ethical dilemma step 2 = **alternatives**; advisor must **not hide** alternatives  
-- Agency = managers’ interests ≠ owners’; accounting tricks to look good; fix via **executive compensation**  
-- Bank protection on risky loan → **strict covenant**  
-- Personal finance usefulness of “finance” = **cost vs benefit** comparison
+## Practice Questions — Unit 2 Module Assessment Section 1 (new batch)
+
+### Business finance / finance vs accounting / investments
+1. Sources of funding + capital structure + increase firm value → **Business finance**  
+2. Primary difference finance vs accounting → **Finance focuses on the future; accounting is generally backward-looking**  
+3. Subspecialty deciding which assets create wealth/positive returns → **Investments**  
+
+### Goals
+1. Primary goal of financial manager → **Maximize owner wealth**  
+2. Main question for any investment → **Do the benefits of this investment outweigh the costs?**  
+3. Primary aim of personal finance goals → **Maximize satisfaction from products purchased and services obtained** (= utility)  
+
+### Manager tasks / careers
+1. Obtain loan to buy equipment for a project → **Making financing decisions**  
+2. Invest in firms not on public exchanges → **Private equity**  
+3. Assess costs and benefits of potential projects → **Making investment decisions**  
+
+### Personal cash tools
+1. Tool for overall personal cash flows → **Budgeting**  
+2. Reasonable alternative to emergency cash stash → **Investing in a savings account**  
+3. Affordable mortgage to buy a house → **Financing**  
+
+### Markets
+1. Purposes of financial markets → **Provide liquidity and determine prices**  
+2. Stocks/bonds after initial issuance → **Secondary market**  
+3. Institutions borrow/lend short term → **Money market**  
+4. IPO / issue public stock first time → **Primary market**  
+
+### Institutions (roles)
+1. Primary role of financial institutions → **Conduct financial transactions such as investments, loans, and deposits**  
+2. Depository institution → **Accepts and pays interest on deposits and extends loans**  
+3. Controls money circulating / economy healthy → **Central bank**  
+4. How insurance pays claims → **Use returns from stocks and bonds**  
+5. Retirement through employers → **Pension fund**  
+6. Help large corps merge → **Investment bank**  
+
+### Indicators / Fed
+1. Unemployment rate → **Lagging**  
+2. Fed adjusts rates to → **Regulate inflation and unemployment**  
+3. Inverted yield curve signals → **Economic downturn**  
+4. Coincident indicators useful because → **Analyzed during economic shifts to provide information about the current state of the economy**  
+
+### Ethics distinctions & dilemmas
+1. Beliefs about right/wrong → **Moral**  
+2. Ethical action characterized by → **Accepted standards of conduct**  
+3. Lucas/Bullzai (legal + industry-accepted, but not client-best) → **Moral** dilemma  
+4. Error with government penalty → **Legal**  
+5. Nora investing clients in risk just for monthly goal → ethical dilemma because **considering risky asset just to meet her monthly goal**  
+6. Maximize shareholder value unethically → **Often leads to decreased shareholder value**  
+7. Unethical overseas move → **Paying inadequate wages to workers overseas**  
+
+### Bondholders / agency / ethical steps
+1. Strict bond contracts to deter risk → bondholders want to **be paid back**  
+2. Bondholders interested in → **Safe projects with higher chance of sufficient compensation**  
+3. Agency example → **Manager purchases a company car as company expense**  
+4. Mitigate agency costs → **Aligning managers’ interests with shareholders’ interests**  
+5. **Third** step in ethical dilemma → **Consider all stakeholders involved**  
+
+---
+
+## Quick Memory Hooks (Unit 2)
+- **Business finance** = funding + capital structure + firm value  
+- Finance = **future**; accounting = **past**  
+- Firm goal = **owner wealth**; personal = **utility/satisfaction**  
+- Investment test = **benefits ≥ costs**  
+- Assess projects = **investment**; get a loan/raise funds = **financing**  
+- Budget = cash flows; emergency cash alt = **savings account**; mortgage = **financing**  
+- Markets purpose = **liquidity + prices**; short-term = **money market**  
+- IPO = **primary**; later trading = **secondary**  
+- Institutions’ role = **transactions** (investments/loans/deposits)  
+- Depository = deposits + loans; insurance pays from **investment returns**; pension = employer retirement; PE = private/non-public; IB = mergers; central bank = money supply  
+- SEC = **protect investors**; Fed = **inflation & unemployment**  
+- Leading = yield curve; Coincident = personal income (+ current-state use); Lagging = CPI + **unemployment**  
+- Inverted curve → **downturn**  
+- Ethical = standards; Moral = personal beliefs; Legal = law + gov penalty  
+- Industry-accepted but wrong for client → **moral** (Lucas); risk for monthly goal → **ethical** (Nora)  
+- Unethical “max value” → often **hurts** value; inadequate overseas wages = unethical  
+- Agency = own interests / company car luxury; fix = **align** via ownership pay  
+- Bondholders = **safe projects** + paid back; banks use **strict covenants**  
+- Ethical steps: 1 problem → 2 alternatives → 3 **stakeholders** → 4 act  
 
 ---
 
 ## Material Log
 | Source | Status |
 |--------|--------|
-| Unit 2 Form A (10 Qs + explanations) | Captured — primary source |
-| Unit 2 Form B (10 Qs + explanations) | Captured — primary source |
-| Unit 2 Module Assessment Section 1 (3×5 Qs) | Captured — primary source |
-| Reddit OA tips (2024–2026) | Captured in `01-RESEARCH-REDDIT-QUIZLET.md` (strategy only) |
-| Quizlet | **ON HOLD** — validate later against full question set |
+| Unit 2 Form A | Captured |
+| Unit 2 Form B | Captured |
+| Unit 2 Module Assessment Section 1 (prior 3 sets) | Captured |
+| Unit 2 Module Assessment Section 1 (this large batch) | Captured |
+| Reddit OA tips | Strategy only |
+| Quizlet | ON HOLD |
 
-*(Add more units/forms/transcripts below as provided.)*
+*(Add more units/forms/transcripts as provided.)*
