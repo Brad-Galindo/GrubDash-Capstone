@@ -2,7 +2,7 @@
 ## Working Notes (accumulate until ready for final study guide)
 
 > Status: **Collecting material** — do not finalize full study guide until user says we have everything.
-> Trusted sources so far: Unit 2 (Forms A/B + module quizzes), Unit 3 Assessment Section 1 + Module 1 quiz (interest rates / inflation / required return / APR / hurdle rate)
+> Trusted sources so far: Unit 2 (Forms A/B + module quizzes), Unit 3 interest/inflation + TVM lesson/quiz
 > Reddit OA tips = strategy only | **Quizlet on hold** until full question set can validate matches
 
 ---
@@ -352,6 +352,61 @@ Required rate of return is composed of:
 
 ---
 
+# Unit 3 — Time Value of Money (TVM)
+
+## Key Concepts to Remember
+
+### TVM Core Idea
+| Concept | Remember |
+|---------|----------|
+| **Time value of money** | Money available **today** is worth **more** than the same amount in the future |
+| Why / what it considers | Amount of cash flows at different times with a certain interest rate |
+| Present value (PV) & Future value (FV) | **Relative** to other cash flows |
+
+### Compounding vs Discounting
+| Process | Direction | Meaning |
+|---------|-----------|---------|
+| **Compounding** | PV → FV | Finding a **future value** given a present value |
+| **Discounting** | FV → PV | Finding a **present value** given a future value |
+
+### Annuities
+| Type | Definition / cue |
+|------|------------------|
+| **Annuity (general)** | Equally spaced cash flows of **equal amounts** |
+| **Ordinary annuity** | Series of **equal payments** at the **end** of consecutive periods over a **fixed** length of time |
+| **Annuity due** | Equal payments at the **beginning** of periods (contrast with ordinary) |
+| **Perpetuity** | Annuity that continues forever (not a fixed length) |
+
+**Ordinary annuity keys (tested):** “at the **end** of each period” + “**fixed** period” + “**equal** payments”
+
+### TVM Example (quiz)
+- Invest $10,000 today + $5,000/year for 5 years at 4% → can withdraw **$39,248.14** in 5 years  
+- That $39,248.14 = **Future value** (worth of relative past cash flows; relative future to other cash flows)
+
+### Excel / TVM functions (from lesson)
+- Lesson covered Excel functions for TVM and their **input variables** (details to refine when you send Excel quizzes/transcripts)
+- Reddit reminder to verify later: TYPE 0 = end (ordinary); TYPE 1 = beginning (annuity due)
+
+---
+
+## Practice Questions — Unit 3 TVM Assessment Section 1
+
+1. Series of equal payments at the **end** of consecutive periods over a fixed length of time → **Ordinary annuity**  
+2. $10k today + $5k/year for 5 years at 4% → withdraw $39,248.14 in 5 years. What is $39,248.14? → **Future value**  
+3. Concept that a dollar today is worth more than a dollar in the future → **Time value of money**  
+
+---
+
+## Quick Memory Hooks (Unit 3 TVM so far)
+- TVM = **today’s dollar > future dollar**  
+- **Compounding** = PV → FV; **Discounting** = FV → PV  
+- PV/FV are **relative** to other cash flows  
+- Annuity = equal, equally spaced cash flows  
+- **Ordinary** = end of period; **Annuity due** = beginning; **Perpetuity** = forever  
+- Lump sum today + payments growing to a later amount → that later amount is **FV**  
+
+---
+
 ## Material Log
 | Source | Status |
 |--------|--------|
@@ -361,6 +416,8 @@ Required rate of return is composed of:
 | Unit 3 Assessment Section 1 (interest / required return / inflation) | Captured |
 | Unit 3 Module 1 quiz (APR, hurdle rate, Sophia scenario) | Captured |
 | Unit 3 Module Summary (interest rate names & components) | Captured |
+| Unit 3 TVM Lesson Summary | Captured |
+| Unit 3 TVM Assessment Section 1 (ordinary annuity, FV, TVM) | Captured |
 | Reddit OA tips | Strategy only |
 | Quizlet | ON HOLD |
 
