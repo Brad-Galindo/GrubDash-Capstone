@@ -2,7 +2,7 @@
 ## Working Notes (accumulate until ready for final study guide)
 
 > Status: **Collecting material** — do not finalize full study guide until user says we have everything.
-> Trusted sources so far: Unit 2 (Forms A/B + module quizzes), Unit 3 Assessment Section 1 (interest rates / inflation / required return)
+> Trusted sources so far: Unit 2 (Forms A/B + module quizzes), Unit 3 Assessment Section 1 + Module 1 quiz (interest rates / inflation / required return / APR / hurdle rate)
 > Reddit OA tips = strategy only | **Quizlet on hold** until full question set can validate matches
 
 ---
@@ -272,20 +272,31 @@ Required rate of return is composed of:
 | **Built-in inflation & adaptive expectations** | Prices ↑ → workers demand **higher wages** to keep living standard → pushes prices even higher |
 | What happens to prices with inflation? | **Prices rise** (from demand ↑, cost ↑, adaptive expectations) |
 
-### Risk Premium, Nominal Rate, Risk-Free Rate
+### Risk Premium, Nominal Rate, Risk-Free Rate, APR
 | Term | Meaning |
 |------|---------|
 | **Risk premium** | Compensation for risk given to investors |
 | **Nominal rate** | Rate at which invested money grows for a certain period; interest rate most often used in daily life; **includes inflation** → represents amount of money you’ll have in the future |
-| **Risk-free rate** | Return on an investment with **no risk**; indicator of **inflation and opportunity cost** |
-| **Real rate** | Reflects future **purchasing power** (contrast with nominal) |
+| **Risk-free rate** | Return on an investment with **no risk**; indicates **inflation and opportunity cost** (not risk) |
+| **Real rate** | Reflects future **purchasing power** / rate adjusted to remove effects of increased prices (contrast with nominal) |
+| **Annual percentage rate (APR)** | Interest rate expressed on an **annual** basis; annual interest rate charged for borrowing or earned through investment |
+| **Hurdle rate** | Another name for **required rate of return** — the **minimum** rate a firm must surpass to accept a project |
+| **Inflation rate** | Rate at which the **average price level of a basket of goods and services** in an economy increases |
+
+**Sophia stock example (application):**
+- Inflation 2–3%, Treasury ~2%, stock has significant risk
+- Expect return **higher than inflation** to cover opportunity costs and risks
+- Inflation reduces nominal returns → need higher return for risk + opportunity cost
+- Do **not** accept less than Treasuries when risk is higher; company doesn’t set her required return; still consider opportunity costs
 
 **Module summary hooks:**
 - Interest rate = % of principal lender charges borrower  
-- Also called discount rate / required rate / cost of capital  
+- Also called discount rate / required rate / cost of capital / **hurdle rate**  
 - Composed of opportunity cost, risk, inflation  
 - Inflation from increased demand, rising costs, built-in inflation  
 - Nominal includes inflation (future money amount); real = purchasing power  
+- Risk-free rate = inflation + opportunity cost  
+- APR = interest rate on an **annual** basis  
 
 ---
 
@@ -312,22 +323,32 @@ Required rate of return is composed of:
 2. Rate at which invested money grows for a certain period → **Nominal rate**  
 3. Component of interest rate that indicates inflation and opportunity cost → **Risk-free rate**  
 
+### Unit 3 Module 1 quiz (APR / hurdle / inflation rate / Sophia)
+1. Interest rate expressed on an annual basis → **Annual percentage rate (APR)**  
+2. Why is required rate of return also called the hurdle rate? → **It is the minimum rate that a firm must surpass to accept a project**  
+3. What is the inflation rate? → **Rate at which the average price level of a basket of goods and services in an economy increases**  
+4. What does the risk-free rate indicate? → **Inflation and opportunity cost**  
+5. Sophia: risky popular stock, inflation 2–3%, Treasuries ~2% — what return to expect? → **Based on inflation, expect a return higher than this for the associated risk** (cover opportunity costs + risks; inflation reduces nominal returns)  
+
 ---
 
 ## Quick Memory Hooks (Unit 3 so far)
-- Interest rate = **% of principal**; expressed as **percentage**  
+- Interest rate = **% of principal**; expressed as **percentage**; annual form = **APR**  
 - Purpose = pay to use someone else’s assets/funds  
-- Same idea aka: **discount rate / required rate / cost of capital**  
+- Same idea aka: **discount rate / required rate / cost of capital / hurdle rate**  
+- Hurdle = **minimum** return project must beat to be accepted  
 - Required return = **opportunity cost + risk + inflation**  
 - Longer term → **more risk + more opportunity cost** → higher required return  
 - Opportunity cost = what you **give up** (e.g., the car you don’t buy)  
 - Price rose while saving → forgot **inflation**  
+- Inflation rate = ↑ in average price of a **basket of goods/services**  
 - Demand inflation = shortage → prices ↑; built-in = wages chase prices  
 - Inflation → **prices rise**  
 - Risk compensation = **risk premium**  
 - Growth of money in daily life = **nominal** (includes inflation)  
-- Risk-free rate ≈ **inflation + opportunity cost** (no risk)  
+- Risk-free rate = **inflation + opportunity cost** (no risk)  
 - Nominal = future **money amount**; Real = **purchasing power**  
+- Risky stock + inflation → expect return **above inflation** for risk/opportunity cost  
 
 ---
 
@@ -338,6 +359,7 @@ Required rate of return is composed of:
 | Unit 2 Form B | Captured |
 | Unit 2 Module Assessment Section 1 (all sets) | Captured |
 | Unit 3 Assessment Section 1 (interest / required return / inflation) | Captured |
+| Unit 3 Module 1 quiz (APR, hurdle rate, Sophia scenario) | Captured |
 | Unit 3 Module Summary (interest rate names & components) | Captured |
 | Reddit OA tips | Strategy only |
 | Quizlet | ON HOLD |
