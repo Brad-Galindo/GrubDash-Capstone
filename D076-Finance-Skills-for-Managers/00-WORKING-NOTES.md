@@ -2,7 +2,7 @@
 ## Working Notes (accumulate until ready for final study guide)
 
 > Status: **Collecting material** — do not finalize full study guide until user says we have everything.
-> Trusted sources so far: Unit 2 Form A/B, Unit 2 Module Assessment Section 1 (multiple quiz sets)
+> Trusted sources so far: Unit 2 (Forms A/B + module quizzes), Unit 3 Assessment Section 1 (interest rates / inflation / required return)
 > Reddit OA tips = strategy only | **Quizlet on hold** until full question set can validate matches
 
 ---
@@ -239,13 +239,106 @@
 
 ---
 
+# Unit 3 — Interest Rates, Required Return & Inflation
+*(OA-heavy area per Reddit: interest rate / required rate / inflation often ~30%)*
+
+## Key Concepts to Remember
+
+### Interest Rate — Definition & Purpose
+| Concept | Remember |
+|---------|----------|
+| **Interest rate** | The **percentage of the principal** that a lender charges a borrower for the use of assets |
+| How it is expressed | As a **percentage** (not a dollar amount, ratio, or probability) |
+| **Main purpose of charging interest** | Borrowers pay to use assets/funds that belong to another entity to accomplish their own goals |
+| Other names for interest rate (perspective) | **Discount rate**, **required rate**, **cost of capital** |
+
+### Required Rate of Return — Components
+Required rate of return is composed of:
+1. **Opportunity cost**
+2. **Risk**
+3. **Inflation**
+
+| Idea | Remember |
+|------|----------|
+| **Long-term investments need higher required return** | Greater **risk** (harder to ensure return over longer time) + higher **opportunity cost** (money tied up longer) |
+| **Opportunity cost example** | Inherit $25k → put in savings → opportunity cost could be **buying a brand new $25k car** (what you give up) |
+| **Not opportunity cost** | Bank fees; emergency access; earning interest on the savings |
+| **Inflation example (Ahmed)** | Saved exactly $15k for a car; car now costs $16,562 → he forgot **inflation** |
+
+### Inflation
+| Cause / idea | Remember |
+|--------------|----------|
+| **Increased demand** | Demand ↑ → insufficient supply → **prices go up** until demand = supply again |
+| **Built-in inflation & adaptive expectations** | Prices ↑ → workers demand **higher wages** to keep living standard → pushes prices even higher |
+| What happens to prices with inflation? | **Prices rise** (from demand ↑, cost ↑, adaptive expectations) |
+
+### Risk Premium, Nominal Rate, Risk-Free Rate
+| Term | Meaning |
+|------|---------|
+| **Risk premium** | Compensation for risk given to investors |
+| **Nominal rate** | Rate at which invested money grows for a certain period; interest rate most often used in daily life; **includes inflation** → represents amount of money you’ll have in the future |
+| **Risk-free rate** | Return on an investment with **no risk**; indicator of **inflation and opportunity cost** |
+| **Real rate** | Reflects future **purchasing power** (contrast with nominal) |
+
+**Module summary hooks:**
+- Interest rate = % of principal lender charges borrower  
+- Also called discount rate / required rate / cost of capital  
+- Composed of opportunity cost, risk, inflation  
+- Inflation from increased demand, rising costs, built-in inflation  
+- Nominal includes inflation (future money amount); real = purchasing power  
+
+---
+
+## Practice Questions — Unit 3 Assessment Section 1
+
+### Interest rate basics
+1. Term for % of principal lender charges borrower for use of assets → **Interest rate**  
+2. How is interest rate expressed? → **As a percentage**  
+3. Main purpose of charging interest? → **Allows borrowers to pay to use the assets of another entity to accomplish their own goals**  
+
+### Required return / opportunity cost / inflation
+1. Component of required rate of return? → **Opportunity cost** (also risk & inflation make up the required rate)  
+2. Why long-term investment requires higher rate of return? → **Greater risk and higher opportunity cost**  
+3. Inherit $25k in savings — opportunity cost? → **Buying a brand new car worth $25,000**  
+4. Ahmed saved $15k for a car now priced $16,562 — which component did he forget? → **Inflation**  
+
+### Inflation causes / effects
+1. Why is built-in inflation linked to adaptive expectations? → **Workers want higher wages as prices increase, which pushes prices even higher**  
+2. Why does increased demand cause inflation? → **Insufficient supply → prices go up until demand equals supply again**  
+3. What happens to prices with inflation? → **Prices rise**  
+
+### Risk premium / nominal / risk-free
+1. Compensation for risk given to investors → **Risk premium**  
+2. Rate at which invested money grows for a certain period → **Nominal rate**  
+3. Component of interest rate that indicates inflation and opportunity cost → **Risk-free rate**  
+
+---
+
+## Quick Memory Hooks (Unit 3 so far)
+- Interest rate = **% of principal**; expressed as **percentage**  
+- Purpose = pay to use someone else’s assets/funds  
+- Same idea aka: **discount rate / required rate / cost of capital**  
+- Required return = **opportunity cost + risk + inflation**  
+- Longer term → **more risk + more opportunity cost** → higher required return  
+- Opportunity cost = what you **give up** (e.g., the car you don’t buy)  
+- Price rose while saving → forgot **inflation**  
+- Demand inflation = shortage → prices ↑; built-in = wages chase prices  
+- Inflation → **prices rise**  
+- Risk compensation = **risk premium**  
+- Growth of money in daily life = **nominal** (includes inflation)  
+- Risk-free rate ≈ **inflation + opportunity cost** (no risk)  
+- Nominal = future **money amount**; Real = **purchasing power**  
+
+---
+
 ## Material Log
 | Source | Status |
 |--------|--------|
 | Unit 2 Form A | Captured |
 | Unit 2 Form B | Captured |
-| Unit 2 Module Assessment Section 1 (prior 3 sets) | Captured |
-| Unit 2 Module Assessment Section 1 (this large batch) | Captured |
+| Unit 2 Module Assessment Section 1 (all sets) | Captured |
+| Unit 3 Assessment Section 1 (interest / required return / inflation) | Captured |
+| Unit 3 Module Summary (interest rate names & components) | Captured |
 | Reddit OA tips | Strategy only |
 | Quizlet | ON HOLD |
 
