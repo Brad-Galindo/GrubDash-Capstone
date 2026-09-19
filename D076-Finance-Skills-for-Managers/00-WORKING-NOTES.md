@@ -387,6 +387,16 @@ Required rate of return is composed of:
 - Lesson covered Excel functions for TVM and their **input variables** (details to refine when you send Excel quizzes/transcripts)
 - Reddit reminder to verify later: TYPE 0 = end (ordinary); TYPE 1 = beginning (annuity due)
 
+### TVM in Business & Personal Decisions
+| Concept | Remember |
+|---------|----------|
+| TVM influences | Both **business** and **personal** decision-making |
+| Break-even vs dollars received | Because of TVM, the break-even amount for an investment is **not comparable** to the actual dollar amount you receive over the investment period (must adjust for time) |
+| Why TVM matters in decisions | Benefits received at **different times** are comparable **only** when you consider TVM — find today’s value of future cash flows to compare costs and benefits |
+| Loan / mortgage length | **Longer** period → **higher** interest charged over life of loan → **more total interest** paid (even at the same rate) |
+
+**Mortgage example (tested):** $250k house; 20-year vs 30-year mortgage, both at 3.5% → **30-year** requires more **total interest** (same rate, longer life = more interest paid).
+
 ---
 
 ## Practice Questions — Unit 3 TVM Assessment Section 1
@@ -394,6 +404,10 @@ Required rate of return is composed of:
 1. Series of equal payments at the **end** of consecutive periods over a fixed length of time → **Ordinary annuity**  
 2. $10k today + $5k/year for 5 years at 4% → withdraw $39,248.14 in 5 years. What is $39,248.14? → **Future value**  
 3. Concept that a dollar today is worth more than a dollar in the future → **Time value of money**  
+
+### TVM decision-making quiz
+1. $250k house; 20-year vs 30-year mortgage, both 3.5% — which costs more total interest? → **A 30-year mortgage**  
+2. Why does TVM play an important role in financial decision-making? → **Benefits of investments received at different times are comparable only when you consider the time value of money**  
 
 ---
 
@@ -404,6 +418,9 @@ Required rate of return is composed of:
 - Annuity = equal, equally spaced cash flows  
 - **Ordinary** = end of period; **Annuity due** = beginning; **Perpetuity** = forever  
 - Lump sum today + payments growing to a later amount → that later amount is **FV**  
+- TVM lets you compare costs/benefits across **different times** (today’s value of future CFs)  
+- Longer loan life → **more total interest** (even at same rate)  
+- Break-even $ ≠ raw dollars received over time without TVM  
 
 ---
 
@@ -416,8 +433,8 @@ Required rate of return is composed of:
 | Unit 3 Assessment Section 1 (interest / required return / inflation) | Captured |
 | Unit 3 Module 1 quiz (APR, hurdle rate, Sophia scenario) | Captured |
 | Unit 3 Module Summary (interest rate names & components) | Captured |
-| Unit 3 TVM Lesson Summary | Captured |
-| Unit 3 TVM Assessment Section 1 (ordinary annuity, FV, TVM) | Captured |
+| Unit 3 TVM Lesson Summary (basics + decision-making) | Captured |
+| Unit 3 TVM Assessment quizzes (ordinary annuity, FV, TVM, mortgage interest, why TVM matters) | Captured |
 | Reddit OA tips | Strategy only |
 | Quizlet | ON HOLD |
 
