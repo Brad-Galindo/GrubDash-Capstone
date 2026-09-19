@@ -2,7 +2,8 @@
 ## Working Notes (accumulate until ready for final study guide)
 
 > Status: **Collecting material** — do not finalize full study guide until user says we have everything.
-> Sources so far: Unit 2 Form A, Unit 2 Form B
+> Sources so far: Unit 2 Form A, Unit 2 Form B, Reddit (2024–2026), high-match Quizlet sets
+> See also: `01-RESEARCH-REDDIT-QUIZLET.md`
 
 ---
 
@@ -56,22 +57,27 @@
 | **Pension fund** | Specializes in managing/administering **retirement funds**; invests company-contributed funds for employee retirement | Retirement funds = pension fund |
 
 ### Economic Indicators — Leading, Lagging, Coincident (MUST KNOW)
-Know the **timing relative to the economy**, not just the names.
+Know the **timing relative to the economy**, not just the names. Heavily tested on quizzes and called out on Reddit as OA-relevant.
 
-| Type | When it moves | Meaning | Examples tested so far |
-|------|---------------|---------|------------------------|
-| **Leading** | **Before** the economy changes | Predict / signal future economic shifts | (Watch for stock prices, building permits, etc. in future material) |
-| **Coincident** | **At the same time** as the economy | Change **as** economic shifts happen; move with the economy | **Personal income** |
-| **Lagging** | **After** the economy changes | Confirm what already happened; change after the economy as a whole changes | **Consumer Price Index (CPI)** |
+| Type | When it moves | Meaning / Use | High-likelihood examples |
+|------|---------------|---------------|--------------------------|
+| **Leading** | **Before** the economy changes | Predict / signal future economic shifts | **Yield curve**, stock market returns |
+| **Coincident** | **At the same time** as the economy | Analyzed **during** economic shifts to show the **current** state | **Personal income**, **GDP** |
+| **Lagging** | **After** the economy changes | Confirm what already happened | **CPI**, **unemployment rate** |
 
 **Memory hook:**
 - Leading = **looks ahead** (predicts)
 - Coincident = **coincides** / moves **with** the economy
 - Lagging = **lags behind** (follows after)
 
-**Tested facts:**
+**Tested / high-likelihood facts:**
 - Personal income → **coincident**
-- CPI → **lagging** (usually changes after the economy as a whole changes)
+- GDP → **coincident**
+- CPI → **lagging** (changes after the economy; ↑ CPI = inflation, ↓ CPI = deflation)
+- Unemployment rate → **lagging**
+- Yield curve → **leading**
+- **Inverted yield curve** (short-term rates > long-term rates) → may signal **economic downturn**
+- Coincident indicators are useful because they are analyzed during economic shifts to provide info about the **current** state of the economy
 - Do **not** confuse coincident with lagging: coincident = during; lagging = after
 
 ### Ethics Terms (Distinguish These)
@@ -84,9 +90,9 @@ Know the **timing relative to the economy**, not just the names.
 
 ### Steps to Solve an Ethical Dilemma
 1. **Identify and define the problem**
-2. **Consider alternative courses of action** ← second step (tested)
-3. Consider the consequences that may come from the action
-4. (Continue toward choosing/implementing the best ethical action)
+2. **Consider alternative courses of action** ← second step (tested on Form A)
+3. **Consider all stakeholders involved** ← third step (appears on Quizlet/course sets)
+4. Move forward with the chosen course of action
 
 ### Agency Problems & Corporate Control
 - **Agency problem:** Conflict between managers (agents) and owners (principals) — conflicting interests
@@ -180,11 +186,15 @@ Why: Accounting manipulation by management for higher stock-related compensation
 - R&D worth it? → **investment**; issue stocks/bonds? → **financing**  
 - First issue → **primary**; later trading → **secondary**  
 - Insurance → **contractual**; mutual fund → **investment**; retirement → **pension fund**  
-- **Leading** = before; **Coincident** = during (personal income); **Lagging** = after (CPI)  
+- **Leading** = before (yield curve, stock returns); **Coincident** = during (personal income, GDP); **Lagging** = after (CPI, unemployment)  
+- Inverted yield curve → possible **downturn**  
 - Ethical = standards of conduct (not morals, not laws)  
-- Ethical dilemma step 2 = **alternatives**  
+- Ethical dilemma: 1 problem → 2 alternatives → 3 stakeholders → 4 act  
 - Agency fix = **executive compensation**; fake accounting for stock gains = **agency problem**  
-- Personal finance usefulness of “finance” = **cost vs benefit** comparison
+- Personal finance usefulness of “finance” = **cost vs benefit** comparison  
+- Finance = forward-looking; accounting = backward-looking  
+- Markets purpose = **liquidity + prices**; money market = short-term lending/borrowing  
+- Fed rate changes → regulate **inflation & unemployment**; SEC → **protect investors**
 
 ---
 
@@ -193,5 +203,6 @@ Why: Accounting manipulation by management for higher stock-related compensation
 |--------|--------|
 | Unit 2 Form A (10 Qs + explanations) | Captured |
 | Unit 2 Form B (10 Qs + explanations) | Captured |
+| Reddit research (2024–2026) + Quizlet high-match Qs | Captured → `01-RESEARCH-REDDIT-QUIZLET.md` |
 
 *(Add more units/forms/transcripts below as provided.)*
