@@ -2,8 +2,8 @@
 ## Working Notes (accumulate until ready for final study guide)
 
 > Status: **Collecting material** — do not finalize full study guide until user says we have everything.
-> Sources so far: Unit 2 Form A, Unit 2 Form B, Reddit (2024–2026), high-match Quizlet sets
-> See also: `01-RESEARCH-REDDIT-QUIZLET.md`
+> Sources so far: Unit 2 Form A, Unit 2 Form B, Reddit OA tips (2024–2026)
+> **Quizlet on hold:** Do not use Quizlet as a source until all course questions are collected and we can validate which Quizlet items actually match.
 
 ---
 
@@ -57,28 +57,25 @@
 | **Pension fund** | Specializes in managing/administering **retirement funds**; invests company-contributed funds for employee retirement | Retirement funds = pension fund |
 
 ### Economic Indicators — Leading, Lagging, Coincident (MUST KNOW)
-Know the **timing relative to the economy**, not just the names. Heavily tested on quizzes and called out on Reddit as OA-relevant.
+Know the **timing relative to the economy**, not just the names. Heavily tested on your unit quizzes; also called out on Reddit as OA-relevant.
 
-| Type | When it moves | Meaning / Use | High-likelihood examples |
-|------|---------------|---------------|--------------------------|
-| **Leading** | **Before** the economy changes | Predict / signal future economic shifts | **Yield curve**, stock market returns |
-| **Coincident** | **At the same time** as the economy | Analyzed **during** economic shifts to show the **current** state | **Personal income**, **GDP** |
-| **Lagging** | **After** the economy changes | Confirm what already happened | **CPI**, **unemployment rate** |
+| Type | When it moves | Meaning / Use | Examples from your tests so far |
+|------|---------------|---------------|----------------------------------|
+| **Leading** | **Before** the economy changes | Predict / signal future economic shifts | (add as your quizzes name them) |
+| **Coincident** | **At the same time** as the economy | Change **as** economic shifts happen; move with the economy | **Personal income** (Form A) |
+| **Lagging** | **After** the economy changes | Confirm what already happened | **CPI** (Form B) |
 
 **Memory hook:**
 - Leading = **looks ahead** (predicts)
 - Coincident = **coincides** / moves **with** the economy
 - Lagging = **lags behind** (follows after)
 
-**Tested / high-likelihood facts:**
+**Tested facts (your materials only):**
 - Personal income → **coincident**
-- GDP → **coincident**
-- CPI → **lagging** (changes after the economy; ↑ CPI = inflation, ↓ CPI = deflation)
-- Unemployment rate → **lagging**
-- Yield curve → **leading**
-- **Inverted yield curve** (short-term rates > long-term rates) → may signal **economic downturn**
-- Coincident indicators are useful because they are analyzed during economic shifts to provide info about the **current** state of the economy
+- CPI → **lagging** (usually changes after the economy as a whole changes)
 - Do **not** confuse coincident with lagging: coincident = during; lagging = after
+
+*(Extra indicator examples from outside sources parked until we validate against your full question set.)*
 
 ### Ethics Terms (Distinguish These)
 | Term | Meaning |
@@ -91,8 +88,8 @@ Know the **timing relative to the economy**, not just the names. Heavily tested 
 ### Steps to Solve an Ethical Dilemma
 1. **Identify and define the problem**
 2. **Consider alternative courses of action** ← second step (tested on Form A)
-3. **Consider all stakeholders involved** ← third step (appears on Quizlet/course sets)
-4. Move forward with the chosen course of action
+3. Consider the consequences that may come from the action
+4. (Continue toward choosing/implementing the best ethical action — refine when more of your quizzes/transcripts cover this)
 
 ### Agency Problems & Corporate Control
 - **Agency problem:** Conflict between managers (agents) and owners (principals) — conflicting interests
@@ -186,23 +183,20 @@ Why: Accounting manipulation by management for higher stock-related compensation
 - R&D worth it? → **investment**; issue stocks/bonds? → **financing**  
 - First issue → **primary**; later trading → **secondary**  
 - Insurance → **contractual**; mutual fund → **investment**; retirement → **pension fund**  
-- **Leading** = before (yield curve, stock returns); **Coincident** = during (personal income, GDP); **Lagging** = after (CPI, unemployment)  
-- Inverted yield curve → possible **downturn**  
+- **Leading** = before; **Coincident** = during (personal income); **Lagging** = after (CPI)  
 - Ethical = standards of conduct (not morals, not laws)  
-- Ethical dilemma: 1 problem → 2 alternatives → 3 stakeholders → 4 act  
+- Ethical dilemma step 2 = **alternatives**  
 - Agency fix = **executive compensation**; fake accounting for stock gains = **agency problem**  
-- Personal finance usefulness of “finance” = **cost vs benefit** comparison  
-- Finance = forward-looking; accounting = backward-looking  
-- Markets purpose = **liquidity + prices**; money market = short-term lending/borrowing  
-- Fed rate changes → regulate **inflation & unemployment**; SEC → **protect investors**
+- Personal finance usefulness of “finance” = **cost vs benefit** comparison
 
 ---
 
 ## Material Log
 | Source | Status |
 |--------|--------|
-| Unit 2 Form A (10 Qs + explanations) | Captured |
-| Unit 2 Form B (10 Qs + explanations) | Captured |
-| Reddit research (2024–2026) + Quizlet high-match Qs | Captured → `01-RESEARCH-REDDIT-QUIZLET.md` |
+| Unit 2 Form A (10 Qs + explanations) | Captured — primary source |
+| Unit 2 Form B (10 Qs + explanations) | Captured — primary source |
+| Reddit OA tips (2024–2026) | Captured in `01-RESEARCH-REDDIT-QUIZLET.md` (strategy only) |
+| Quizlet | **ON HOLD** — validate later against full question set |
 
 *(Add more units/forms/transcripts below as provided.)*
