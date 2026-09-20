@@ -391,9 +391,15 @@ Required rate of return is composed of:
 | Annuity due PV example | $5,000/year for 20 years, 3% discount → TYPE = **1** |
 | **FV function argument order** | `FV(rate, nper, pmt, pv, type)` — reference cells in that order |
 | Ordinary annuity FV example | Save $1,000/year for 10 years at 3% → `=FV(C2,C3,C4,C5,C6)` style (rate, nper, pmt, pv, type); TYPE typically **0** for ordinary |
-| When to use **PV** | Finding lump sum **needed now** to support future withdrawals / relative **past** value of future cash flows (e.g., withdraw $10k/year for 5 years at 3%) |
-| When to use **FV** | Finding future worth of current/past cash flows |
+| When to use **PV** | Finding lump sum **needed now** to support future withdrawals / relative **past** value of future cash flows (e.g., withdraw $10k/year for 5 years at 3%); also FV/PV of a **single sum** given an interest rate |
+| When to use **FV** | Finding future worth of current/past cash flows (single sum or annuity) |
+| Also learn | **PMT**, **RATE**, **NPER** Excel functions |
+| When to use **NPV** | Present value of **uneven** cash flows in **one step** |
+| When to use **IRR** | Rate of return on **uneven** cash flows; references **cash flows only** (not the discount rate) |
+| IRR example | To find interest rate of a cash-flow series → `=IRR(B3:E3)` (range of cash flows only) |
 | Other functions mentioned | NPER, RATE (not the right pick for “lump sum needed now”) |
+
+**Compounding interest:** Interest is calculated on the **principal + earned interest** (interest on interest).
 
 **Sign/timing tip (verify in Excel lessons):** payments “starting today” / beginning → TYPE 1; end of period → TYPE 0; money leaving usually negative for PMT.
 
@@ -424,11 +430,16 @@ Required rate of return is composed of:
 2. FV of ordinary annuity; inputs in C2:C6 — correct formula? → **`=FV(C2,C3,C4,C5,C6)`** (rate, nper, pmt, pv, type cell refs)  
 3. Lump sum needed now to withdraw $10,000/year for 5 years at 3% — which Excel function? → **PV function**  
 
+### Compounding / uneven cash flows (NPV & IRR) quiz
+1. Present value of **uneven** cash flows in one step → **NPV**  
+2. Find interest rate of a cash-flow series (discount rate shown but not used in formula) → **`=IRR(B3:E3)`** (IRR of cash flows only)  
+
 ---
 
 ## Quick Memory Hooks (Unit 3 TVM so far)
 - TVM = **today’s dollar > future dollar**  
 - **Compounding** = PV → FV; **Discounting** = FV → PV  
+- Compounding interest = interest on **principal + earned interest**  
 - PV/FV are **relative** to other cash flows  
 - Annuity = equal, equally spaced cash flows  
 - **Ordinary** = end of period (TYPE **0**); **Annuity due** = beginning (TYPE **1**); **Perpetuity** = forever  
@@ -436,7 +447,8 @@ Required rate of return is composed of:
 - TVM lets you compare costs/benefits across **different times** (today’s value of future CFs)  
 - Longer loan life → **more total interest** (even at same rate)  
 - Break-even $ ≠ raw dollars received over time without TVM  
-- Excel: reference cells; FV args = rate, nper, pmt, pv, type  
+- Excel equal CFs: PV, FV, PMT, RATE, NPER  
+- Excel uneven CFs: **NPV** = PV in one step; **IRR** = rate of return (cash flows only)  
 - Need money **now** for future withdrawals → **PV**; grow money to later date → **FV**  
 
 ---
@@ -453,6 +465,7 @@ Required rate of return is composed of:
 | Unit 3 TVM Lesson Summary (basics + decision-making) | Captured |
 | Unit 3 TVM Assessment quizzes (ordinary annuity, FV, TVM, mortgage interest, why TVM matters) | Captured |
 | Unit 3 Excel TVM quiz (TYPE 1, FV cell refs, PV for lump sum now) | Captured |
+| Unit 3 Excel lesson (compounding, PMT/RATE/NPER, NPV/IRR) + quiz | Captured |
 | Reddit OA tips | Strategy only |
 | Quizlet | ON HOLD |
 
