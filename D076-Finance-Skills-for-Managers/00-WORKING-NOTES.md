@@ -2,7 +2,7 @@
 ## Working Notes (accumulate until ready for final study guide)
 
 > Status: **Collecting material** — do not finalize full study guide until user says we have everything.
-> Trusted sources so far: Unit 2 (Forms A/B + module quizzes), Unit 3 interest/inflation + TVM lesson/quiz
+> Trusted sources so far: Unit 2; Unit 3 (interest/TVM/Excel/returns); Risk; Ratio analysis (DuPont, liquidity, etc.)
 > Reddit OA tips = strategy only | **Quizlet on hold** until full question set can validate matches
 
 ---
@@ -453,19 +453,201 @@ Required rate of return is composed of:
 
 ---
 
+# Unit 3 — Returns (NEW from this batch)
+
+## Key Concepts
+| Term | Definition |
+|------|------------|
+| **Return** | Money **gained or lost** on an investment over some period of time |
+| **Holding period return** | Return over the **entire period** an investor owns a financial security |
+| **Expected return** | Hypothesized estimate of future returns under different scenarios based on **expectational data** / probability of scenarios |
+| **Real rate (purchasing power)** | Roughly **nominal return − inflation** — use to compare purchasing power across years |
+
+**Purchasing power example:** 1980: inflation 5%, return 15% → real ≈ 10%. 2010: inflation 5%, return 12% → real ≈ 7%. Stockholders gained greater purchasing power in **1980** because the **real rate** was higher.
+
+### Practice — Returns
+1. What is a return? → **Gain or loss on an investment over some period of time**  
+2. What is an expected return? → **Hypothesized estimate of future returns under different scenarios based on expectational data**  
+3. 1980 vs 2010 purchasing power (same 5% inflation; returns 15% vs 12%) → **1980 because the real rate was higher**  
+4. What makes expected return subjective/different? → **Based on expectational data and the probability of different scenarios occurring**  
+
+---
+
+# Risk (Market / Firm-Specific / Reduction)
+
+## Key Concepts
+| Concept | Remember |
+|---------|----------|
+| **Risk (in finance)** | Possibility that the **realized/actual return** will differ from the **expected return** |
+| **Systematic / market risk** | Economy-wide; **cannot be diversified away** |
+| **Firm-specific / idiosyncratic risk** | Company problems (lawsuits, labor, management, etc.); **can be diversified away** |
+| **Interest rate risk** | Market risk where bond value is affected by changes in interest rates |
+| **Default risk** | **Firm-specific** risk from probability of loss if borrower fails to repay a contractual obligation |
+| **Price risk — operating risk** | Depends on the effect of the firm’s **operating decisions** on its operating costs |
+
+### Risk reduction techniques
+| Technique | Meaning / example |
+|-----------|-------------------|
+| **Diversification** | “Spreading” money over many different assets; reduces **firm-specific** risk (only up to a point — market risk remains) |
+| **Risk separation** | Dispersing assets **geographically** instead of concentrating in one location (differs from diversification) |
+| **Risk transfer** | e.g., **buying home insurance** — risk transferred from policyholder to insurer |
+| **Risk retention** | Keep risk when cost of pursuing the activity is believed **less than the alternative** |
+
+### Risk–return & time
+| Idea | Remember |
+|------|----------|
+| Systematic risk differs by firm | **Utility companies** → **low** systematic risk (move with market in a diminished way); luxury often higher |
+| Higher return | Typically **higher risk** / greater uncertainty |
+| **Time diversification** | Stock investments are **more risky over a shorter period** than over a longer period |
+| CAPM idea (lesson) | Trade-off between risk and return; higher systematic risk → higher expected return |
+
+### Practice — Risk
+1. Risk in finance → **Actual/realized return may differ from expected return**  
+2. Market vs firm-specific → **Market cannot be diversified away; firm-specific can**  
+3. Firm-specific risk → Problems from lawsuits, labor, management, etc.  
+4. Interest rate risk → **Market risk**; bond value affected by rate changes  
+5. Risk reduced by variety of assets in portfolio → **Firm-specific risk**  
+6. Risk separation vs diversification → Separation = disperse assets **geographically**  
+7. Risk transfer example → **Buying home insurance**  
+8. Why retain risk? → Cost of activity believed **less than the alternative**  
+9. Utilities’ systematic risk → **Low** (diminished co-movement with market)  
+10. Time & stocks → **More risky short-term than long-term**  
+11. Higher return tends to mean → **Higher risk**  
+12. Competitor hit + wage cuts → labor strike → **Idiosyncratic / firm-specific risk**  
+13. Price risk type correctly identified → **Operating risk** (operating decisions → operating costs)  
+14. Spreading money over many assets → **Diversification**  
+15. Default risk → **Firm-specific**; loss if borrower fails to repay  
+
+---
+
+# Ratio Analysis (OA-heavy)
+
+## Why ratios matter
+| Idea | Remember |
+|------|----------|
+| Purpose | Compare companies of different sizes/strategies/risk; evaluate performance; know what to focus on |
+| **Flexibility** | Not regulated — can **create new ratios** as needed (e.g., cash / short-term obligations when AR slow & inventory illiquid) |
+| **Standardization** | Makes firms of different sizes comparable |
+| Useful through comparisons | **Trend analysis**, **cross-sectional analysis**, **progress measurement** |
+| Shareholders use | Help determine whether firm is **maximizing shareholder wealth** |
+| Benchmarking | Compare firm to similar firms / peer group |
+
+### Comparison methods
+| Method | Meaning |
+|--------|---------|
+| **Trend analysis** | Firm’s performance **over time** |
+| **Cross-sectional analysis** | Firm vs **competitors / industry / peer group** |
+| **Progress measurement** | Compare current ratio to a **goal** and track progress toward it |
+| **Benchmarking** | Performance relative to similar firms |
+
+## Five major ratio types
+| Type | What it measures |
+|------|------------------|
+| **Liquidity** | Ability to meet **short-term** obligations (often without raising external capital). **Suppliers** care about these |
+| **Activity (efficiency / asset use)** | How well assets generate **sales or cash** |
+| **Leverage / Financing** | How firm is financed (debt vs equity); ability to pay interest & long-term obligations |
+| **Profitability** | How well management maximizes shareholder wealth; performance & cost efficiency |
+| **Market** | Evaluate **current share price** of public firm’s stock |
+
+### Key specific ratios
+| Ratio | Type / meaning |
+|-------|----------------|
+| **Current ratio** | Liquidity — meet short-term obligations |
+| **Quick ratio** | Liquidity — like current but **excludes inventory** (inventory least liquid; more stringent) |
+| **Inventory turnover** | Activity — inventory management; **high vs industry** may mean **not enough inventory** (customers wait) |
+| **AR turnover** | Activity — collecting receivables |
+| **Average collection period (ACP)** | Days on average to collect AR. ACP 70 → takes **70 days** to collect. If ACP 67 vs industry 40 → **tighten credit standards** |
+| **Total asset turnover (TAT)** | Activity — sales per dollar of assets (higher = more efficient asset use) |
+| **Fixed asset turnover (FAT)** | Activity — fixed asset efficiency |
+| **OIROI** | Activity — operating income return on investment |
+| **Debt ratio** | Leverage — % of **assets financed by debt** (40% → 40% of assets financed by debt) |
+| **Times interest earned (TIE)** | Ability to pay interest / long-term obligations |
+| **Gross margin** | Profitability — % of sales that become gross profit (after COGS); useful for production cost efficiency / profit per widget before other op costs |
+| **Operating margin** | Profitability — pre-interest; useful to **compare firms with different capital structures** |
+| **Net margin** | Profitability — % of revenue retained as profit (NI/Sales). 7% → 7 cents per $1 sales remain for **equity holders** after all costs |
+| **Market-to-book (M/B)** | Market — growth prospects; **>1** expected to grow; **<1** = **value stock** |
+| **Price-to-earnings (P/E)** | Market — assess if stock/firm correctly valued |
+
+### DuPont framework (MUST KNOW)
+**ROE** = Net Margin × Total Asset Turnover × Leverage Multiplier  
+Also: **ROE = ROA × Leverage Multiplier** (ROA is a DuPont component path)
+
+| Idea | Remember |
+|------|----------|
+| What DuPont shows | How **profitability**, **asset management**, and **financing** contribute to ROE |
+| Component of ROE | **Net margin** (also TAT & leverage) |
+| ↑ ROE (all else constant) | **Increasing debt financing** (↑ leverage multiplier); **↑ net margin** (cut costs); **↓ equity financing** + ↑ net margin |
+| Identical ROE, different financing | BigDog 40% debt vs SmallDog 100% equity → SmallDog has **higher ROA** (same ROE, smaller leverage multiplier) |
+| Same PM & AT, higher ROE | Firm uses **higher proportion of debt** (larger leverage multiplier) |
+| Improve ROE | Successfully cut production costs to boost **net margin** |
+
+### Extra applications
+- Paying off short-term loans more quickly → **liquidity ratio increasing**  
+- Different ratio types needed because they inform **different parts** of the firm  
+- Ratios useful across firm sizes because they provide **standardization**  
+
+### Practice — Ratios (selected from quizzes)
+1. Ratio use example → compare to peer group = **cross-sectional**  
+2. Why flexible? → **Not regulated; invent as needed**  
+3. Help shareholders? → Determine if maximizing **shareholder wealth**  
+4. Compare to similar firms → **Benchmarking**  
+5. Short-term obligations without external capital → **Liquidity ratios**  
+6. Why many ratio types? → Info about **different parts** of firm  
+7. Leverage ratios describe → **Proportions of equity and debt** financing assets  
+8. Paying ST loans faster → **Liquidity ratio increasing**  
+9. Current ratio type → **Liquidity**  
+10. Current vs quick → Quick **excludes inventory**  
+11. M/B = 1.2 → firm **expected to grow**  
+12. Net margin measures → % of revenue retained as **profit**  
+13. ROE component → **Net margin**  
+14. DuPont helps how? → Profits, assets, financing → ROE  
+15. ↑ ROE all else equal → **Increasing debt financing**  
+16. DuPont component → **Return on assets** (ROE = ROA × leverage)  
+17. Improve ROE → **Cut costs / boost net margin**  
+18. Same ROE; one all-equity → all-equity has **higher ROA**  
+19. Actions that ↑ ROE → **Decrease equity financing + increase net margin**  
+20. Goal ratio 1.5→2 via cost cuts → **Progress measurement**  
+21. Market ratios purpose → Evaluate **current share price**  
+22. Profit per Widget (COGS only) → **Gross margin**  
+23. What shows what drives ROE changes → **DuPont framework**  
+24. Who uses assets more efficiently → Higher **asset turnover**  
+25. Performance over time → **Trend analysis**  
+26. vs competitors/industry → **Cross-sectional analysis**  
+27. Suppliers interested in → **Liquidity ratios**  
+28. Avg time to collect AR → **Average collection period**  
+29. Debt ratio 40% → **40% of assets financed by debt**  
+30. Operating margin useful for → Comparing profitability of firms with **different capital structures**  
+31. ACP of 70 → **70 days to collect AR**  
+32. High inventory turnover vs peers → **Not enough inventory**; customers wait  
+33. ROA vs ROE → ROE considers **capital structure**; ROA does not  
+34. Improve ROE (same leverage & AT) → **Reduce costs / improve profitability**  
+35. Ratios across sizes → **Standardization**  
+36. Create cash/ST obligations ratio → **Flexibility**  
+37. Activity = efficiency because → Measure asset use to generate sales/cash  
+38. How financed + pay interest/LT obligations → **Financing ratios**  
+39. Net margin 7% → 7¢ per $1 sales for **equity holders**  
+40. ACP 67 vs industry 40 → **Tighten credit standards**  
+41. Current vs quick again → Inventory excluded from quick  
+42. M/B < 1 stock term → **Value stock**  
+43. Inventory turnover assesses → **Inventory management**  
+44. Same PM & AT, higher ROE → **Higher proportion of debt**  
+
+---
+
+## Note on this batch
+Interest rate / TVM / Excel quizzes in this paste were **already captured** earlier — not re-logged as new unique items.
+
+---
+
 ## Material Log
 | Source | Status |
 |--------|--------|
-| Unit 2 Form A | Captured |
-| Unit 2 Form B | Captured |
-| Unit 2 Module Assessment Section 1 (all sets) | Captured |
-| Unit 3 Assessment Section 1 (interest / required return / inflation) | Captured |
-| Unit 3 Module 1 quiz (APR, hurdle rate, Sophia scenario) | Captured |
-| Unit 3 Module Summary (interest rate names & components) | Captured |
-| Unit 3 TVM Lesson Summary (basics + decision-making) | Captured |
-| Unit 3 TVM Assessment quizzes (ordinary annuity, FV, TVM, mortgage interest, why TVM matters) | Captured |
-| Unit 3 Excel TVM quiz (TYPE 1, FV cell refs, PV for lump sum now) | Captured |
-| Unit 3 Excel lesson (compounding, PMT/RATE/NPER, NPV/IRR) + quiz | Captured |
+| Unit 2 (all prior) | Captured |
+| Unit 3 interest / inflation / APR / hurdle | Captured |
+| Unit 3 TVM + Excel (PV/FV/TYPE/NPV/IRR) | Captured |
+| Unit 3 Returns (return, expected return, real rate) | Captured |
+| Risk lessons + quizzes (market/firm-specific, diversification, transfer, retention, time diversification, default, operating risk) | Captured |
+| Ratio analysis lessons + quizzes (5 types, specific ratios, DuPont, comparison methods, Assessment Section 2) | Captured |
 | Reddit OA tips | Strategy only |
 | Quizlet | ON HOLD |
 
