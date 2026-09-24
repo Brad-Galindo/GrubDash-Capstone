@@ -2,7 +2,7 @@
 ## Working Notes (accumulate until ready for final study guide)
 
 > Status: **Collecting material** — do not finalize full study guide until user says we have everything.
-> Trusted sources so far: Unit 2; Unit 3 (interest/TVM/Excel/returns); Risk; Ratio analysis (DuPont, liquidity, etc.)
+> Trusted sources so far: Unit 2; Unit 3 (interest/TVM/Excel/returns); Risk; Ratio analysis; Unit 5 (cash budgeting + financial forecasting / DFN / SGR)
 > Reddit OA tips = strategy only | **Quizlet on hold** until full question set can validate matches
 
 ---
@@ -634,8 +634,234 @@ Also: **ROE = ROA × Leverage Multiplier** (ROA is a DuPont component path)
 
 ---
 
-## Note on this batch
-Interest rate / TVM / Excel quizzes in this paste were **already captured** earlier — not re-logged as new unique items.
+# Unit 5 — Cash Budgeting & Financial Forecasting (OA-heavy)
+
+## A. Cash Budgeting (Short-term)
+
+### What / horizon / uses
+| Idea | Remember |
+|------|----------|
+| **Cash budget** | Forecast of **short-term** events to see if firm has enough cash for operations |
+| Time horizon | Usually **1 month to 1 year** (not useful <1 month; not necessary >1 year) |
+| Budgeting focus | Forecast future events for a specific short-term period (months up to a year) |
+| **3 main uses** | (1) Forecast **future financing needs**, (2) basis for **corrective action**, (3) **performance evaluation** |
+| Variances on cash budget | Can show certain managers/divisions **not meeting targets** (performance evaluation) |
+
+### Six principles of personal budgeting
+1. Know yourself  
+2. Understand key areas: **savings, income, expenses**  
+3. Develop savings, income, and expense strategies  
+4. **Keep records**  
+5. Use a method that meets your needs/objectives  
+6. Eliminate consumer debt and minimize long-term debt  
+
+**Before personal budget, determine:** income, expenses, and savings  
+
+### Creating a cash budget (business) — order
+1. **Determine cash receipts**  
+2. **Estimate cash disbursements**  
+3. **Create the cash budget**  
+
+Business cash budget should include: **cash receipts, cash disbursements, and borrowing**
+
+### Personal vs business budgeting steps
+- Business: cash inflows, estimate outflows, create plan  
+- Personal: understand goals → track cash flows → develop plan → try plan → adjust  
+- Effective budget process ongoing: **Track → Monitor → Revise**
+
+### Cash receipts vs disbursements
+| | Business | Personal |
+|--|----------|----------|
+| **Receipts** | Cash sales + collected AR | Salary/wages; e.g., **graduation gift** |
+| **Disbursements** | Materials, interest, taxes, rent, admin, selling expenses, etc. | Groceries, gas, insurance, etc. |
+| Example receipt | Gift of $100 from grandmother | |
+| Example disbursement | Rent check paid/cashed this month; labor costs | |
+| **Not** a disbursement this month | Inventory on credit paid next month | |
+| **Not** a receipt | Collection timing aside; ski pass trade isn’t cash income the same way | |
+
+**Sales ≠ cash receipts:** Sales include **cash + credit** sales; credit sales become receipts only when collected.  
+Example: $100k sales but $90k cash → firm did not make all sales on cash.
+
+### Fixed expenses / goals / efficiency
+- Monthly mortgage = **fixed expense** (same amount each month)  
+- Better goal: “Put $50 in savings each month for Christmas” → **specific and measurable**  
+- Make budget more efficient: compare budgeted vs actual cash flows, then **revise if needed**  
+- Implement budget changes: **prioritize and implement gradually, one by one**
+
+### Tracking, monitoring, revision
+| Term | Meaning |
+|------|---------|
+| **Tracking** | Recording cash flows (envelope, spreadsheet, software) |
+| **Monitoring** | Evaluate actual vs goals; find patterns; know when correction needed |
+| **Revision** | After analysis; implement gradually |
+| Why track? | Recognize where/how money is spent so you can monitor and revise |
+| Software vs spreadsheet | Prefer software when hard to remember recording + prefer card purchases |
+| Fix problems | **Monitor** to identify → **gradual revision** to fix |
+
+**Envelope method:** Put budgeted cash for each expense category into labeled envelopes; spend only that category’s cash.
+
+### Borrowing / cash position
+- Need to borrow when: **beginning cash + net cash < minimum cash balance** required for the month  
+- Cash budgets help lenders trust firm can operate within borrowing limits and repay  
+- Knowing cash position: **Businesses** → when short-term loans needed; **Individuals** → progress toward personal goals (individuals usually shouldn’t need ST loans)  
+- Purpose of monthly cash budget: control inflows/outflows to balance income with expenditures and savings  
+
+### W&H case hooks
+- Labor costs = **cash disbursement**  
+- After budget: **monitor actual cash flows and revise if needed**  
+- Useful for loan: shows creditors firm can support operations within borrowing limits  
+
+---
+
+## B. Financial Forecasting (Longer-term)
+
+### Purpose / goal
+| Idea | Remember |
+|------|----------|
+| Role | Supplements history with proposed investments/changes for better foresight |
+| **Goal** | Understand implications of **today’s decisions on tomorrow’s performance** |
+| Key question answered | **How much financing will the firm need in the future?** |
+| Horizon contrast | Cash budget ≤ ~1 year; forecasting often **2–5 years** (unit summary) |
+| Long-term forecasts used for | **Investment and financing decisions** |
+
+### Spontaneous vs discretionary accounts
+| Type | Meaning | Examples |
+|------|---------|----------|
+| **Spontaneous** | Vary **naturally/proportionally with sales** | COGS, cash, AR, inventory, **accounts payable** |
+| **Discretionary (non-spontaneous)** | Do **not** vary automatically with sales; management decides | **Notes payable**, **long-term liabilities/debt**, common stock |
+| Special (neither purely) | **Fixed assets** and **retained earnings** need special treatment | |
+
+If sales grow 10%/15% → increase spontaneous accounts (cash, AR, inventory, COGS) similarly; leave notes payable / LT liabilities constant unless management decides otherwise.
+
+### Percent of sales & DFN
+| Concept | Remember |
+|---------|----------|
+| **Pro forma statements** | Projected future financial statements |
+| **Percent of sales method** | Sales forecast + historical relationships → pro formas |
+| **When DFN determined** | **After** pro forma statements forecasted with % of sales |
+| **DFN** | Additional financing needed given expected growth |
+| **DFN formula idea** | Projected assets − projected liabilities − projected owners’ equity |
+| What DFN tells | Total funding management must obtain through discretionary financing sources |
+| **Negative DFN** | Firm will have **enough financing** to fund projected sales (no extra financing needed) |
+| Estimating BS changes with sales | **Forecasting spontaneous accounts** |
+
+### Ways to decrease DFN
+- **Increase plowback / retention** (↑ projected OE)  
+- **Increase net margin** (↑ projected OE)  
+- First place to check capacity constraints: **Fixed assets**  
+
+Do **not** decrease DFN by decreasing retention / increasing dividend payout / decreasing net margin.
+
+### Sustainable growth rate (SGR)
+| Idea | Remember |
+|------|----------|
+| **SGR** | Growth rate firm can grow while maintaining present financial ratios **without issuing new equity** |
+| Components | Profitability, asset use efficiency, capital structure, dividend policy |
+| Also described | ROE × plowback; max growth keeping ratios constant without new equity |
+| ↑ SGR | **Decrease dividend payout** (↑ retention) |
+| Avoid new stock but grow fast as possible → look at **SGR** |
+
+### Fixed assets / capacity / lumpy assets
+| Idea | Remember |
+|------|----------|
+| Why % of sales for FA unrealistic | Assets are **lumpy** — buy whole factory/equipment, not a fraction |
+| Grow FA at capacity | Invest a **substantial lump sum** at once to increase capacity |
+| **Sales capacity** equation | Shows how much room to grow **without additional FA investment** (actual sales / % of capacity) |
+
+---
+
+## Practice — Unit 5 (key Qs with answers)
+
+### Cash budgeting
+1. Variances on cash budget indicate → managers/divisions **not meeting targets**  
+2. Cash budget forecast horizon → **1 month to 1 year**  
+3. Three budgeting principles (subset) → keep records; develop savings/income/expense strategies; method that meets needs  
+4. Three main uses → forecast need, performance evaluation, corrective action  
+5. Order to create cash budget → receipts → disbursements → create budget  
+6. Better Christmas goal → **specific and measurable** ($50/month)  
+7. Mortgage fixed because → **same amount each month**  
+8. More efficient budget → compare budgeted vs actual, **revise**  
+9. Personal cash receipt example → **graduation gift $100**  
+10. Business disbursement example → **rent check paid/cashed**  
+11. Business cash budget includes → receipts, disbursements, **borrowing**  
+12. Business disbursements examples → raw materials, rent, admin, interest, selling expenses  
+13. Sales ≠ receipts because → sales include **credit sales**  
+14. Why track cash flows → know where money goes; monitor & revise  
+15. Prefer software tracking when → forget to record + prefer card  
+16. Purpose of monitoring → actual vs goals; when correction needed  
+17. Identify & fix problems → **monitor** identify; **gradual revision** fix  
+18. Labor costs in budget → **cash disbursement**  
+19. After developing budget → **monitor and revise**  
+20. Useful for bank loan because → builds lender trust / shows can repay within limits  
+21. Cash position benefit: business vs individual → ST loans needed vs progress to personal goals  
+22. Tracking vs monitoring → monitoring uses tracking record to evaluate vs target/patterns  
+
+### Unit 5 Test Form B highlights
+1. Short-term cash sufficiency forecast → **Cash budget**  
+2. Purpose of monthly cash budget → control inflows/outflows; balance income, expenditures, savings  
+3. Need to borrow when → beg cash + net cash **< minimum cash balance**  
+4. Envelope method → cash in labeled envelopes by category  
+5. Budget changes → prioritize; implement **gradually one by one**  
+6. Cash/AR/inventory ↑ with sales % → **Spontaneous accounts**  
+7. Negative DFN → firm has **enough financing** for projected sales  
+8. Spontaneous account → **Accounts payable**  
+9. SGR useful because → max growth maintaining ratios **without new equity**  
+10. Buy whole factory for capacity → fixed assets are **lumpy**  
+
+### Unit 5 Test Form A highlights
+1. Jerry budgeting principles → keep records; understand savings/expenses/income; eliminate consumer debt  
+2. Before personal budget determine → **income, expenses, savings**  
+3. Sales $100k, cash $90k → not all sales on cash (credit)  
+4. Effective budget → **track, monitor, revise**  
+5. Envelope method → withdraw/set cash per category spending limit  
+6. Long-term forecasts used for → **investment and financing decisions**  
+7. Don’t vary with sales; management discretion → **Non-spontaneous / discretionary**  
+8. Discretionary account → **Notes payable**  
+9. Grow without new equity → **Sustainable growth rate**  
+10. FA increase as lump sum because → must purchase **entire** asset, not just portion needed  
+
+### Forecasting / DFN / SGR quizzes
+1. Forecasting role → history + proposals for accurate foresight  
+2. Goal of forecasting → today’s decisions → tomorrow’s performance  
+3. Question answered → how much **financing needed in future**  
+4. Helps decision-making → impacts of today’s actions on future  
+5. Fundamental purpose → estimate how cost/sales changes impact future CFs & financing needs  
+6. Spontaneous accounts → vary naturally with sales  
+7. Account type that changes with sales growth → spontaneous  
+8. Sales +10% might also +10% → **COGS**  
+9. When can DFN be determined → after pro formas via % of sales  
+10. Decreases DFN → **increasing plowback ratio**  
+11. % of sales; leave constant → **notes payable** (discretionary)  
+12. Estimating BS changes with sales → forecasting **spontaneous accounts**  
+13. SGR definition → grow maintaining ratios **without new equity**  
+14. Reduce DFN → **increase net margin**  
+15. Increases SGR → **decreasing dividend payout**  
+16. Check first for capacity/DFN → **fixed assets**  
+17. Grow FA at capacity → invest substantial amount at once  
+18. Sales capacity tells → room to grow without more FA  
+19. DFN definition → additional financing needed given expected growth  
+20. LT liabilities held constant → **discretionary account**  
+21. DFN tells → funding to obtain via discretionary sources  
+22. Grow without issuing stock → **SGR**  
+23. Major purpose of forecasting → how decisions impact future growth  
+
+---
+
+## Quick Memory Hooks (Unit 5)
+- Cash budget = **short-term** (1 mo–1 yr); forecast need + evaluate + correct  
+- Personal principles: know yourself; savings/income/expenses; strategies; records; right method; cut consumer debt  
+- Budget order: **receipts → disbursements → budget**  
+- Track → Monitor → Revise (gradually)  
+- Sales ≠ cash (credit); spontaneous ↑ with sales; discretionary = management (NP, LT debt)  
+- DFN after pro formas; DFN = proj A − L − OE; negative DFN = enough financing  
+- ↓ DFN: ↑ plowback, ↑ net margin; check **fixed assets** capacity first  
+- SGR = grow without **new equity**; ↑ SGR by ↓ dividends  
+- Fixed assets = **lumpy**; sales capacity = growth room without new FA  
+
+---
+
+## Note on earlier units in prior messages
+Interest/TVM/Excel/returns/risk/ratios already captured; this batch adds **Unit 5 budgeting & forecasting**.
 
 ---
 
@@ -643,11 +869,13 @@ Interest rate / TVM / Excel quizzes in this paste were **already captured** earl
 | Source | Status |
 |--------|--------|
 | Unit 2 (all prior) | Captured |
-| Unit 3 interest / inflation / APR / hurdle | Captured |
-| Unit 3 TVM + Excel (PV/FV/TYPE/NPV/IRR) | Captured |
-| Unit 3 Returns (return, expected return, real rate) | Captured |
-| Risk lessons + quizzes (market/firm-specific, diversification, transfer, retention, time diversification, default, operating risk) | Captured |
-| Ratio analysis lessons + quizzes (5 types, specific ratios, DuPont, comparison methods, Assessment Section 2) | Captured |
+| Unit 3 interest / TVM / Excel / returns | Captured |
+| Risk lessons + quizzes | Captured |
+| Ratio analysis + DuPont | Captured |
+| Unit 5 cash budgeting lessons + quizzes | Captured |
+| Unit 5 forecasting / DFN / SGR / lumpy assets | Captured |
+| Unit 5 Test Form A | Captured |
+| Unit 5 Test Form B | Captured |
 | Reddit OA tips | Strategy only |
 | Quizlet | ON HOLD |
 
