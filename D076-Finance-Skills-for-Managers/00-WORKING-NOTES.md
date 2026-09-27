@@ -2,7 +2,7 @@
 ## Working Notes (accumulate until ready for final study guide)
 
 > Status: **Collecting material** — do not finalize full study guide until user says we have everything.
-> Trusted sources so far: Unit 2; Unit 3 (interest/TVM/Excel/returns); Risk; Ratio analysis; Unit 5 (cash budgeting + financial forecasting / DFN / SGR)
+> Trusted sources so far: Unit 2; Unit 3; Risk; Ratios; Unit 5 (budgeting/forecasting); Unit 6 (capital budgeting NPV/IRR/PI, securities, incremental CFs)
 > Reddit OA tips = strategy only | **Quizlet on hold** until full question set can validate matches
 
 ---
@@ -860,8 +860,162 @@ Do **not** decrease DFN by decreasing retention / increasing dividend payout / d
 
 ---
 
-## Note on earlier units in prior messages
-Interest/TVM/Excel/returns/risk/ratios already captured; this batch adds **Unit 5 budgeting & forecasting**.
+# Unit 6 — Capital Budgeting, Valuation & Project Cash Flows (OA-heavy)
+
+## Ideal evaluation / why TVM & opportunity cost matter
+| Idea | Remember |
+|------|----------|
+| Ideal method should consider | **All relevant cash flows** — otherwise you don’t know how the project enhances firm value |
+| Investment adds value when | **PV of benefits > PV of costs** |
+| Opportunity cost (TVM) | What you forgo by tying money/time in an investment vs other options |
+| Timing of CFs matters because | Related to **opportunity cost** — compare CFs to other projects; earlier CFs better (can reinvest) |
+| Same total $600k inflows, different timing | Prefer the project that receives cash **most quickly** (highest NPV via TVM) — e.g., Project D in the quiz |
+| Non-cash opportunity cost example | Study instead of movies → opportunity cost is **going to the movies** |
+| Opportunity cost definition | Loss of ability to use an asset for the **next best** project once invested elsewhere |
+
+## NPV (Net Present Value)
+| Idea | Remember |
+|------|----------|
+| Positive NPV | Project **increases shareholder wealth** / adds dollar value to firm → **accept** |
+| Advantage | Calculates **dollar value** added to the firm by the project |
+| Disadvantage | **Not** effective to compare projects of **different sizes** |
+| Hardest / most important input | **Cost of capital / required rate** — inaccurate estimate → reject good projects or accept bad ones |
+| Mutually exclusive projects | Use **NPV** (pick the one that adds most value) — e.g., among 4 projects, choose highest NPV (**Project 2**: IRR 11%, NPV $67k beats higher IRRs with lower NPV) |
+| NPV = 0 | Means **IRR has been reached** |
+
+## IRR (Internal Rate of Return)
+| Idea | Remember |
+|------|----------|
+| Definition | Rate that makes NPV = **$0** |
+| Why use for non-finance friend | Easy to interpret / communicate investment potential |
+| Accept rule | Accept if **IRR > hurdle rate / cost of capital** (Bobby’s Books: hurdle 9%, IRR 11% → **yes**) |
+| Unconventional CFs problem | Multiple sign changes → **multiple IRRs**; can’t tell which is correct → use **NPV** |
+| Mutually exclusive | IRR alone can mislead; prefer NPV for value added |
+| Limitation (module) | Don’t use for multiple sign changes or mutually exclusive ranking alone |
+
+## PI (Profitability Index)
+| Idea | Remember |
+|------|----------|
+| What it is | Presented as a **ratio** — discounted benefits / discounted costs |
+| How it aids NPV | Scales different-sized projects so returns are comparable; gives idea of **return** generated |
+| Accept rule | Accept if **PI > 1**; PI 0.8 → reject (inflows 20% short of covering investment) |
+| Capital rationing / not mutually exclusive but limited budget | Rank/accept by **highest PI first** until capital used (Alphabet Co.; Betsy’s Wigs: 1.35, 1.27, 1.02 → Projects **3, 2, 1**) |
+| Adjustment that can make PI < 1 | **Higher cost of capital** decreases PI → may reject |
+| Mutually exclusive | PI not the primary pick method (use NPV for mutually exclusive) |
+
+**Decision cheat sheet:**
+- Mutually exclusive → **NPV**  
+- Capital constraints / rank within budget → **PI**  
+- Communicate % return / simple story → **IRR** (if conventional CFs)  
+- Unconventional CFs → **NPV**  
+
+## Why capital / returns / debt
+| Idea | Remember |
+|------|----------|
+| Why firms seek capital investment | Purchase **long-term assets** for future growth |
+| Capital budgeting | Evaluating & planning purchases of **long-term assets** |
+| Why always a cost to bring funds in | Must compensate investors for **risk** of investing |
+| Risk–return | Higher risk → **higher required return** |
+| Debt benefit | Interest is paid **before taxes** (tax shield) |
+| Financing decision | Proportions of **debt and equity** to fund assets/operations |
+| Investor view of returns | Amount they require to lend/invest in the corporation’s securities |
+
+## Bonds & stocks (valuation basics)
+| Idea | Remember |
+|------|----------|
+| Why raise via stocks vs bonds | Stocks do **not** require firm to repay **par value** to investors |
+| Bond price < par ($973 vs $1000) | **Discount bond** (YTM > coupon) |
+| Preferred stock vs bonds | Company **can skip** preferred payments (not bonds — bond skip = default); must eventually pay dividends in arrears before common |
+| Bond valuation method | **PV function in Excel** (rate, nper, pmt, FV) |
+| Common stock key assumption | **Growth rate stays the same forever** (constant growth / Gordon model) |
+| Preferred stock valuation | **Perpetuity model** |
+| YTM ↑ → bond price | **Falls**; YTM ↓ (8%→7%) → price **increases** (inverse) |
+| Bonds | Fixed-income; fixed interest payments |
+| Common stock | Variable dividends + **voting rights** |
+| Preferred | Hybrid; fixed payments; generally **no voting**; paid before common |
+| CAPM (module) | Risk–return for an asset; way to price risk |
+
+## Incremental / incidental / cannibalization
+| Concept | Remember |
+|---------|----------|
+| **Incremental cash flows** | Any additional cash flows in or out created by accepting a project |
+| Allocated overhead | General firm cost, **not** a direct result of the project → **irrelevant** to analysis |
+| Incidental vs non-incremental | **Incidental** = indirect but **must be included**; non-incremental **excluded** |
+| **Cannibalization** | New product steals sales from **another of your company’s products** — incidental cost/revenue to include |
+
+---
+
+## Practice — Unit 6 (correct answers)
+
+### NPV / IRR / PI basics
+1. Project increases shareholder wealth → **NPV positive**  
+2. Important but hard to estimate in NPV → **Cost of capital**  
+3. Advantage of NPV → **Dollar value added to the firm**  
+4. Disadvantage of NPV → **Not effective to compare projects of different sizes**  
+5. Explain TVM-naive friend why invest → **IRR** (easy to interpret)  
+6. NPV when IRR reached → **$0**  
+7. Unconventional CFs → multiple IRRs → use **NPV**  
+8. Hurdle 9%, IRR 11% → **Accept** (IRR > cost of capital)  
+9. Method presented as a ratio → **PI**  
+10. How PI aids NPV → idea of **return**; scales different sizes  
+11. PI 0.8 → **Reject** (short of covering investment)  
+12. Adjustment causing reject after PI=1 → **Higher cost of capital**  
+
+### Securities / capital budgeting definition
+13. Prefer stocks over bonds for capital because → no need to repay **par**  
+14. Bond bought below par → **Discount bond**  
+15. Preferred vs bonds → can **skip** preferred payments (not bond payments)  
+16. Why seek capital investment → buy **long-term assets** for growth  
+17. Bond value calculation → **Excel PV**  
+18. Common stock evaluation key assumption → **constant growth forever**  
+19. Process for LT asset purchases → **Capital budgeting**  
+
+### Module / ranking applications
+20. Accurate required rate important because → wrong rate → reject good / accept bad projects  
+21. One project only; maximize value → choose **highest NPV** (Project 2)  
+22. Not mutually exclusive; rank for most value → **highest PI first** (3, 2, 1)  
+23. YTM 8%→7% → bond price **increases**  
+24. Cost $100k, NPV $5k → **Accept** (positive NPV)  
+
+### Ideal method / mutually exclusive / rationing
+25. Consider all relevant CFs because → know how project enhances firm value  
+26. Mutually exclusive → use **NPV**  
+27. Limited capital, maximize value created → projects with **highest PIs** until capital used  
+
+### Timing / opportunity cost / financing
+28. Opportunity cost in TVM → forgo other options due to time scope of investment  
+29. Timing of CFs important because → opportunity cost vs other projects  
+30. Four projects same total inflows → choose one getting cash **quickest** (Project D)  
+31. Always a cost to bring funds → compensate investors for **risk**  
+32. Risk and return → higher risk → higher required return  
+33. More debt can benefit → interest paid **before taxes**  
+34. Financing decision example → mix of **debt and equity**  
+
+### Incremental CFs
+35. Incremental CFs → additional CFs created by accepting project  
+36. Allocated overhead → **not** direct result; irrelevant  
+37. Incidental vs non-incremental → incidental **included**; non-incremental not  
+38. Cannibalization → new product steals sales from **your other product**  
+39. Limited budget, not mutually exclusive → prioritize with **PI**  
+40. Opportunity cost not cash flows → study vs movies  
+41. Investment adds value when → **PV benefits > PV costs**  
+42. How purchasers view returns → amount they require to lend/invest  
+43. Opportunity cost → can’t use asset for next best project once invested elsewhere  
+
+---
+
+## Quick Memory Hooks (Unit 6)
+- +NPV = add wealth; accept; hard part = **cost of capital**  
+- NPV = $ value; weak for **different sizes** → use **PI** to rank under capital constraints  
+- Mutually exclusive → **NPV**; tell a friend % story → **IRR**; IRR = rate where NPV=0; IRR > hurdle → accept  
+- Weird CF signs → **multiple IRRs** → use NPV  
+- PI > 1 accept; raise r → PI falls  
+- Discount bond = price < par; YTM ↑ price ↓  
+- Preferred can skip payments; bonds can’t (default)  
+- Common stock = constant growth forever; preferred = perpetuity; bonds = Excel PV  
+- Include incremental + incidental (cannibalization); ignore allocated overhead  
+- Debt tax shield; financing = debt/equity mix  
+- Earlier cash > later cash (same totals)  
 
 ---
 
@@ -872,10 +1026,10 @@ Interest/TVM/Excel/returns/risk/ratios already captured; this batch adds **Unit 
 | Unit 3 interest / TVM / Excel / returns | Captured |
 | Risk lessons + quizzes | Captured |
 | Ratio analysis + DuPont | Captured |
-| Unit 5 cash budgeting lessons + quizzes | Captured |
-| Unit 5 forecasting / DFN / SGR / lumpy assets | Captured |
-| Unit 5 Test Form A | Captured |
-| Unit 5 Test Form B | Captured |
+| Unit 5 cash budgeting + forecasting (DFN/SGR) + Forms A/B | Captured |
+| Unit 6 NPV / IRR / PI lessons + quizzes | Captured |
+| Unit 6 bonds/stocks/capital budgeting + module summary | Captured |
+| Unit 6 incremental/incidental/cannibalization + ranking applications | Captured |
 | Reddit OA tips | Strategy only |
 | Quizlet | ON HOLD |
 
