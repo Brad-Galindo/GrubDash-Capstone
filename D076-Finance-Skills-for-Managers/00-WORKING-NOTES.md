@@ -941,7 +941,42 @@ Do **not** decrease DFN by decreasing retention / increasing dividend payout / d
 | **Incremental cash flows** | Any additional cash flows in or out created by accepting a project |
 | Allocated overhead | General firm cost, **not** a direct result of the project → **irrelevant** to analysis |
 | Incidental vs non-incremental | **Incidental** = indirect but **must be included**; non-incremental **excluded** |
-| **Cannibalization** | New product steals sales from **another of your company’s products** — incidental cost/revenue to include |
+| **Cannibalization / cost of cannibalization** | Reduction in sales of a company’s **own** products due to introducing another similar product |
+| **Sunk costs** | Already incurred whether you do the project or not → **irrelevant** (do not include) |
+| Sunk examples | Market study already paid; consulting spent **before** project start |
+| **Not** sunk | Required training; shipping new machine; forgone land sale offer |
+
+**Beckingham Sports:** $400k study + $600k consulting = **sunk** (ignore). Land cost $2M but offer of **$3M** to buy the land → relevant = **$3M opportunity cost**.
+
+### Extra Unit 6 locks (Assessment Sec 1–2 — study these hard)
+| Idea | Remember |
+|------|----------|
+| NPV = 0 | Earns **exactly** required return; neither adds nor takes value |
+| TVM valuation methods | Both **NPV and IRR** |
+| Mutually exclusive | Use **NPV** (not PI for $ value) |
+| Prefer **bonds** over stocks | Bonds do **not** require giving up **ownership**/control |
+| Bond like an annuity | Constant coupon each period + maturity date |
+| Why cost of capital matters | Project CFs may be **uncertain** |
+| Differently timed CFs | Must determine **opportunity cost** |
+| Debt financing disadvantage | Does **not** achieve optimal capital structure alone — need **debt + equity mix** |
+| NPV most reliable because | TVM + **$ value** added + takes **risk** into account |
+| Results as **percentages** | Used **IRR** |
+| PI = 1 | IRR = cost of capital (break-even) |
+| Price = par | **Par bond** |
+| Preferred = perpetuity | Fixed payment **forever** |
+| Why TVM in evaluation | $ today ≠ same $ in 10 years |
+| Clothes vs electric bill | Opportunity cost = electricity turned off |
+| Seemingly identical projects | Different **inherent risks** → different cost of capital |
+| Sunk cost example | Consulting spent 3 months **prior** to project |
+
+**Traps (from missed Qs):**
+- Bond ≠ constant growth forever (common stock); bond = coupons to maturity  
+- Cost of capital reason ≠ “reinvest earlier” (TVM) → **uncertainty**  
+- Don’t compare differently timed projects on benefits only → **opportunity cost**  
+- Debt disadvantage ≠ “can’t raise equity” → need **mix**, not all debt  
+- Land purchase may be sunk; **forgone $3M sale** is the opportunity cost  
+- PI = 1 ≠ benefit outweighs cost by initial amount (that ≈ PI of 2)  
+- % answers → IRR; $ answers → NPV  
 
 ---
 
@@ -1002,20 +1037,44 @@ Do **not** decrease DFN by decreasing retention / increasing dividend payout / d
 42. How purchasers view returns → amount they require to lend/invest  
 43. Opportunity cost → can’t use asset for next best project once invested elsewhere  
 
+### Assessment Section 1–2 (new)
+44. NPV = 0 → earns **exactly** the required rate  
+45. TVM evaluation — more than one way? → **Yes: NPV and IRR**  
+46. Mutually exclusive → **NPV**  
+47. Prefer bonds over stocks → don’t give up **ownership**  
+48. Bond like annuity → constant coupon + maturity  
+49. Why cost of capital → CFs may be **uncertain**  
+50. Differently timed CFs need → **Opportunity cost**  
+51. Debt disadvantage → not optimal structure alone (need mix)  
+52. Sunk costs → **Irrelevant**  
+53. Beckingham relevant item → **$3M land offer** (opportunity cost)  
+54. NPV most reliable → TVM + $ value + risk  
+55. Results all % → **IRR**  
+56. PI = 1 → IRR = cost of capital  
+57. Buy bond at $1000 par → **Par bond**  
+58. Preferred like perpetuity → fixed amount **forever**  
+59. Why TVM → $ today ≠ $ in 10 years  
+60. Clothes not bill → opportunity cost = power shut off  
+61. Seemingly same projects → different **inherent risks**  
+62. Own-product sales drop → **Cost of cannibalization**  
+63. Sunk example → consulting **before** project start  
+
 ---
 
 ## Quick Memory Hooks (Unit 6)
-- +NPV = add wealth; accept; hard part = **cost of capital**  
-- NPV = $ value; weak for **different sizes** → use **PI** to rank under capital constraints  
-- Mutually exclusive → **NPV**; tell a friend % story → **IRR**; IRR = rate where NPV=0; IRR > hurdle → accept  
-- Weird CF signs → **multiple IRRs** → use NPV  
-- PI > 1 accept; raise r → PI falls  
-- Discount bond = price < par; YTM ↑ price ↓  
-- Preferred can skip payments; bonds can’t (default)  
-- Common stock = constant growth forever; preferred = perpetuity; bonds = Excel PV  
-- Include incremental + incidental (cannibalization); ignore allocated overhead  
-- Debt tax shield; financing = debt/equity mix  
-- Earlier cash > later cash (same totals)  
+- +NPV = add wealth; NPV=0 = earn exactly required return; hard part = **cost of capital**  
+- NPV = $ value; weak for different sizes → **PI** under capital constraints  
+- Mutually exclusive → **NPV**; % story → **IRR**; IRR > hurdle → accept  
+- Weird CF signs → multiple IRRs → NPV  
+- PI > 1 accept; PI = 1 → IRR = r; raise r → PI falls  
+- Discount / par / premium bonds; YTM ↑ price ↓  
+- Stocks: no repay par; Bonds: keep **ownership**  
+- Bond ≈ annuity; preferred ≈ perpetuity; common = constant growth  
+- Include incremental + incidental (cannibalization); ignore overhead & **sunk costs**  
+- Forgone land sale = opportunity cost; prior consulting = sunk  
+- Debt tax shield BUT optimal = **debt + equity mix**  
+- Earlier cash better; differently timed → opportunity cost  
+- Answers in % → IRR; answers in $ → NPV  
 
 ---
 
@@ -1027,9 +1086,8 @@ Do **not** decrease DFN by decreasing retention / increasing dividend payout / d
 | Risk lessons + quizzes | Captured |
 | Ratio analysis + DuPont | Captured |
 | Unit 5 cash budgeting + forecasting (DFN/SGR) + Forms A/B | Captured |
-| Unit 6 NPV / IRR / PI lessons + quizzes | Captured |
-| Unit 6 bonds/stocks/capital budgeting + module summary | Captured |
-| Unit 6 incremental/incidental/cannibalization + ranking applications | Captured |
+| Unit 6 NPV / IRR / PI + securities + incremental CFs | Captured |
+| Unit 6 Assessment Section 1 & 2 (sunk costs, Beckingham, PI=1, traps) | Captured |
 | Reddit OA tips | Strategy only |
 | Quizlet | ON HOLD |
 
