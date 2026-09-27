@@ -1,0 +1,993 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+All right. Welcome, everyone. My name is Christine Dunham. I'm an instructor for D0 76 finance skills for managers.
+
+And this evening we're going to be going through unit three cohort.
+
+Um, it is talked about in the form of a unit, but we're going to be going over several modules.
+
+Modules are really how I go through the course and how I like to think of the material, and we'll get into that as well.
+
+This cohort includes the infamous Excel problems.
+
+So we will definitely be going through one example, at least of every type of Excel problem that you will see on the Pre-assessment and the.
+
+Okay. So if you have some scratch paper or a whiteboard, calculator or Excel to follow along, that could be a great idea.
+
+All right, so let's dig in. Unit three is the most tested unit on the exam, so it's good that you're watching this video.
+
+Uh, module four covers interest rate, required rate, and inflation.
+
+Module five. Uh, there we are with the time value of money, those Excel calculations and module six risk and return.
+
+And we're going to go over all three this evening in order.
+
+Let's start with module for the proficiency statement.
+
+Being able to identify the fundamentals of interest rates required return and inflation.
+
+First let's talk about interest. How do we make money on our investments.
+
+Well there's a couple different ways. One, we could watch the capital appreciation of the investments we have that could grow in value over time.
+
+They could also accumulate interest. And there's two main ways to calculate interest.
+
+Both of these concepts are discussed in the course simple interest and compound interest.
+
+And the Excel calculations are actually going to include and demonstrate the compound interest calculations.
+
+So just so you know, but there could be some questions out there,
+
+maybe concept based questions that ask about the difference between simple and compound interest.
+
+Simple interest is just that simple. It's a simple multiplication formula.
+
+There's three variables involved. P times r times t principal times rate.
+
+Times time. I always say, of course a picture is worth a thousand words.
+
+And here we have two pictures of what these types of calculations look like when you graph them.
+
+So simple interest looks like a straight line and it's going to increase at the same interest payment.
+
+Or if you want a throwback to algebra it's going to increase at the same slope every time period.
+
+Because that simple interest we're going to calculate the interest payment and just add that interest payment every time frame.
+
+Compound interest though is going to look very different. It's going to look like an exponential curve.
+
+And again throwback to algebra. Perhaps an exponential curve is something that starts out kind of slow.
+
+You're not sure if it's doing much at all.
+
+And then kind of suddenly it will start to curve upwards until eventually, uh, perhaps if you're Warren Buffett,
+
+you might get to the point where that line is practically straight up and down,
+
+and that means that you are doubling your portfolio every single time period or every single year.
+
+Wow. That's impressive. We want to know how to do that, right?
+
+Well, the best way to do that is through compound interest.
+
+Keep in mind that compound interest is going to be a larger number long term.
+
+Let's take a closer look here at how these types of interest are calculated.
+
+The first simple interest. As an example, let's say we have $100 earning 5% interest.
+
+Kind of like I mentioned before. Again we're going to have that $100.
+
+5% of that is $5. So we're going to add that $5 payment to every single year that this investment grows.
+
+So you can see the account values kind of in the center there.
+
+They just go up by $5, $5, $5, $5 every single time.
+
+And that's simple interest. Let's go through an example and see if we can figure this out.
+
+Go ahead and read through this question and see if you can come up with an answer.
+
+Type your answer in the chat. All right.
+
+Any other ideas here before I go to the answer slide?
+
+All right I'm going to click down here. All right.
+
+So here we have our calculations. Be sure to know what the question is asking.
+
+Right. Are we asking about the total interest or are we asking about the total value in the account.
+
+The interest amount, again is going to be that p times r times t principal times rate times time.
+
+And when we do that we come up with $90 of interest the future value or the total value in the account by the
+
+time you're done with this three year period is going to be the original account value plus $90 of interest.
+
+So that's going to give you a total of $590 in the account by the end.
+
+All right. Good work everyone. Let's move on.
+
+To compound interest. Albert Einstein is quoted as saying that compound interest is the eighth wonder of the world.
+
+Those who understand it earn it, and those who don't pay it.
+
+And of course, now and going through these calculations we're about to do,
+
+we could understand what he's talking about, because if we understand compound interest,
+
+we're probably going to want to invest and earn the compound interest because it grows so well and so quickly over time.
+
+And those who don't understand it well, sometimes we're paying compound interest on credit card balances or other types of loans,
+
+but sometimes people don't even know what they're paying or how it's calculated.
+
+Oftentimes those loans are calculated with compound interest.
+
+So let's go into an example. How is compound interest calculated differently.
+
+These are the same numbers that I used previously. We have $100 invested at 5% interest.
+
+Notice the difference in the arrows here where the arrows pointed in our example.
+
+After the first year the interest payment is the same. 5% interest on $100 is $5, but the difference comes in year two.
+
+We start the year with a $105 total in the account, and then we make our interest payment or our interest accumulation.
+
+So we take 5% of 105.
+
+So in year two we have a total interest payment of $5.25.
+
+Uh interesting. And then year three it starts over again.
+
+We add the 525 to our account total, which brings us to $110.25.
+
+We take 5% of that account balance.
+
+And it gives us a growing interest payment here of $5.51.
+
+So again, you can see where we get that exponential curve.
+
+Kind of that interest payment is curving upward. It's slowly curving upwards a few more since every time.
+
+And if you want to make this really exciting, of course you're going to add a couple of zeros to this thing, right?
+
+$0.51 might not seem like a lot after three years, but I don't know, $510.
+
+Now we're talking. Right now we want to know the difference.
+
+This, by the way, is where we get the same with compound interest calculations.
+
+We're earning interest on interest. Yeah.
+
+Because we're not just going back to that principal amount in the account.
+
+We're going back to the total balance of the account, which includes last year's interest payment.
+
+If we let it grow right. And don't take the money out.
+
+So that is how compound interest works. Moving on to lesson 13.
+
+This one talks about required return. This is also known as the hurdle rate.
+
+This is a rate that investors need to jump over, just like a hurdle in track and field before we might consider a risk or an investment.
+
+There are three parts to required rate of return. Opportunity cost, inflation and risk.
+
+And we're going to go in more detail on each of these in the next few slides.
+
+First talking about opportunity cost. We have a nice fellow WGU student here who's going to illustrate opportunity cost tonight.
+
+This gentleman has one hour of time. How is he going to spend it?
+
+Well, he could attend a cohort for his finance class and learn more of the material.
+
+Or with that hour of time, he could watch his favorite TV show.
+
+Hmhm. What should he do? Time is limited.
+
+He only has an hour. So what's available? Is he going to choose?
+
+To attend the cohort. Or is he going to choose to watch his favorite television show?
+
+Now, one slight difference of opportunity cost as far as a business definition compared to our WGU student here,
+
+is that sometimes this can look like there's a good choice and a bad choice.
+
+Which choice should we pick? The good one and it, you know, is kind of obvious which one we should pick maybe in this scenario as well.
+
+But true opportunity cost. There is no good or bad.
+
+We just know that we have to let go of one in order to embrace the other.
+
+A corporate example might be, you know, we are a franchise company and we want to expand into another state.
+
+Should we open a franchise in Pennsylvania or Ohio?
+
+Oh, gosh, I mean, I don't know. They both probably have customers.
+
+They both probably have challenges which would be best.
+
+Well, we need to do an analysis. But the bottom line is we can only open one franchise.
+
+So we have to let go of one in order to accept the other.
+
+That's opportunity cost. Moving on to inflation.
+
+Inflation is the rate at which the average price of a basket of goods and services increases over time.
+
+Oh, we had a question from the chat. And that's a very good question. Do we need to know the simple interest or compound interest formulas?
+
+The answer is no. You do not need to know the formulas.
+
+Um, simple interest is again kind of a simple one.
+
+Um, p times r times t. Um, but I don't believe you will have simple interest calculations on the Pre-assessment ROA for this course,
+
+but definitely you will have compound interest calculations.
+
+However, you don't need to memorize the formulas for those because we use Excel in this class and we're going to
+
+get to that in a few minutes as to where the formulas go and why you don't have to have a memorized.
+
+Good question. All right, getting back to our inflation discussion.
+
+As prices go up, the value of our money goes down.
+
+This is where we have grandma. You know who says? I remember when I used to pay $0.50 for a loaf of bread?
+
+Oh, that's wonderful, grandma, you know, but $0.50 ain't going to do it today, right?
+
+We're going to need some more money to buy that loaf of bread. That's inflation.
+
+The value of our money has gone down over time, which means we need more money to purchase the products that we need.
+
+Inflation is measured by that average basket of goods.
+
+These are technically average things that the average American would purchase on a weekly or monthly basis.
+
+There are things such as a loaf of bread, a gallon of milk, a gallon of gasoline.
+
+Literally what CPI indices do is they go out and they check those prices every single month.
+
+Did the prices stay the same? Did they go up or did they go down?
+
+Okay, we're going to have a Snickers bar moment. If you have read ahead in the text, which I hope you have, what are the three causes of inflation?
+
+And if you're not up to speed yet, or maybe just don't remember from the text, type in what you think.
+
+What causes inflation? I'll give you a minute to type some answers in.
+
+Oh, I love that. Yeah. Andy, that's very good.
+
+Sometimes. Maybe. Actually, chocolate was a very good example recently of inflation.
+
+Um. Oh, I, like a lot of students are saying increased demand.
+
+That is very good. That's a very good answer I like that.
+
+Thank you for the participation. Let's move on here and we'll take a look.
+
+What does our textbook say? There are three causes of inflation according to our text.
+
+Now if you ask me I might add a couple. Chocolate probably wouldn't be one of that, but good insight there.
+
+All right. According to our text, the three causes of inflation are demand of goods and services.
+
+When the man exceeds supply, prices go up. A second one is the cost of production.
+
+If our raw material costs increase, that's going to push prices forward,
+
+and we're going to have to increase those prices and pass those costs on to our customer.
+
+The third one is kind of a fancy title. It's called Adaptive Expectations.
+
+This just means that employees demand higher wages over time.
+
+They see their value. They are becoming more valuable.
+
+And also they're seeing how far their paycheck is stretching. And they say, hey, wait a minute, I need to make more.
+
+You know, the cost of eggs is more than it was a year ago or whatever it is.
+
+And so employees push, uh, prices higher because they demand higher wages.
+
+So that's adaptive expectations. All right.
+
+Lesson 15. The nominal rate of return versus the real rate of return.
+
+Now, sometimes this can be a challenging concept. And I have students ask me, well which rate is the correct rate.
+
+And I say, well both of em are right.
+
+Uh, they're just different, their view differently. Why is that?
+
+Well, I have an example on the left here that this is not quite apples to apples,
+
+but it helps make sense of nominal rate of return versus real rate of return.
+
+So let's say that you're sitting down for an interview and they say, oh, gosh, thanks for coming in today.
+
+You're just what we're looking for. We would like to we'd like to give this job to you.
+
+We'd like to pay you $100,000. Oh, great.
+
+Okay. Well, that is your gross pay.
+
+Correct. That's what they tell you during the interview. Right. But are you going to end up with $100,000 in your account by the end of the year?
+
+Mhm. No. Right. There's going to be withholding.
+
+There's going to be federal tax withholding.
+
+There's going to be if you have a retirement plan, you might withhold some money for that to save for your own retirement.
+
+If you have health care or other benefits there might be withholding their Social Security Medicare.
+
+And then at the end of the year, right. We just got done with tax season.
+
+Uh, you're probably looking at your W-2 and maybe it has $85,000 on it.
+
+Ooh, that's different than 100,000. Did the company lie?
+
+Did they tell you something that wasn't true? No.
+
+It's just the difference between gross pay and net pay. There are going to be things taken out of the gross pay before you get that money to spend.
+
+Same concept is similar for nominal and real rate of return.
+
+The nominal rate of return is the actual amount of return that's earned.
+
+That's true. That's just like, yeah, $100,000. That's what you make that your gross pay.
+
+However, inflation takes a bite out of that return.
+
+So when we subtract inflation we get the real rate of return.
+
+This is like the purchasing power of our dollars. How much more could we really purchase with the increase in that investment?
+
+To go through a short example, let's say we have a $100,000 investment.
+
+And last year was a pretty good year. It earned 7% return.
+
+However, let's say that it's 2022.
+
+Inflation is terrible. The average inflation in 2022 was 6.5%.
+
+Yikes. So yes, that investment did actually increase 7%.
+
+It was $100,000 on January 1st, 2022 and on December 31st, 2022.
+
+It is $107,000.
+
+However, inflation was 6.5%.
+
+So all the supplies, all the materials, the salaries we have to pay, all of that went up on average 6.5%.
+
+So even though our investment went up, our purchasing power went up only 2.5% because everything we're purchasing is more expensive.
+
+So 0.5% would be the real rate of return.
+
+Quite a difference there. Correct. Let's go through an example of nominal versus real rate of return.
+
+Should we set up shop with this new type of lemonade?
+
+I'll give you a minute to type your answers in the chat. All right.
+
+We've got some answers coming in. Very nice. All right, let's go to the answer side and take a look here.
+
+Should we do it? Well, the nominal rate is 8.5% minus the inflation rate.
+
+That gives us a real rate of return of 6% for this new type of lemonade.
+
+Since 6% is higher than the required rate of return of 5%, then we would say yes, they should invest.
+
+They are going to create value with this new type of lemonade.
+
+All right, good work everyone. So with those practice problems, those little baby calculations, we're going to move on to some real calculations.
+
+The time value of money in module five. All right.
+
+I want to take this time to say there's going to be a few slides that have quite a few words on them.
+
+There's lots of tips and tricks to remember when you do these Excel calculations.
+
+I'm not going to read everything on this slide all the time.
+
+Um, I will point out a few tips as we go.
+
+But I just want to make you aware that all of this, this video and these slides are available on WGU connect as well as all of our cohorts.
+
+And so you can go there at any time to replay this video.
+
+Um, watch it, print off the slides, maybe the tips and tricks to add to your notes.
+
+That could be a great thing to do. All right.
+
+Let's start simple here. Compounding and discounting single sums of money.
+
+Now I want you to look at this timeline down at the bottom here.
+
+We always start with the PV or present value and we end with the future value.
+
+If you are a visual learner or somebody who likes to write things or see things as you go, especially for calculations, a timeline can really help.
+
+It can help you see what variables we have and what variable we need to solve for.
+
+So you might want to use that tool as we go along. There are six total variables that we could have in order to complete an Excel calculation.
+
+One crazy fact is that we only need three of these variables in order to do a calculation, but we could get up to six.
+
+So don't be nervous if you only have three pieces of input.
+
+Uh, that's enough to have the Excel calculation and solve for an answer.
+
+Rate is obviously the interest rate for the question.
+
+And Pur stands for number of periods, which is the number of years.
+
+Typically PMT is the payment or the periodic payments that happen more than once.
+
+PV represents present value. It could also represent past value depending on how the question is phrased.
+
+F v is always going to stand for future value and type indicates when payments are due.
+
+There's a giant arrow here from type to payment because it matters when the payments occur.
+
+Do they occur at the beginning of the year or at the end of the year?
+
+Your answer will be different depending on when the payments occur.
+
+If payments are due at the end of the period, types should be zero.
+
+If payments are due at the beginning of the period, type should be one.
+
+All right. Here again, important tips. Don't get overwhelmed by the amount of words.
+
+Okay. Sorry. Would present value effect type at all?
+
+Good question. Uh, from the chat here. No, this.
+
+There's a good answer. No. Absolutely not. So if you get a question that says something like some, I may maybe try to trick you,
+
+say something like, what is the future value at the end of this calculation?
+
+Um, future value? Um, guess what?
+
+We don't care. It doesn't matter when the future value occurs.
+
+The only thing that matters is when does the payment occur?
+
+Type only has to do with payment. Good question.
+
+All right. So let's kind of go through these a little bit. For PV fee and payment amounts.
+
+We need to be sure and understand when payments are positive or negative.
+
+Keep in mind that when we're doing calculations like this we're not really talking about negative cash payments.
+
+We're typically talking about inflows and outflows.
+
+So a good way to think about it is from the perspective of your checking account or your hands,
+
+if there is a present value coming into your hands today, you're going to receive something that is a positive cash inflow.
+
+That's a positive number.
+
+If you are making a payment out to something like, for example, saving for retirement, that payment is leaving your checking account.
+
+That's a negative cash outflow. Of course it is still your money.
+
+Of course it's going to grow in a positive way. But again, from the perspective of your checking account, that is a negative cash flow.
+
+It is leaving checking. All right.
+
+I hope that makes sense. And again, we'll get a chance to practice that in just a few minutes.
+
+Present value and future value are single cash flow amounts.
+
+They only happen once or they are a lump sum. However, payments happen over and over again.
+
+This is a great way, way to tell them apart.
+
+If you see a dollar amount that's happening for five years over and over again, five times, that's a payment.
+
+If you sold land and you got $50,000 for the land, that is a present value or future value, it's a one time amount.
+
+So that's how to tell the difference there. Once again, for emphasis, type one is if payments are made at the beginning of the term.
+
+You might hear language from the text that says starting today.
+
+One way I remember it is type one is right now.
+
+Today on the first starting one is the first thing you should do.
+
+Start today. Number one. Type one is beginning today.
+
+Type zero is at the end of the period, also called an ordinary annuity.
+
+And since ordinary annuity starts with O, type O must be for payments at the end an ordinary annuity.
+
+No input cell should be left blank.
+
+If you don't need a value, you should always put a zero value in that cell, or it will be counted wrong on the pre-assessment in way.
+
+The end formula must have the cell reference, not the number values themselves.
+
+So what that means is your formula should look kind of boring.
+
+It should look like c1, c2 comma, c3 comma, c4 comma, c5.
+
+It should not look like um, you know, 5% comma, ten years, comma $50,000 comma.
+
+No, that would be incorrect. Do not enter the actual number values.
+
+Enter the cell references in Excel only.
+
+All right. We've got the tips and tricks. Let's dive in and give it a shot here.
+
+So what I want you to do with this first example is see if you can find some of the variables.
+
+Go ahead and type in the chat. Have you found some of these variables.
+
+What would you input for the different values here. I'll give you a chance to type some answers.
+
+All right. Any ideas? One last chance.
+
+Before I go to the answer slide here. What variables did we find?
+
+All right, here we go. Let's take a look. Our input is, uh.
+
+I see some input. Very good. Great job.
+
+Okay, the rate is 5%. Yeah, we like that one because it almost always has a percentage.
+
+Sign next to it. Right. So that's easy to find. Rate 5% five years.
+
+Yeah. The n n per or number of periods usually has a year's right around it.
+
+So yeah that's easy to find. Two five years goes in the end per payment.
+
+Um, do we have any dollar amounts that are repeating over and over again?
+
+No, nothing like that's going on. So we have to put a placeholder zero there but nothing for payment.
+
+Present value. Uh, we have that $500.
+
+Hmm. Is this a cash outflow from our checking account or a cash inflow from our checking account?
+
+The question says we're depositing $500 in a savings account.
+
+Okay, so that is leaving. Checking that is a negative cash outflow.
+
+So the PV in this situation would be -$500 and type.
+
+Hmm. Well guess what. Type only cares about the payment and there are no payments in this question.
+
+So once again we have to put a default zero, a placeholder for the type and then go to our calculation.
+
+If you look in the black box kind of towards the bottom here this is called the formula helper.
+
+This is included in all versions of Excel not just the Excel.
+
+Add in that you added when you started the course. So here's what's going to happen.
+
+When you type in your formula. You're going to enter equals f v.
+
+Shift open parentheses and boom the formula helper is going to pop up.
+
+It's going to look just like this. Basically what Excel is saying here is oh it looks like you're calculating future value.
+
+Well here's the variables that I need to make that calculation.
+
+And going back to an earlier question.
+
+This is why you do not need to memorize the present value or future value formulas, because Excel already has them in its code.
+
+They just need the variables. And so when we input these variables again it's going to look a little bit boring right.
+
+It's going to be equals f v parentheses c1 Connor c2 Connor c3 comma c4 comma c5.
+
+And remember even if we have a placeholder zero we have to include it.
+
+And the cell reference. We're going to shift close parentheses type enter.
+
+And we're going to get our future value amount of $638.14.
+
+How did you do on that first one. Pretty good. All right.
+
+There's more coming here. We're going to go to annuities.
+
+Annuities are where you receive payments along the way.
+
+So we're increasing the complexity just a bit here.
+
+Let's go to some illustrations here. I love this illustration because it demonstrates the importance of the type.
+
+You can see with that ordinary annuity. Remember ordinary is due at the end that where are these hundred dollar payments placed.
+
+Think about somebody who invests on January 1st of 2026 and someone else who invests on December 31st of 2026.
+
+Well, we invested in the same year. Shouldn't are the value of our account be the same in 2027?
+
+No, because the person who invested on January 1st had 364 more days of interest accumulation than the other person.
+
+So again, the values will be different if we use a different type or we pay the payments at a different time.
+
+Let's look at these tips below. Again, starting today means type one.
+
+Do it right away. First thing number one, starting a year from today is a funny way of saying type zero.
+
+The end a year from today is like saying December 31st.
+
+If there are no payments in the problem, there's no type.
+
+We enter in a placeholder zero and once again type is only connected to the payment variable.
+
+It doesn't matter when your future value occurs or your present value.
+
+All right, let's try something with annuity payments.
+
+So go ahead and look through. If you want you can type in variables again.
+
+What variables did you find.
+
+But I'm curious if some of you out there are able to calculate it on your own and get an answer before I go to the answer slide.
+
+So I'm going to give you a couple minutes and then we'll come back and check it out. All right.
+
+Great. I can see some of you found some variables, which is very good.
+
+Does anyone have an answer? Perhaps before I move to the answer side.
+
+Just give you a few more seconds here. One more chance.
+
+All right, here we go. I'm clicking the button. Uh uh uh.
+
+Very good. We got one. Excellent. Excellent job.
+
+Great. I'm glad you were able to work through as we went. Okay, once again, what variables can we find?
+
+Rate is 6%. Yep. It's got that percentage sign right next to it.
+
+And five years, right. It's got years right next to it.
+
+So five is our end per number of periods. Our payment is going to be $500 positive $500.
+
+So first of all we know it's a payment because we're receiving it per year for the next five years.
+
+It's happening five times. So payments are the things that happen over and over again.
+
+So it's got to be in that category.
+
+We're also receiving it, which means the money is a positive cash flow into our checking account or into our hands.
+
+So that's going to be positive $500 for the payment future value.
+
+Nope. I don't see any other dollar amounts that are lump sums.
+
+So that's a placeholder zero and type.
+
+Let's see. Oh how convenient in this problem we gave you, you know, an italicized and bold word here beginning of each year.
+
+Yes. If it's the first thing you do you do it on the first type one.
+
+So type one. Very good. And then again we're going to enter that formula equals PV shift parentheses.
+
+Boom. Your formula helper comes up. And then we're entering the cell reference values.
+
+So again might look something like f1 comma f2 comma f3 comma f4 comma f5 shift close parentheses enter.
+
+And we're going to get a present value of -$2,232.55.
+
+Good job, everyone. But that's not all. Let's keep going.
+
+Here's our next step. This sounds harder than it is.
+
+Complex cash flows, it says. Let's move on to those.
+
+Now, what does this mean? These are uneven cash flows.
+
+So before when we were working with payments, it was the same payment every time.
+
+500 500, 500, 500. Well that's great.
+
+But a lot of things in finance aren't the same payment every single time.
+
+Many times we have uneven or just different cash flows.
+
+How do we calculate that. We have to use a different formula.
+
+There's two calculations that can be used when you're dealing with uneven cash flows.
+
+One is net present value. This is used when we need to find the value of something the present value and internal rate of return.
+
+When we're looking for the rate or the percentage that was earned. So let's go to another example here.
+
+So with this calculation, these are ones I call long skinnies.
+
+And I think by the time we're done you are going to like long skinnies even better than you like
+
+the box problems that we were doing before where all the variables are included in one box.
+
+And these are long skinnies because the cash flows are listed out right there different every year.
+
+Year one is different than year two.
+
+Now when we enter the formula for this, the only trick with this is that the calculation is going to ask you for the PV.
+
+What's the present value of this calculation. Well that's true in everything.
+
+But these are uneven cash flows. We can't use the PV formula.
+
+If we want to calculate the present value we have to use the net present value NPV.
+
+Here's what that calculation is going to look like. We're going to hit the equal sign and PV shift parentheses.
+
+And then we're going to hit the cell reference for the rate.
+
+We're going to hit a comma. And then we can do a nice click and drag all the way through from year one to year four.
+
+Shift close parentheses. And that's going to give us the net present value of $969.08.
+
+And a final example. Oh, we have a question here.
+
+Oh. Very good. Does the VOA use an actual Excel spreadsheet?
+
+Yes. Um, you must install the My Educator um, app that goes along with the course, and that will give you a code,
+
+and the code will go into your Excel, and you'll be able to access the questions for that section of the exam.
+
+The Excel questions are the last questions of the Pre-assessment and the okay.
+
+All right. Great question. So our final example, we are still dealing with the uneven cash flows.
+
+But now we want to calculate the rate of return. In order to do that we have to use the IRR function internal rate of return.
+
+And so again long skinny this one's even easier than the ones before I think you don't have a rate.
+
+You're solving for the rate. All you have are cash flows. So you're going to enter this formula equals IRR shift parentheses.
+
+Boom. Formula helper comes up and it asks for the values.
+
+So we're going to do a left click and drag for all the cash flow cells from years zero to year three.
+
+And then shift parentheses. And we're done.
+
+For this class we are not going to use the guess function.
+
+So you don't have to worry about including it. Don't put a comma.
+
+Don't put anything at the end. Just highlight the values.
+
+Put your shift parentheses and then hit enter.
+
+All right. Hope everybody got something from those calculations and those examples.
+
+Like I said again you can go back and review them again on WGU connect.
+
+Let's move on to module six. Risk and return.
+
+What is a return? It's the gain or loss on an investment over a period of time.
+
+A holding period return is the gain or loss measured just over the time that you owned that security.
+
+And an expected return is something that hasn't happened yet that we're estimating or hoping for.
+
+What about risk? This is kind of an important section.
+
+How do we measure risk for a particular security? The way we measure risk is with standard deviation.
+
+And what standard deviation measures is the variance around a mean or around an average.
+
+Let's take a look at my example at the bottom left here. We have a graph of three different stocks blue stock, green stock.
+
+Orange stock. And when you look at the chart here, um, all of them have an average stock price of $50.
+
+That's the middle. The center point of all three graphs are all three curves.
+
+Now remember standard deviation is going to measure the variance around that $50.
+
+Let's take blue stock. Um, if you had a really bad year the average stock price is going to be $50.
+
+But the worst that it could go would be $35 per share.
+
+If you had a really good year with blue stock, the best that the stock price could be would be $70.
+
+However, with orange stock, the average is still 50.
+
+But that doesn't mean it's the same as blue or green. With orange, if you had a really bad year.
+
+You could go to zero. But if things went fantastic, you could double your money up to 100.
+
+So let's go through these questions together and feel free to type your answers in the chat.
+
+Does blue security have high or low?
+
+Standard deviation. What do you think? All right.
+
+We've got some answers coming in. Few more seconds here.
+
+One thing to think about is that the variance does not measure the height of the curve.
+
+It's measuring the width of the curve.
+
+Remember the width of blue is 35 to 70, but the width of orange is 0 to 100.
+
+A lot more variance with orange right. So moving to our next question.
+
+So sorry answering the first one. Blue security has low standard deviation.
+
+Low variance around that $50 average price.
+
+What would you say about the risk of orange security?
+
+Does orange stock have high risk or low risk?
+
+Yes. Very good. High risk.
+
+Right. Because there's a high variance. Gosh, I don't know.
+
+You could lose everything this year. The stock price could go to zero or you could double your money.
+
+You know, you could make twice as much. Wow. I mean, who knows what's going to happen with orange.
+
+Some examples of blue security might be something like Coca Cola.
+
+You know, the company has been around for a long time. Everybody recognizes the product.
+
+I'm not expecting to double my money in Coca Cola.
+
+Right. But a lot of investors like Coca Cola because it's kind of dependable.
+
+It just, you know, goes along. Bit by bit.
+
+Probably increases a little bit every year. But do I think Coca Cola is going to be around in ten years?
+
+Yes I do. When it comes to orange, I don't know.
+
+Maybe it's a company like Startup Biotech.
+
+You know, maybe they have some technology or a new, uh, research or something for certain diseases.
+
+And wow, if the research goes well, man, you might be a millionaire.
+
+But if the research doesn't go like we thought, oh boy,
+
+orange security startup biotech might be going out of business and going back to the drawing board.
+
+All right, here's the million dollar question that may show up on the Pre-assessment ROA.
+
+Which security has the highest return potential?
+
+What do you think? Blue, green or orange? All right.
+
+Very good. I can tell you guys have been paying attention. All right.
+
+Remember, what do we know about finance? Higher the risk, higher the return.
+
+With orange, there's a chance that we could double our money.
+
+The stock price could go to 100. With blue, we don't even have that chance.
+
+It's pretty impossible to go to 100. That probably would never happen.
+
+And so orange. Higher the risk, higher the return.
+
+Very good everyone. Here's a list from the text from less than 21.
+
+That's good to know.
+
+Anytime I see a list like this with three, 4 or 5 things, I think to myself Hmhm multiple choice questions have four answer choices.
+
+So man, this is pretty pretty easy for the question writers to scoop up, right?
+
+All they need to do is figure out a situation and you have to do the hard work.
+
+They just have to pick four of these and you got to figure out which one it is.
+
+And so understanding how corporations manage risk could be helpful on the exam.
+
+So we can diversify risk spread the risk out spread it to different areas different suppliers uh different products whatever it is risk separation.
+
+You'll recognize this in a question because this will often talk about physical separation.
+
+You know, we have uh, we have plants in three different states or we operate in ten different countries.
+
+Risk transfer. Think insurance. Yes.
+
+Corporations have options for where they can transfer their risk. But most of the time it's going to be an insurance policy.
+
+Risk retention. Here the answer is kind of in the name.
+
+This means that we retain the risk in-house.
+
+The company deals with the with it themselves and risk avoidance.
+
+Yes, this can be easily recognized in a question because you're leaving completely.
+
+You are discontinuing that product line. You are leaving that high risk country.
+
+You are, you know, deciding not to manufacture that product anymore.
+
+Whatever it is, it's avoiding the risk completely.
+
+You're not acknowledging it. Moving on. You're leaving it there and walking away.
+
+All right. Risk versus return. Covered in lesson 22.
+
+One of my pet peeves with the text book is that they'll give you a term,
+
+and then they'll give you three other names that that term is known by systematic and unsystematic risk or that way.
+
+The main differences here is that market risk affects everyone in an economy.
+
+One way I remember it, or a memory trick is systematic risk.
+
+Uh, it's just part of the system. It's just part of the way we do business in the United States.
+
+Whether you sold oil and gas or medical equipment or cans of Coca-Cola in 2022, you were having to deal with 6.5% inflation on average.
+
+It affected everybody. That was a market risk or a systematic risk.
+
+Unsystematic risk, also known as firm specific risk.
+
+That kind of gives it away right. That affects a specific company or industry or maybe even geographic location, but it doesn't affect everybody.
+
+Another term for systematic risk is Beda.
+
+And the textbook goes a little more in depth with data here.
+
+So let's talk through that. It's a type of market risk.
+
+Beta measures the volatility of a security compared to the market as a whole.
+
+Usually it's measuring the S&P 500. Now keep this in mind with beta.
+
+The beta of the stock market is always one.
+
+If it goes up the beta is one. If the S&P 500 goes down, the beta is one.
+
+That is our benchmark that we compare everything else to.
+
+How would a stock with a beta of two perform compared to the market?
+
+Well, again, the general stock market has a beta of one.
+
+If our stock has a beta of two, which is also known as an aggressive stock,
+
+that would mean it's going to do twice as much as whatever the market does.
+
+So if the stock market goes up 10%, guess what?
+
+My stock went up 20%. Hey, this is fabulous.
+
+I should have a whole portfolio of aggressive stocks, don't you think?
+
+Well, wait a minute. When the stock market goes down 10%, my aggressive asset again goes down twice as much.
+
+So I lose 20% of value on my investment.
+
+Ouch. So, okay, maybe having a diversified portfolio is the way to go.
+
+Still. What does it mean if the beta is zero?
+
+Well, this is going to be a type of security that doesn't really care what the market does.
+
+It's not affected by the S&P 500. A good example of a security that has a beta of zero or very close to zero would be a United States Treasury bill.
+
+This is short term debt that the government is going to pay back.
+
+Now, whether the stock market goes up or down doesn't have much to do at all with whether the government is going to pay back your money.
+
+So the beta would not be affected by stock market performance.
+
+All right. This wraps up unit three, modules four, five and six.
+
+Thanks for attending this evening. If you have any questions, like I said, I'm going to leave some time to answer some here.
+
+Um, also, you could schedule an appointment with any D076 instructor.
+
+You can access this video, slides and other topics on WGU connect and you could also email the course inbox.
+
+And I have the address here. So thank you all for attending and let me know if you have any questions as we wrap up here.
+

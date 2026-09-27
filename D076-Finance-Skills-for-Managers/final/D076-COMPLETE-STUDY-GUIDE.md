@@ -1,11 +1,121 @@
 # WGU D076 — Finance Skills for Managers
-## Working Notes (accumulate until ready for final study guide)
+# COMPLETE STUDY GUIDE (Pass-Focused)
 
-> Status: **FINAL GUIDE COMPLETE** — see `final/D076-COMPLETE-STUDY-GUIDE.pdf` and `.docx`
-> Trusted sources: Unit 2–6 quizzes/tests + instructor transcripts (U3, U4, Mod9 I/II, U6)
-> Reddit OA tips = strategy only | Quizlet remained on hold (not used as answer source)
+**Sources:** Your unit tests & module quizzes (with correct answers) + instructor cohort transcripts (Units 3, 4, Module 9 Forecasting I/II, Unit 6)  
+**How to use:** (1) Memorize the **OA Decision Cheat Sheet** first, (2) drill **Key Concepts**, (3) quiz yourself with the **Practice Q&A** banks.
 
 ---
+
+## OA Decision Cheat Sheet (Memorize First)
+
+### Capital budgeting (Unit 6) — which method?
+| Situation | Use |
+|-----------|-----|
+| Only **one** project / maximize **$ value** / **mutually exclusive** | **NPV** (highest NPV wins) |
+| Limited capital; rank several projects | Highest **PI** first until budget used |
+| Communicate return as a **%** / easy story | **IRR** (if conventional cash flows) |
+| Unconventional CFs (multiple sign changes) | **NPV** (multiple IRRs problem) |
+| Accept NPV | NPV **> 0** |
+| Accept IRR | IRR **> hurdle / cost of capital** |
+| Accept PI | PI **> 1** (PI = 1 → IRR = cost of capital; NPV ≈ 0) |
+| Answers shown as **$** | Likely **NPV** |
+| Answers shown as **%** | Likely **IRR** |
+
+### Excel TVM (Unit 3 — most tested unit per instructors)
+| Need | Function / tip |
+|------|----------------|
+| Money needed **now** for future withdrawals | **PV** |
+| Grow money to a future amount | **FV** |
+| Uneven CFs → PV in one step | **NPV** |
+| Uneven CFs → rate of return | **IRR** (cash flows only) |
+| Ordinary annuity (end of period) | TYPE **0** |
+| Annuity due (beginning / today) | TYPE **1** |
+| Argument order | rate, nper, pmt, pv, type |
+| Money leaving your hands | usually **negative** PMT |
+
+### Forecasting (Unit 5 / Module 9)
+| Idea | Rule |
+|------|------|
+| Spontaneous accounts | Vary with sales (COGS, cash, AR, inventory, AP) |
+| Discretionary | Management choice (notes payable, LT debt, common stock) |
+| DFN | Proj Assets − Proj Liab − Proj Equity (after pro formas) |
+| Negative DFN | Enough financing already |
+| ↓ DFN | ↑ plowback/retention, ↑ net margin; check **fixed assets** first |
+| SGR | Grow without **new equity**; ↑ SGR by ↓ dividends / ↑ retention |
+| Fixed assets | **Lumpy** — buy whole factory, not a fraction |
+
+### Ratios & DuPont (Unit 4)
+| Idea | Rule |
+|------|------|
+| Suppliers / ST creditors care about | **Liquidity** |
+| Quick vs current | Quick **excludes inventory** |
+| High inventory turnover vs peers | May mean **not enough inventory** |
+| ACP too high vs industry | **Tighten credit standards** |
+| Debt ratio 40% | 40% of **assets** financed by debt |
+| Operating margin | Compare firms with different capital structures |
+| Net margin 7% | 7¢ per $1 sales for **equity holders** |
+| M/B > 1 | Growth expected; M/B < 1 = **value stock** |
+| DuPont ROE | Net Margin × Asset Turnover × Leverage |
+| ↑ ROE | ↑ debt financing and/or ↑ net margin |
+| Trend | Same firm over time |
+| Cross-sectional / benchmark | vs peers / industry |
+| Progress | vs a **goal** |
+
+### Cash flows to include / exclude (Unit 6)
+| Include | Exclude |
+|---------|---------|
+| Incremental CFs | Allocated overhead |
+| Incidental CFs | **Sunk costs** (prior consulting, prior market study) |
+| Cannibalization of **your own** products | — |
+| Opportunity cost (e.g., forgone land sale offer) | Already-spent purchase if offer is the true opp. cost focus |
+
+### Indicators / ethics / agency (Unit 2)
+| Item | Answer |
+|------|--------|
+| Leading | Yield curve (before economy) |
+| Coincident | Personal income, GDP (during) |
+| Lagging | CPI, unemployment (after) |
+| Inverted yield curve | Possible downturn |
+| Firm goal | Maximize **owner wealth** |
+| Personal goal | Maximize **utility** |
+| Ethical / Moral / Legal | Standards of conduct / personal beliefs / laws |
+| Agency fix | Align via **ownership / executive compensation** |
+
+---
+
+## Instructor Cohort Highlights (Your Transcripts)
+
+### Unit 3 — Fundamental Financial Principles (instructor)
+- **Unit 3 is the most tested unit on the exam.**
+- Covers interest/required return/inflation, TVM Excel, and risk & return.
+- Excel on PA/OA uses **compound interest** concepts.
+- Simple interest = straight line (P×R×T); compound = exponential (interest on interest).
+- Practice every Excel problem type before the PA/OA.
+
+### Unit 4 — Financial Ratios Review (instructor)
+- **Trend** = same firm over time; **Progress** = toward a **goal**; **Cross-sectional** = vs peers; benchmarking is a form of cross-sectional.
+- Banks & **suppliers** care about **liquidity**.
+- **Quick ratio** (acid test) excludes inventory — always ≤ current ratio.
+- **DuPont** focuses you on what drives ROE: profitability, asset efficiency, leverage.
+
+### Module 9 — Financial Forecasting I & II (instructor)
+- Spontaneous accounts **react to sales**.
+- DFN = projected assets − projected liabilities − projected equity.
+- **Lumpy assets** = purchased in large non-divisible chunks (new machine/factory).
+- Higher retention & higher ROE → higher SGR; firms dislike issuing new shares (dilution/price hit).
+- Higher earnings retained → more internal equity → **decreases DFN**.
+- Interest expense on pro formas can be independent of sales/operations.
+
+### Unit 6 Cohort (instructor)
+- OA is about **application**, not just terminology.
+- **One project / choose one** → start with **NPV** (exact $ value added).
+- NPV advantages: all CFs, TVM, cost of capital/risk built in. Disadvantages: hard cost of capital; bad for different sizes.
+- IRR easy as %; don’t use for mutually exclusive or multiple-IRR projects; prefer NPV when conflict.
+- PI = benefit/cost ratio; best when **budget constraints**; prioritize highest PI.
+- NPV = how much value; PI = how efficiently value is created.
+
+---
+
 
 # Unit 2 — Foundations of Finance
 
@@ -1089,8 +1199,6 @@ Do **not** decrease DFN by decreasing retention / increasing dividend payout / d
 | Unit 6 NPV / IRR / PI + securities + incremental CFs | Captured |
 | Unit 6 Assessment Section 1 & 2 (sunk costs, Beckingham, PI=1, traps) | Captured |
 | Reddit OA tips | Strategy only |
-| Instructor transcripts (U3, U4, Mod9 I/II, U6) | Captured |
-| Final study guide PDF/DOCX/MD | Complete in `final/` |
-| Quizlet | ON HOLD (not used) |
+| Quizlet | ON HOLD |
 
 *(Add more units/forms/transcripts as provided.)*

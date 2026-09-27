@@ -1,0 +1,601 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+I hope everybody had a good holiday. Um, we're going to get started.
+
+This is going to be session one. There's actually two sessions on this.
+
+Okay. So during this session we're going to discuss what I'll say is the purpose of financial forecasting.
+
+Introduce why financial forecasting is important as well as who uses this information.
+
+And how does it help decision makers navigate a firm's expected financial performance?
+
+Um, we'll see how these tools are used to help assess the financial needs of an organization.
+
+That's quite frankly, that's what it is. It's about the firm, how much money they need to operate.
+
+Now, I'll give you my 32nd commercial. I wasn't always in academia.
+
+I was a finance director for about 30. Uh, since I 30 was about 20 years on Wall Street.
+
+Um, J.P. Morgan, Lehman Brothers. Uh, I was a muni bond analyst When I left Finance or Wall Street, I ended up being my own,
+
+opening up a number of businesses from executive search to land development, building and so forth.
+
+Went into academia, um, started teaching finance, accounting, uh, economics.
+
+Um, I had my MBA in finance, I had my doctorate in finance and was a program chair as well as a campus dean of a university.
+
+So I've been around the block a couple of times.
+
+I hold these sessions in a very loose manner, meaning that if you have questions along the way, don't wait till the end.
+
+I have a screen up that shows chat, so ask away, okay?
+
+And I will just blend that into whatever we're talking about.
+
+Does that sound fair to everybody? Sounds like a plan. Great.
+
+So let's start by sharing the screen, because I was doing this the other day and I was talking and I forgot to share,
+
+so I don't want to do that this time around. So let's see if I can do that.
+
+Okay. Let's see. Can everybody see the screen?
+
+And help. If I could find the chat because I just lost the ten on my side.
+
+Just bear with me. Okay, so that being said.
+
+I'm looking at the wrong screen. Okay. Perfect.
+
+So now that I got the right screen in front of me, I'll ask again.
+
+Can everybody see the screen? Perfect.
+
+Okay. I worked really hard on that screen, so, you know.
+
+Hoping you can see it anyway. The purpose of financial forecasting.
+
+As I said in the quick intro, it's really to help managers make decisions again on the firm's future performance.
+
+And the only way you can talk about a future performances, you know, knowing how much money is needed to operate.
+
+You know, I want you to think of this. We've all heard the saying, um, vision of a business.
+
+But I got to tell you, without proper financing, a business vision is just an illusion.
+
+So it's really important to understand where to get and how and when is needed for financing.
+
+So a really quick review before we, you know, do a deeper dive.
+
+Um, three basic steps for financial reporting or financial forecasting.
+
+You start with the firm sales side. We're going to discuss why we look at the expenses.
+
+Again, it's over the planning period.
+
+We want to be able to estimate how much money we need to put into our current and fixed assets, and we're going to talk about that.
+
+But I want to leave you, you know, with the with the term lumpy assets.
+
+Okay. And we'll I'll talk about that in a little bit. But that's what I'm referring to when I talk about investment.
+
+It's not about investing in stocks and bonds. It's investing into the plant, uh, equipment,
+
+things of that nature and then determining the firm's financing needs throughout the planning period so we could fund its assets.
+
+If you remember from your days of finance accounting rather.
+
+Assets are what the company owns. Liabilities and owner's equity.
+
+How did the company pay for the things it owns? Well, at financing, we need to figure out how to pay for the things we want to buy.
+
+Okay. In order to operate. So we start with the sales forecast.
+
+Any idea why? And I know it's early, so if you don't know, that's okay.
+
+Well, if you say you know what? I've only haven't had my coffee yet, so I'll just go through a few reasons.
+
+Number one, it helps managers predict and plan for demand throughout the year.
+
+Okay. Keeping appropriate levels of stock you don't want.
+
+You know, if you ever went to a store and they didn't have what you needed.
+
+And so what did you do? You went to their competitor. So it's to keep the proper level of stock.
+
+Hiring temporary staff for peak areas, spacing out projects.
+
+Because you remember the capital structure of an organization is to fund the projects.
+
+So I need to be able to understand, uh, what's going to preoccupy the, the, uh, the, the money of the firm.
+
+Um, so that's the first reason. The second reason is to make better business investments, make better decisions.
+
+Um, to number three would be to quickly identify and mitigate potential problems, look for bottlenecks.
+
+That might be maybe you need to change the sales compensation plan.
+
+Maybe there's competitor promotions.
+
+How do you fund that if your competitor is doing something that you would be like, oh my goodness, I should have done that.
+
+What do I do now? How do I make sure that I have enough money on hand to protect the business and so forth?
+
+So the other area of why we start with the sales processes,
+
+because we want to always constantly improve our sales process, and it also is a better way of improving company morale.
+
+I know you don't see it as a as a main, but better planning means better decisions.
+
+Better decisions is better sales process. Better sales process mitigates problems.
+
+Without problems, you get better morale. So that's in essence why we start with the sales forecast.
+
+Does that make sense to everybody? Okay great.
+
+Okay. So sales forecast the key ingredient in is in a firm's planning process is the sales forecast.
+
+Okay. Um it's all about past trends okay.
+
+You're looking at your history to predict the future. That's all that is.
+
+Okay. So when we talk about profit forecasting and you can see what it what it says right there, I want you to think of it more like this.
+
+It's the as the earnings change with changes in production or service cost depreciation policy and taxes.
+
+That's really what it is. Okay.
+
+It may be necessary for a company to conduct a thorough study and estimation on both economic and non-economic variables that affected sales volume,
+
+as well as the cost to operate the business that affect profits in the future.
+
+If you think about what has been going on for this past year with Covid, and I can't think of any company that prepared themselves for this pandemic,
+
+um, you can bet they're they're planning now on what to do for what it turns around.
+
+and if it lingers. So there.
+
+Every company is now looking at what do they do? So then you say okay, balance sheet forecasting.
+
+And and it's typically done with the income statements which is the sell side.
+
+But given this, given an understanding of the sales growth and a profit forecast,
+
+a financial manager could construct what's called a pro forma balance sheet.
+
+And we'll talk about pro forma a little bit.
+
+But the pro forma balance sheet gives them a way to understand how sources and uses of financing change in a company.
+
+So it's always important to think of the balance sheet as sources and uses of funds.
+
+Again I mentioned a little bit a little while ago. Assets are what the company owns.
+
+Liabilities are known as equities. How the company pay for the things it owns, sources and uses of funds.
+
+That's all that is. So Balance sheet forecasting helps management understand the future asset earning potential of the company.
+
+So then we get to finance forecasting financing needs.
+
+And you're going to hear it as DFM discretionary financing external financing FM and additional financing.
+
+AFN I don't want you to get lost in semantics okay.
+
+So in general growth requires an increase in assets in the form of additional working capital.
+
+Think more inventory, more receivables coming in as well as additional possible fixed assets.
+
+That's your property, plant and equipment that's not lumpy asset I was talking about.
+
+Of course, increasing assets requires increasing financing because you remember the old adage assets equal liabilities plus owner's equity.
+
+So increasing assets requires the firm to either borrow more money or increase increased equity from either retained earnings or issuing new stock.
+
+But I got to tell you. Companies don't like issuing stock. It's really expensive. And the shareholders don't want the company to issue stock,
+
+because if they had 100 shares valued at $1 each and now the company issued another 100 shares, now this is only worth $0.50.
+
+So it dilutes what they have. So the question that forecasting answers is given the expectations for future growth,
+
+for instance, in sales and asset base and so forth, how much additional finance will you need?
+
+Does that make sense to everybody? Okay great.
+
+So then we say okay financial financial forecasting is not budgeting.
+
+Who thought that financing forecasting and budgeting were the same thing?
+
+I'm the only one. Okay. Thank you for being honest.
+
+I'll tell you when I was in, when I first started working in Wall Street and I was looking at a budget,
+
+looking at a forecast, I didn't know they were different. So I, you know, there is a major difference for, you know, look at what I have highlighted.
+
+Financial forecasting estimates the number of sales that will be achieved in the future.
+
+Okay. So why? While budgeting quantifies the expected performance that a company wants to achieve for in a future period.
+
+Financial forecasting estimates the number of sales that will be achieved in the future to understand the future financial needs of the company.
+
+Does everybody see the difference there? Does anybody want me to repeat that?
+
+That sentence. Okay, great.
+
+Brings us to our next slide, which is our budget budgeting.
+
+A budget typically is compared to actual results.
+
+To understand why and how the companies performance differed from expected results, we call that a variance analysis.
+
+You know, in a variance analysis is just not reporting why it's different from actual compared to budget of variance analysis.
+
+Our understanding the driving forces behind the difference.
+
+So with budgeting a management team can take actions to adjust the budget based on the company's actual performance.
+
+Okay. That's budgeting.
+
+Forecasting on the other hand, is used to take immediate actions, such as changing the company's credit standards, its inventory, holdings, holdings,
+
+production levels, dividend policies, policies, etc. so unlike budgeting, there's no variance analysis to compare forecast with to actual performance.
+
+Because we're looking on a financial position, not comparing just actual to what we think was going to happen.
+
+So financial forecasting is a report illustrating whether the company is it's
+
+reaching its budget goals and showing where the company is heading in the future.
+
+Okay. That's the difference. How much money may be needed.
+
+So we have a few tools to look at.
+
+One of them is going to be the percentage of sales method. And we'll discuss why.
+
+Another one will be SDR sustainable growth rate. We'll discuss why.
+
+And obviously discretionary additional and external financing needs we're going to talk about as well.
+
+So I'm going to start with the percentage of sales method.
+
+Okay. Here's rule number one.
+
+Okay. You should not be afraid to refine the estimates from this method if you have better information.
+
+It's great to run with what you have, but do not be afraid to change it.
+
+Does that make sense when you're in business? Yeah, you don't ever want to be married to it, you know, because you just don't know.
+
+Things change. So the percentage of sales method of.
+
+And I know everybody likes the slide I put together.
+
+Um, again, you should not be afraid to change it once you have better information.
+
+It involves estimating the level of an expense, asset or liability for a future period as a percentage of its sales forecast.
+
+Remember, that's where we start with everything was tied to sales.
+
+The percentages used can then come from recent financial statements or from averages over past years,
+
+or from, quite frankly, judgments of an analyst or manager.
+
+I'll tell you, 90% of a good 90% of a good forecast or budget comes from somebody's gut.
+
+All right. Intuition based on and supported by numbers.
+
+Um, and then pro forma forecasting financial statements are created.
+
+Okay. So it's all about company sales when you're dealing with the percentage of sales method to create a pro forma.
+
+And we're going to show you, Luce, I'm going to try to show you how we do it.
+
+So it's important to know.
+
+Financial forecasting requires what I call a number of assumptions.
+
+That's where the gut comes in I was telling you about.
+
+So these key assumptions include predicting, assuming future sales levels, the relationships between sales and assets, and the firm's profitability.
+
+Because assumptions are used, forecasting is vulnerable to.
+
+And I know everybody's heard this garbage in, garbage out.
+
+Has anybody not heard that. That's why you don't fall in love with what you have.
+
+Whenever you get better information, you apply it to this because a percentage of sales is a quick and easy approach.
+
+Okay. So. Either the analysts are free to use whatever assumptions they want in their gut.
+
+They could put in any desire to get the end results that they're looking for.
+
+If the analyst doesn't make the correct assumptions or look at them carefully.
+
+The forecast will be inaccurate. Now, I will tell you that budgets and forecasts typically are inaccurate.
+
+However, that's always because I thought budgets and forecast forecasts were the same thing,
+
+and forecasting was always about how much money the company needs for future growth, for sustainability, and to get where they want to be.
+
+So we have something called spontaneous accounts, and spontaneous accounts are those that vary with sales.
+
+Okay. That is a sales increase or decrease.
+
+Some accounts like accounts receivable inventory accounts payable automatically increase as well.
+
+Spontaneous assets and liabilities are normally automatically accumulated as a result of the firm's day to day business activities.
+
+So for instance, assume that a company produces and sells cars.
+
+If the company anticipates sales growth in cars, it's it orders raw materials to match up and manufacture more cars,
+
+holds more finished cars to increase its inventory and then to meet the sales growth.
+
+It's now prepared. Okay, so when the raw materials are purchased, the accounts payable money that's owed increases as well.
+
+So the sales growth also increases both the cash and accounts receivable because not everybody pays in cash.
+
+And this projected growth in spontaneous accounts you realize then will be an important measure for companies to evaluate how much more funding,
+
+how much extra money is needed to meet that growth does that?
+
+Does that make sense what spontaneous accounts are?
+
+So it's a big assumption saying, okay, if my sales are going to go up 5%, that means everything else related to sales is going to go up or down 5%.
+
+That's the major assumption. Okay. So spontaneous accounts leads to spontaneous financing.
+
+I want you to think of this. I know it's December 26th, so why not think of an ice cream parlor?
+
+Okay, so everybody owns their own little ice cream parlor, and it's meh.
+
+And you're about to open up for business, and you say, okay, I anticipate my business to increase automatically.
+
+I'm going to grow my business. Ten, 15, 20, 100%, whatever the case may be.
+
+Well, what are you going to need? You're going to need if you have more sales, you're going to need more ice cream.
+
+There's your inventory. I'm going to need more spoons, more napkins, more cones, more bowls, more of this.
+
+So that's what they're talking about. I'm also going to have more expenses, more accounts payable because I got to pay for these things.
+
+But I'm also going to get more cash. Get more accounts receivable. Does that make sense in terms of spontaneous accounts?
+
+So I did mention something called a lumpy asset before. So imagine now you have your ice cream parlor and you have a machine.
+
+And I'm making all these numbers up. So say your ice cream cone, your soft machine.
+
+Cone machine makes 50 cones per day. I know it's unrealistic because I could eat 50 cones per day, so imagine it makes 50 cones per day.
+
+And you say, you know what? I think my growth is going to be to at least 80 cones a day.
+
+Well, if that's the case, you have to now buy a lumpy asset, another piece of machinery that will give you another 50 cones.
+
+So now you can afford that growth. Well, how do I afford that machine?
+
+So that's what we're talking about. So when you hear and think about spontaneous financing, and they talk about fixed assets.
+
+That's what they're talking about. Not just this ice cream cone, but once I reach a certain threshold,
+
+I'm going to have to buy more fixed assets to adhere and meet the growth, the expected growth.
+
+Does that make sense to everybody? Okay, great.
+
+Which brings us to discretionary accounts. So we're going to go back to that car company.
+
+Okay. So if a car company expects a growth in sales, we could assume that the company's bank loans or bonds increase in proportion to sales growth.
+
+Is that right or wrong? Well, I'll repeat that. Dealing with discretionary accounts.
+
+If the car company that we were talking about earlier. Epic expects a growth in sales.
+
+We can assume that the company's bank loans or bonds increase in proportion to the sales growth.
+
+Is that right or wrong? Yeah, right.
+
+The answer is flat out no. Okay. If extra funds are needed,
+
+management is going to try to find a way to to manage the additional financing needs without getting new loans or issuing new stock if possible.
+
+Okay. So these accounts do not need to not necessarily increase automatically with sales, but are left to the discretion of management.
+
+Hence the word discretionary account. Does that make sense to everybody.
+
+Does anybody want me to repeat that. Okay. Which brings us to the percentage of sales method, which is just seven steps.
+
+First step and yes, if you get to say he's reading the slide.
+
+Yeah, I'm reading the slide. It's seven steps. You want to project the sales revenues and expenses.
+
+So one is to project. Two is to forecast. You want to forecast the change in that spontaneous balance sheet accounts.
+
+We were just talking about that inventory accounts receivable. Accounts payable accounts inventory.
+
+You want to deal with the discretionary accounts. Maybe you have to get a loan.
+
+Maybe you don't. But at this point is when you start looking at the using the percentage of sales method to create a formula,
+
+to start looking at these things, you estimate that fixed asset account.
+
+Again, you're at that ice cream cone deal. Uh, Paula, again, do I need that extra machine or not?
+
+If I, if I don't get that machine and spend the money to get make those other cones, I'm going to lose customers to my competitors.
+
+And then you calculate retained earnings, determine the financing needs for projected assets and then calculate your financing needs.
+
+Okay. That's the the percentage of sales method.
+
+So when you're looking at the percentage of sales method I always considered this method as a shortcut.
+
+Okay. It's less exact. It's an easy method for determining financing needs.
+
+So when you think of percentage of sales method, think of it as a quick and dirty approach.
+
+I know I shouldn't say that being recorded, right, but that's the way that to think about it.
+
+It's a really quick approach and you can see the math. I'm just taking the assets divided by current sales to come up with a percentage of sales.
+
+So if we wanted to look at this method and we wanted to look at how much sales is expected to increase.
+
+How does it impact our accounts? We'd say okay.
+
+Which accounts is it going to impact again? You got your cash, accounts receivable, inventory, fixed assets.
+
+That's my balance sheet. Assets. Got my accounts payable. Balance sheet liabilities.
+
+I got my sales, cost of goods sold and net income. That's my income statement.
+
+Okay. So imagine we say, okay, let's just put a value to all of these accounts.
+
+Okay. I say I'm going to have currently I have $500 in my cash account.
+
+I have 600 accounts receivable. Those that money people owe me.
+
+I have an inventory worth $850. I have machinery, fixed assets.
+
+I have 1200. I have bills, accounts payable, my liabilities of 900.
+
+And that sells hoops is $2,000.
+
+And that's a horrible color I picked. So I apologize for that, but that sales is $2,000 and then cost of goods sold is 700 with net income of 1300.
+
+And all we're doing is taking sales -700. The cost of goods sold gives us net income.
+
+All we want to do is take the balance. Divide that by sales.
+
+That's all we're doing in the percentage of sales method.
+
+So if I take if we had that sales that's that color that you could hardly say and I say, okay, I'm going to take my $500 in cash divided by 2000.
+
+So now I have 25%. Do the same thing with accounts receivable and so forth.
+
+And now I have percentages. Does everybody see how that worked?
+
+What we're doing is taking the balance of what we currently have and putting it over sales.
+
+Does that make sense to everybody? Okay, great.
+
+So now we say, okay, my cash is now going to be increased by 25%.
+
+It was $500. I'm now going to forecast it to be 625.
+
+My accounts receivable was 2000. Now it's going to be 780.
+
+And if you think about it, 600 in accounts receivable times and really multiplying by 130%.
+
+Okay. The 30% is just the add on. Okay.
+
+30% of 600 is one 8180 plus 600 is 780.
+
+Did I really see how that works? Yes.
+
+No. Maybe. Okay, so now I'm creating a new value based on my sales.
+
+Okay. Um. All right.
+
+I don't know why there's a sorry there. Does somebody.
+
+Do you have a question? If you do, let me know.
+
+Um, so all we're doing is we're taking a value of what we had, dividing it by the sales coming up with a rate and taking that rate and applying it to.
+
+Oh, okay. Got it. Applying it to, um, the value and that's all.
+
+Which brings us to a pro forma income statement okay.
+
+Pro forma income statement is just a guesstimate. Applying these values here now to our State financial statements in this case, the income statement.
+
+Um. So if you think about it, if sales grow at 10% next year and that means costs expenses estimate.
+
+Estimate except for depreciation will also grow 10% next year.
+
+So that assumption is based on the observation that when a firm has sales increase,
+
+the firm needs to purchase more raw materials, more labor hours, etc..
+
+Does everybody see how that percentage of sales works? Okay.
+
+Um, so which brings me to this.
+
+Some questions. Okay. So which of the following balance sheet accounts is not impacted by an increase in sales?
+
+Well okay. So yeah, notes payable would be the answer.
+
+Because regardless of whether I have a dollar in sales or $1 million in sales,
+
+whatever I am contracted to owe in my note payable is what I own, what I owe.
+
+Rather okay. It's just like just so my my mortgage is XYZ $1,000 just say a month.
+
+Well, my rent's $1,000 a month. Regardless of how much I sold, I still have to pay that rent.
+
+It's not changing. So calculate the forecast sales in the following information.
+
+Current sales is $500. Growth rate is 10%. Cost of goods sold is 300.
+
+Net income is 200. What's the forecast?
+
+cells. I know math early in the morning.
+
+Anybody wanna take a guess? This is a good guess, but here's the way to think about it.
+
+Your current cells. And that's what we're looking for. What is the, you know, calculate the forecast cells.
+
+If we know that the cells is $500 and the growth is going to be 10%, then it's just going to be that 500 times 110%, which is going to be G 550.
+
+Okay. If a company decides to issue shares in order to raise $2,000, which of the following accounts would increase in the pro forma balance sheet.
+
+And another getting tricky, right? So if a company decides to issue shares in order to raise $2,000.
+
+Which of the following accounts would increase in the pro forma balance sheet?
+
+Well, it is a good answer. But think of it this way.
+
+If I'm wondering if I, um, if I'm issuing shares.
+
+Well, obviously the common shares is going to go increase. My long term debt is almost like my notes payable.
+
+My long term debt is is that fixed bond amount.
+
+That's really what long term debt is. That's your bonds. And whenever you hear Barnes, you think of debt.
+
+And whenever you think of debt, you think of risk. And every time you think of risk as leverage, so or vice versa.
+
+So anyway, long term debt is always going to be that fixed interest payment.
+
+Okay. Short term debt. Same thing except it expires sooner.
+
+So the really tricky question is should I put it in A or B d.
+
+And it would be um. A common shares would change.
+
+So what a central component for a financial manager is what a b c d a b c or d.
+
+As you're going. If anybody wants a copy of this, if it's not posted yet.
+
+Because I do not know who's on or not on vacation, just email me and I will send you the,
+
+um, the recording and the slides once I get the, uh, send having it head back to me.
+
+I'm hoping this helps a little bit, at least to get the juices flowing on the material.
+
+Um, more of the what I'll call the heavy lifting. Oh, good.
+
+I'm glad more of the heavy lifting will be. Uh, next session.
+
+Session two. When we get into not just the concepts,
+
+but how to apply it and build these proforma statements and actually built a couple that we can look that we're going to walk through.
+
+Okay. Um, if you don't have questions, everybody have a a, you know, a good holiday weekend.
+
+Um, and if you have questions, do not hesitate to reach out to me.
+
+Okay. Does everybody have my email address? Well, it's Doctor Borg Borg, so it shouldn't be hard to find.
+
+I think I'm the only one. Um, by all means, if you have questions, you could always email me or set up an appointment.
+
+Be happy to help you any way I can. Um, that being said, have a great day and I will talk to you guys soon.
+
+You take care. You're welcome.
+
