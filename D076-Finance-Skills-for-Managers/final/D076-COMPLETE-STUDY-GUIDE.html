@@ -6,6 +6,147 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>WGU D076 Complete Study Guide</title>
   <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -22,22 +163,17 @@
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <link rel="stylesheet" href="/dev/null" />
 
 <style>
   @page { size: letter; margin: 0.7in; }
   body { font-family: Georgia, 'Times New Roman', serif; font-size: 11pt; line-height: 1.35; color: #111; }
-  h1 { font-size: 20pt; color: #0b3d5c; border-bottom: 2px solid #0b3d5c; padding-bottom: 6px; page-break-before: avoid; }
+  h1 { font-size: 20pt; color: #0b3d5c; border-bottom: 2px solid #0b3d5c; padding-bottom: 6px; }
   h2 { font-size: 15pt; color: #0b3d5c; margin-top: 1.2em; page-break-after: avoid; }
   h3 { font-size: 12.5pt; color: #1a5f7a; page-break-after: avoid; }
   table { border-collapse: collapse; width: 100%; margin: 0.6em 0 1em; font-size: 10pt; page-break-inside: avoid; }
   th, td { border: 1px solid #bbb; padding: 4px 6px; vertical-align: top; }
   th { background: #e8f1f5; }
   code { font-family: Menlo, Consolas, monospace; font-size: 9.5pt; }
-  ul, ol { margin-top: 0.3em; }
-  strong { color: #000; }
-  blockquote { border-left: 3px solid #0b3d5c; margin-left: 0; padding-left: 10px; color: #333; }
-  hr { border: none; border-top: 1px solid #ccc; margin: 1.5em 0; }
 </style>
 </head>
 <body>
@@ -77,11 +213,13 @@ value</strong> / <strong>mutually exclusive</strong></td>
 <td><strong>NPV</strong> (highest NPV wins)</td>
 </tr>
 <tr class="even">
-<td>Limited capital; rank several projects</td>
+<td>Limited capital; rank several projects / different upfront
+costs</td>
 <td>Highest <strong>PI</strong> first until budget used</td>
 </tr>
 <tr class="odd">
-<td>Communicate return as a <strong>%</strong> / easy story</td>
+<td>Communicate return as a <strong>%</strong> / easy story /
+screening</td>
 <td><strong>IRR</strong> (if conventional cash flows)</td>
 </tr>
 <tr class="even">
@@ -89,31 +227,55 @@ value</strong> / <strong>mutually exclusive</strong></td>
 <td><strong>NPV</strong> (multiple IRRs problem)</td>
 </tr>
 <tr class="odd">
+<td>NPV vs IRR conflict</td>
+<td><strong>Trust NPV</strong></td>
+</tr>
+<tr class="even">
 <td>Accept NPV</td>
 <td>NPV <strong>&gt; 0</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Accept IRR</td>
 <td>IRR <strong>&gt; hurdle / cost of capital</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Accept PI</td>
 <td>PI <strong>&gt; 1</strong> (PI = 1 → IRR = cost of capital; NPV ≈
 0)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Answers shown as <strong>$</strong></td>
 <td>Likely <strong>NPV</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Answers shown as <strong>%</strong></td>
 <td>Likely <strong>IRR</strong></td>
+</tr>
+<tr class="odd">
+<td>Preferred stock valuation</td>
+<td><strong>Perpetuity</strong> (fixed dividend forever)</td>
+</tr>
+<tr class="even">
+<td>Common stock valuation</td>
+<td><strong>Constant growth / Gordon model</strong></td>
+</tr>
+<tr class="odd">
+<td>Bond valuation</td>
+<td><strong>PV of coupons + principal</strong> (Excel PV)</td>
+</tr>
+<tr class="even">
+<td>Intrinsic &gt; market price</td>
+<td><strong>Undervalued / underpriced</strong></td>
 </tr>
 </tbody>
 </table>
 <h3 id="excel-tvm-unit-3-most-tested-unit-per-instructors">Excel TVM
 (Unit 3 — most tested unit per instructors)</h3>
 <table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 72%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Need</th>
@@ -135,15 +297,15 @@ value</strong> / <strong>mutually exclusive</strong></td>
 </tr>
 <tr class="even">
 <td>Uneven CFs → rate of return</td>
-<td><strong>IRR</strong> (cash flows only)</td>
+<td><strong>IRR</strong> (cash flows only; include year 0)</td>
 </tr>
 <tr class="odd">
 <td>Ordinary annuity (end of period)</td>
-<td>TYPE <strong>0</strong></td>
+<td>TYPE <strong>0</strong> (“Ordinary → 0”)</td>
 </tr>
 <tr class="even">
 <td>Annuity due (beginning / today)</td>
-<td>TYPE <strong>1</strong></td>
+<td>TYPE <strong>1</strong> (“starting today”)</td>
 </tr>
 <tr class="odd">
 <td>Argument order</td>
@@ -151,7 +313,19 @@ value</strong> / <strong>mutually exclusive</strong></td>
 </tr>
 <tr class="even">
 <td>Money leaving your hands</td>
-<td>usually <strong>negative</strong> PMT</td>
+<td>usually <strong>negative</strong> PMT/PV</td>
+</tr>
+<tr class="odd">
+<td>Unused inputs</td>
+<td>Put <strong>0</strong> — never leave blank</td>
+</tr>
+<tr class="even">
+<td>Formulas</td>
+<td>Use <strong>cell references</strong>, not typed numbers</td>
+</tr>
+<tr class="odd">
+<td>TYPE applies to</td>
+<td><strong>Pmt timing only</strong> (not PV/FV)</td>
 </tr>
 </tbody>
 </table>
@@ -171,38 +345,62 @@ value</strong> / <strong>mutually exclusive</strong></td>
 <tbody>
 <tr class="odd">
 <td>Spontaneous accounts</td>
-<td>Vary with sales (COGS, cash, AR, inventory, AP)</td>
+<td>Vary with sales (COGS, cash, AR, inventory, AP, accruals)</td>
 </tr>
 <tr class="even">
 <td>Discretionary</td>
-<td>Management choice (notes payable, LT debt, common stock)</td>
+<td>Management choice (notes payable, LT debt, common stock) —
+<strong>do NOT auto-scale with sales</strong></td>
 </tr>
 <tr class="odd">
-<td>DFN</td>
-<td>Proj Assets − Proj Liab − Proj Equity (after pro formas)</td>
+<td>DFN / AFN / EFN</td>
+<td>Same idea: Proj Assets − Proj Liab − Proj Equity (after pro
+formas)</td>
 </tr>
 <tr class="even">
+<td>DFN &gt; 0</td>
+<td>Need external financing</td>
+</tr>
+<tr class="odd">
 <td>Negative DFN</td>
-<td>Enough financing already</td>
-</tr>
-<tr class="odd">
-<td>↓ DFN</td>
-<td>↑ plowback/retention, ↑ net margin; check <strong>fixed
-assets</strong> first</td>
+<td>Surplus / enough financing already</td>
 </tr>
 <tr class="even">
-<td>SGR</td>
-<td>Grow without <strong>new equity</strong>; ↑ SGR by ↓ dividends / ↑
-retention</td>
+<td>↓ DFN</td>
+<td>↑ plowback/retention, ↑ net margin, slow growth, use idle capacity,
+outsource; check <strong>fixed assets</strong> first</td>
+</tr>
+<tr class="odd">
+<td><strong>SGR</strong></td>
+<td>Grow without <strong>new equity</strong> (debt OK at constant D/E);
+↑ by ↓ dividends / ↑ ROE levers</td>
+</tr>
+<tr class="even">
+<td><strong>IGR</strong></td>
+<td>Grow with <strong>no new debt and no new equity</strong> (RE only) —
+SGR &gt; IGR</td>
 </tr>
 <tr class="odd">
 <td>Fixed assets</td>
-<td><strong>Lumpy</strong> — buy whole factory, not a fraction</td>
+<td><strong>Lumpy</strong> — buy whole factory/machine; only add when
+<strong>over capacity</strong></td>
+</tr>
+<tr class="even">
+<td>Sales capacity</td>
+<td>Actual sales ÷ capacity utilization %</td>
+</tr>
+<tr class="odd">
+<td>Retained earnings</td>
+<td>NI − dividends (<strong>not</strong> a simple % of sales)</td>
 </tr>
 </tbody>
 </table>
 <h3 id="ratios-dupont-unit-4">Ratios &amp; DuPont (Unit 4)</h3>
 <table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Idea</th>
@@ -211,16 +409,17 @@ retention</td>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Suppliers / ST creditors care about</td>
+<td>Suppliers / ST creditors / banks care about</td>
 <td><strong>Liquidity</strong></td>
 </tr>
 <tr class="even">
-<td>Quick vs current</td>
-<td>Quick <strong>excludes inventory</strong></td>
+<td>Quick (acid-test) vs current</td>
+<td>Quick <strong>excludes inventory</strong>; always ≤ current; want
+quick <strong>&gt; 1</strong></td>
 </tr>
 <tr class="odd">
 <td>High inventory turnover vs peers</td>
-<td>May mean <strong>not enough inventory</strong></td>
+<td>May mean <strong>not enough inventory</strong> / stockouts</td>
 </tr>
 <tr class="even">
 <td>ACP too high vs industry</td>
@@ -240,11 +439,19 @@ retention</td>
 </tr>
 <tr class="even">
 <td>M/B &gt; 1</td>
-<td>Growth expected; M/B &lt; 1 = <strong>value stock</strong></td>
+<td>Growth stock; M/B &lt; 1 = <strong>value stock</strong></td>
 </tr>
 <tr class="odd">
+<td>P/E low</td>
+<td>Undervalued / cheaper; P/E high = overpriced</td>
+</tr>
+<tr class="even">
 <td>DuPont ROE</td>
 <td>Net Margin × Asset Turnover × Leverage</td>
+</tr>
+<tr class="odd">
+<td>ROA</td>
+<td>Profitability × turnover only (<strong>no</strong> leverage)</td>
 </tr>
 <tr class="even">
 <td>↑ ROE</td>
@@ -256,7 +463,7 @@ retention</td>
 </tr>
 <tr class="even">
 <td>Cross-sectional / benchmark</td>
-<td>vs peers / industry</td>
+<td>vs peers / industry (benchmark = top performers)</td>
 </tr>
 <tr class="odd">
 <td>Progress</td>
@@ -345,6 +552,40 @@ study)</td>
 </tr>
 </tbody>
 </table>
+<h3 id="risk-quick-hits-unit-3-module-6">Risk quick hits (Unit 3 Module
+6)</h3>
+<table>
+<colgroup>
+<col style="width: 37%" />
+<col style="width: 62%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Item</th>
+<th>Remember</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Systematic / market</td>
+<td>Cannot diversify; measured by <strong>beta</strong> (market β =
+1)</td>
+</tr>
+<tr class="even">
+<td>Unsystematic / firm-specific / idiosyncratic</td>
+<td>Can diversify away</td>
+</tr>
+<tr class="odd">
+<td>Risk strategies</td>
+<td>Diversify, separate (geography), transfer (insurance), retain,
+avoid</td>
+</tr>
+<tr class="even">
+<td>Higher risk</td>
+<td>Higher required / expected return</td>
+</tr>
+</tbody>
+</table>
 <hr />
 <h2 id="instructor-cohort-highlights-your-transcripts">Instructor Cohort
 Highlights (Your Transcripts)</h2>
@@ -352,54 +593,90 @@ Highlights (Your Transcripts)</h2>
 Fundamental Financial Principles (instructor)</h3>
 <ul>
 <li><strong>Unit 3 is the most tested unit on the exam.</strong></li>
-<li>Covers interest/required return/inflation, TVM Excel, and risk &amp;
+<li>Modules: interest/required return/inflation → TVM Excel → risk &amp;
 return.</li>
-<li>Excel on PA/OA uses <strong>compound interest</strong>
-concepts.</li>
-<li>Simple interest = straight line (P×R×T); compound = exponential
-(interest on interest).</li>
-<li>Practice every Excel problem type before the PA/OA.</li>
+<li>Simple interest = P×R×T (straight line); compound = interest on
+interest (Excel on PA/OA).</li>
+<li>Required return = opportunity cost + inflation + risk (hurdle
+rate).</li>
+<li>Inflation causes: demand-pull, cost-push, adaptive expectations
+(wages chase prices).</li>
+<li>Real ≈ nominal − inflation; invest if real return &gt; required
+return.</li>
+<li>Excel: never blank cells (use 0); cell references only; TYPE 0 =
+ordinary/end; TYPE 1 = begin/today; TYPE only affects Pmt.</li>
+<li>Signs: money leaving account = negative; money received =
+positive.</li>
+<li>Uneven flows → NPV (value) or IRR (rate); even repeating Pmt →
+PV/FV.</li>
+<li>Risk width = standard deviation; beta = market sensitivity; T-bills
+≈ beta 0.</li>
+<li>Practice every Excel problem type before PA/OA.</li>
 </ul>
 <h3 id="unit-4-financial-ratios-review-instructor">Unit 4 — Financial
 Ratios Review (instructor)</h3>
 <ul>
+<li>Benefits of ratios: standardization, flexibility, focus,
+evaluation.</li>
 <li><strong>Trend</strong> = same firm over time;
 <strong>Progress</strong> = toward a <strong>goal</strong>;
-<strong>Cross-sectional</strong> = vs peers; benchmarking is a form of
-cross-sectional.</li>
+<strong>Cross-sectional</strong> = vs peers;
+<strong>benchmarking</strong> = vs top performers.</li>
 <li>Banks &amp; <strong>suppliers</strong> care about
 <strong>liquidity</strong>.</li>
 <li><strong>Quick ratio</strong> (acid test) excludes inventory — always
-≤ current ratio.</li>
-<li><strong>DuPont</strong> focuses you on what drives ROE:
-profitability, asset efficiency, leverage.</li>
+≤ current ratio; want &gt; 1.</li>
+<li>Activity ≈ <strong>turnover</strong> (sales); profitability ≈
+<strong>margins/returns</strong> (after costs).</li>
+<li>Leverage = long-term financing/solvency (vs liquidity =
+short-term).</li>
+<li>M/B &gt; 1 growth; M/B &lt; 1 value; P/E low = undervalued.</li>
+<li><strong>DuPont</strong>: ROE = margin × turnover × leverage; ROA
+excludes leverage lever.</li>
+<li>OA is light on calculation, heavy on <strong>relationships and
+decisions</strong> (what raises a ratio?).</li>
 </ul>
 <h3 id="module-9-financial-forecasting-i-ii-instructor">Module 9 —
 Financial Forecasting I &amp; II (instructor)</h3>
 <ul>
-<li>Spontaneous accounts <strong>react to sales</strong>.</li>
-<li>DFN = projected assets − projected liabilities − projected
-equity.</li>
-<li><strong>Lumpy assets</strong> = purchased in large non-divisible
-chunks (new machine/factory).</li>
-<li>Higher retention &amp; higher ROE → higher SGR; firms dislike
-issuing new shares (dilution/price hit).</li>
-<li>Higher earnings retained → more internal equity → <strong>decreases
-DFN</strong>.</li>
-<li>Interest expense on pro formas can be independent of
-sales/operations.</li>
+<li>Forecasting answers “how much money will we need?”; budgeting is
+targets + variances.</li>
+<li>Spontaneous accounts <strong>react to sales</strong>; notes payable
+/ LT debt / new stock do <strong>not</strong> auto-scale.</li>
+<li>DFN = projected assets − projected liabilities − projected equity
+(also called AFN/EFN).</li>
+<li>DFN &gt; 0 = raise external funds; ≤ 0 = no external need /
+surplus.</li>
+<li>Higher growth usually → higher DFN; ↓ DFN via retention, margins,
+capacity, slower growth, outsourcing.</li>
+<li><strong>Lumpy assets</strong> = large indivisible purchases; check
+<strong>sales capacity</strong> before adding PP&amp;E.</li>
+<li>RE = NI − dividends (not % of sales).</li>
+<li><strong>SGR</strong> = no new equity (debt OK, constant D/E);
+<strong>IGR</strong> = no new debt or equity.</li>
+<li>↑ retention and ↑ ROE → ↑ SGR; firms dislike issuing new shares
+(dilution).</li>
+<li>Interest on pro formas can be independent of sales; refine % of
+sales when you have better data.</li>
 </ul>
 <h3 id="unit-6-cohort-instructor">Unit 6 Cohort (instructor)</h3>
 <ul>
 <li>OA is about <strong>application</strong>, not just terminology.</li>
-<li><strong>One project / choose one</strong> → start with
-<strong>NPV</strong> (exact $ value added).</li>
-<li>NPV advantages: all CFs, TVM, cost of capital/risk built in.
-Disadvantages: hard cost of capital; bad for different sizes.</li>
-<li>IRR easy as %; don’t use for mutually exclusive or multiple-IRR
-projects; prefer NPV when conflict.</li>
-<li>PI = benefit/cost ratio; best when <strong>budget
-constraints</strong>; prioritize highest PI.</li>
+<li>Ideal method: all relevant CFs + TVM + cost of capital →
+<strong>NPV</strong> meets all three.</li>
+<li><strong>One project / choose one / similar size</strong> →
+<strong>NPV</strong>; capital constraint + rank → <strong>PI</strong>;
+intuitive % → <strong>IRR</strong>.</li>
+<li>NPV vs IRR conflict → <strong>NPV wins</strong>; IRR cannot choose
+mutually exclusive projects.</li>
+<li>PI = PV(inflows) / initial outlay; value <strong>efficiency</strong>
+per dollar.</li>
+<li>Debt: tax shield, no ownership given up; Equity: no fixed repayment,
+dilution risk.</li>
+<li>Preferred = perpetuity; common = Gordon/constant growth; bond = PV
+of cash flows; CAPM for expected return.</li>
+<li>Intrinsic &gt; market → underpriced; include opportunity costs &amp;
+cannibalization; <strong>exclude sunk costs</strong>.</li>
 <li>NPV = how much value; PI = how efficiently value is created.</li>
 </ul>
 <hr />

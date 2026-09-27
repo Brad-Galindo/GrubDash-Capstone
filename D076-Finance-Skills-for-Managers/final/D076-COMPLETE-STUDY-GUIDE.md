@@ -12,14 +12,19 @@
 | Situation | Use |
 |-----------|-----|
 | Only **one** project / maximize **$ value** / **mutually exclusive** | **NPV** (highest NPV wins) |
-| Limited capital; rank several projects | Highest **PI** first until budget used |
-| Communicate return as a **%** / easy story | **IRR** (if conventional cash flows) |
+| Limited capital; rank several projects / different upfront costs | Highest **PI** first until budget used |
+| Communicate return as a **%** / easy story / screening | **IRR** (if conventional cash flows) |
 | Unconventional CFs (multiple sign changes) | **NPV** (multiple IRRs problem) |
+| NPV vs IRR conflict | **Trust NPV** |
 | Accept NPV | NPV **> 0** |
 | Accept IRR | IRR **> hurdle / cost of capital** |
 | Accept PI | PI **> 1** (PI = 1 → IRR = cost of capital; NPV ≈ 0) |
 | Answers shown as **$** | Likely **NPV** |
 | Answers shown as **%** | Likely **IRR** |
+| Preferred stock valuation | **Perpetuity** (fixed dividend forever) |
+| Common stock valuation | **Constant growth / Gordon model** |
+| Bond valuation | **PV of coupons + principal** (Excel PV) |
+| Intrinsic > market price | **Undervalued / underpriced** |
 
 ### Excel TVM (Unit 3 — most tested unit per instructors)
 | Need | Function / tip |
@@ -27,38 +32,47 @@
 | Money needed **now** for future withdrawals | **PV** |
 | Grow money to a future amount | **FV** |
 | Uneven CFs → PV in one step | **NPV** |
-| Uneven CFs → rate of return | **IRR** (cash flows only) |
-| Ordinary annuity (end of period) | TYPE **0** |
-| Annuity due (beginning / today) | TYPE **1** |
+| Uneven CFs → rate of return | **IRR** (cash flows only; include year 0) |
+| Ordinary annuity (end of period) | TYPE **0** (“Ordinary → 0”) |
+| Annuity due (beginning / today) | TYPE **1** (“starting today”) |
 | Argument order | rate, nper, pmt, pv, type |
-| Money leaving your hands | usually **negative** PMT |
+| Money leaving your hands | usually **negative** PMT/PV |
+| Unused inputs | Put **0** — never leave blank |
+| Formulas | Use **cell references**, not typed numbers |
+| TYPE applies to | **Pmt timing only** (not PV/FV) |
 
 ### Forecasting (Unit 5 / Module 9)
 | Idea | Rule |
 |------|------|
-| Spontaneous accounts | Vary with sales (COGS, cash, AR, inventory, AP) |
-| Discretionary | Management choice (notes payable, LT debt, common stock) |
-| DFN | Proj Assets − Proj Liab − Proj Equity (after pro formas) |
-| Negative DFN | Enough financing already |
-| ↓ DFN | ↑ plowback/retention, ↑ net margin; check **fixed assets** first |
-| SGR | Grow without **new equity**; ↑ SGR by ↓ dividends / ↑ retention |
-| Fixed assets | **Lumpy** — buy whole factory, not a fraction |
+| Spontaneous accounts | Vary with sales (COGS, cash, AR, inventory, AP, accruals) |
+| Discretionary | Management choice (notes payable, LT debt, common stock) — **do NOT auto-scale with sales** |
+| DFN / AFN / EFN | Same idea: Proj Assets − Proj Liab − Proj Equity (after pro formas) |
+| DFN > 0 | Need external financing |
+| Negative DFN | Surplus / enough financing already |
+| ↓ DFN | ↑ plowback/retention, ↑ net margin, slow growth, use idle capacity, outsource; check **fixed assets** first |
+| **SGR** | Grow without **new equity** (debt OK at constant D/E); ↑ by ↓ dividends / ↑ ROE levers |
+| **IGR** | Grow with **no new debt and no new equity** (RE only) — SGR > IGR |
+| Fixed assets | **Lumpy** — buy whole factory/machine; only add when **over capacity** |
+| Sales capacity | Actual sales ÷ capacity utilization % |
+| Retained earnings | NI − dividends (**not** a simple % of sales) |
 
 ### Ratios & DuPont (Unit 4)
 | Idea | Rule |
 |------|------|
-| Suppliers / ST creditors care about | **Liquidity** |
-| Quick vs current | Quick **excludes inventory** |
-| High inventory turnover vs peers | May mean **not enough inventory** |
+| Suppliers / ST creditors / banks care about | **Liquidity** |
+| Quick (acid-test) vs current | Quick **excludes inventory**; always ≤ current; want quick **> 1** |
+| High inventory turnover vs peers | May mean **not enough inventory** / stockouts |
 | ACP too high vs industry | **Tighten credit standards** |
 | Debt ratio 40% | 40% of **assets** financed by debt |
 | Operating margin | Compare firms with different capital structures |
 | Net margin 7% | 7¢ per $1 sales for **equity holders** |
-| M/B > 1 | Growth expected; M/B < 1 = **value stock** |
+| M/B > 1 | Growth stock; M/B < 1 = **value stock** |
+| P/E low | Undervalued / cheaper; P/E high = overpriced |
 | DuPont ROE | Net Margin × Asset Turnover × Leverage |
+| ROA | Profitability × turnover only (**no** leverage) |
 | ↑ ROE | ↑ debt financing and/or ↑ net margin |
 | Trend | Same firm over time |
-| Cross-sectional / benchmark | vs peers / industry |
+| Cross-sectional / benchmark | vs peers / industry (benchmark = top performers) |
 | Progress | vs a **goal** |
 
 ### Cash flows to include / exclude (Unit 6)
@@ -81,37 +95,63 @@
 | Ethical / Moral / Legal | Standards of conduct / personal beliefs / laws |
 | Agency fix | Align via **ownership / executive compensation** |
 
+### Risk quick hits (Unit 3 Module 6)
+| Item | Remember |
+|------|----------|
+| Systematic / market | Cannot diversify; measured by **beta** (market β = 1) |
+| Unsystematic / firm-specific / idiosyncratic | Can diversify away |
+| Risk strategies | Diversify, separate (geography), transfer (insurance), retain, avoid |
+| Higher risk | Higher required / expected return |
+
 ---
 
 ## Instructor Cohort Highlights (Your Transcripts)
 
 ### Unit 3 — Fundamental Financial Principles (instructor)
 - **Unit 3 is the most tested unit on the exam.**
-- Covers interest/required return/inflation, TVM Excel, and risk & return.
-- Excel on PA/OA uses **compound interest** concepts.
-- Simple interest = straight line (P×R×T); compound = exponential (interest on interest).
-- Practice every Excel problem type before the PA/OA.
+- Modules: interest/required return/inflation → TVM Excel → risk & return.
+- Simple interest = P×R×T (straight line); compound = interest on interest (Excel on PA/OA).
+- Required return = opportunity cost + inflation + risk (hurdle rate).
+- Inflation causes: demand-pull, cost-push, adaptive expectations (wages chase prices).
+- Real ≈ nominal − inflation; invest if real return > required return.
+- Excel: never blank cells (use 0); cell references only; TYPE 0 = ordinary/end; TYPE 1 = begin/today; TYPE only affects Pmt.
+- Signs: money leaving account = negative; money received = positive.
+- Uneven flows → NPV (value) or IRR (rate); even repeating Pmt → PV/FV.
+- Risk width = standard deviation; beta = market sensitivity; T-bills ≈ beta 0.
+- Practice every Excel problem type before PA/OA.
 
 ### Unit 4 — Financial Ratios Review (instructor)
-- **Trend** = same firm over time; **Progress** = toward a **goal**; **Cross-sectional** = vs peers; benchmarking is a form of cross-sectional.
+- Benefits of ratios: standardization, flexibility, focus, evaluation.
+- **Trend** = same firm over time; **Progress** = toward a **goal**; **Cross-sectional** = vs peers; **benchmarking** = vs top performers.
 - Banks & **suppliers** care about **liquidity**.
-- **Quick ratio** (acid test) excludes inventory — always ≤ current ratio.
-- **DuPont** focuses you on what drives ROE: profitability, asset efficiency, leverage.
+- **Quick ratio** (acid test) excludes inventory — always ≤ current ratio; want > 1.
+- Activity ≈ **turnover** (sales); profitability ≈ **margins/returns** (after costs).
+- Leverage = long-term financing/solvency (vs liquidity = short-term).
+- M/B > 1 growth; M/B < 1 value; P/E low = undervalued.
+- **DuPont**: ROE = margin × turnover × leverage; ROA excludes leverage lever.
+- OA is light on calculation, heavy on **relationships and decisions** (what raises a ratio?).
 
 ### Module 9 — Financial Forecasting I & II (instructor)
-- Spontaneous accounts **react to sales**.
-- DFN = projected assets − projected liabilities − projected equity.
-- **Lumpy assets** = purchased in large non-divisible chunks (new machine/factory).
-- Higher retention & higher ROE → higher SGR; firms dislike issuing new shares (dilution/price hit).
-- Higher earnings retained → more internal equity → **decreases DFN**.
-- Interest expense on pro formas can be independent of sales/operations.
+- Forecasting answers “how much money will we need?”; budgeting is targets + variances.
+- Spontaneous accounts **react to sales**; notes payable / LT debt / new stock do **not** auto-scale.
+- DFN = projected assets − projected liabilities − projected equity (also called AFN/EFN).
+- DFN > 0 = raise external funds; ≤ 0 = no external need / surplus.
+- Higher growth usually → higher DFN; ↓ DFN via retention, margins, capacity, slower growth, outsourcing.
+- **Lumpy assets** = large indivisible purchases; check **sales capacity** before adding PP&E.
+- RE = NI − dividends (not % of sales).
+- **SGR** = no new equity (debt OK, constant D/E); **IGR** = no new debt or equity.
+- ↑ retention and ↑ ROE → ↑ SGR; firms dislike issuing new shares (dilution).
+- Interest on pro formas can be independent of sales; refine % of sales when you have better data.
 
 ### Unit 6 Cohort (instructor)
 - OA is about **application**, not just terminology.
-- **One project / choose one** → start with **NPV** (exact $ value added).
-- NPV advantages: all CFs, TVM, cost of capital/risk built in. Disadvantages: hard cost of capital; bad for different sizes.
-- IRR easy as %; don’t use for mutually exclusive or multiple-IRR projects; prefer NPV when conflict.
-- PI = benefit/cost ratio; best when **budget constraints**; prioritize highest PI.
+- Ideal method: all relevant CFs + TVM + cost of capital → **NPV** meets all three.
+- **One project / choose one / similar size** → **NPV**; capital constraint + rank → **PI**; intuitive % → **IRR**.
+- NPV vs IRR conflict → **NPV wins**; IRR cannot choose mutually exclusive projects.
+- PI = PV(inflows) / initial outlay; value **efficiency** per dollar.
+- Debt: tax shield, no ownership given up; Equity: no fixed repayment, dilution risk.
+- Preferred = perpetuity; common = Gordon/constant growth; bond = PV of cash flows; CAPM for expected return.
+- Intrinsic > market → underpriced; include opportunity costs & cannibalization; **exclude sunk costs**.
 - NPV = how much value; PI = how efficiently value is created.
 
 ---
