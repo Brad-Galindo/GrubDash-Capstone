@@ -1,4 +1,6 @@
-# Download D076 Study Guide
+# Download D076 Condensed Study Guide
+
+**Structure:** Part 1 = Concepts · Part 2 = Questions & Answers (255 items)
 
 Click a link below to download:
 

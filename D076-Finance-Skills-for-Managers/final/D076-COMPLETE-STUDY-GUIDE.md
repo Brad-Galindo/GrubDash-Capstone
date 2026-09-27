@@ -1,1244 +1,422 @@
 # WGU D076 — Finance Skills for Managers
-# COMPLETE STUDY GUIDE (Pass-Focused)
+## Condensed Study Guide
 
-**Sources:** Your unit tests & module quizzes (with correct answers) + instructor cohort transcripts (Units 3, 4, Module 9 Forecasting I/II, Unit 6)  
-**How to use:** (1) Memorize the **OA Decision Cheat Sheet** first, (2) drill **Key Concepts**, (3) quiz yourself with the **Practice Q&A** banks.
-
----
-
-## OA Decision Cheat Sheet (Memorize First)
-
-### Capital budgeting (Unit 6) — which method?
-| Situation | Use |
-|-----------|-----|
-| Only **one** project / maximize **$ value** / **mutually exclusive** | **NPV** (highest NPV wins) |
-| Limited capital; rank several projects / different upfront costs | Highest **PI** first until budget used |
-| Communicate return as a **%** / easy story / screening | **IRR** (if conventional cash flows) |
-| Unconventional CFs (multiple sign changes) | **NPV** (multiple IRRs problem) |
-| NPV vs IRR conflict | **Trust NPV** |
-| Accept NPV | NPV **> 0** |
-| Accept IRR | IRR **> hurdle / cost of capital** |
-| Accept PI | PI **> 1** (PI = 1 → IRR = cost of capital; NPV ≈ 0) |
-| Answers shown as **$** | Likely **NPV** |
-| Answers shown as **%** | Likely **IRR** |
-| Preferred stock valuation | **Perpetuity** (fixed dividend forever) |
-| Common stock valuation | **Constant growth / Gordon model** |
-| Bond valuation | **PV of coupons + principal** (Excel PV) |
-| Intrinsic > market price | **Undervalued / underpriced** |
-
-### Excel TVM (Unit 3 — most tested unit per instructors)
-| Need | Function / tip |
-|------|----------------|
-| Money needed **now** for future withdrawals | **PV** |
-| Grow money to a future amount | **FV** |
-| Uneven CFs → PV in one step | **NPV** |
-| Uneven CFs → rate of return | **IRR** (cash flows only; include year 0) |
-| Ordinary annuity (end of period) | TYPE **0** (“Ordinary → 0”) |
-| Annuity due (beginning / today) | TYPE **1** (“starting today”) |
-| Argument order | rate, nper, pmt, pv, type |
-| Money leaving your hands | usually **negative** PMT/PV |
-| Unused inputs | Put **0** — never leave blank |
-| Formulas | Use **cell references**, not typed numbers |
-| TYPE applies to | **Pmt timing only** (not PV/FV) |
-
-### Forecasting (Unit 5 / Module 9)
-| Idea | Rule |
-|------|------|
-| Spontaneous accounts | Vary with sales (COGS, cash, AR, inventory, AP, accruals) |
-| Discretionary | Management choice (notes payable, LT debt, common stock) — **do NOT auto-scale with sales** |
-| DFN / AFN / EFN | Same idea: Proj Assets − Proj Liab − Proj Equity (after pro formas) |
-| DFN > 0 | Need external financing |
-| Negative DFN | Surplus / enough financing already |
-| ↓ DFN | ↑ plowback/retention, ↑ net margin, slow growth, use idle capacity, outsource; check **fixed assets** first |
-| **SGR** | Grow without **new equity** (debt OK at constant D/E); ↑ by ↓ dividends / ↑ ROE levers |
-| **IGR** | Grow with **no new debt and no new equity** (RE only) — SGR > IGR |
-| Fixed assets | **Lumpy** — buy whole factory/machine; only add when **over capacity** |
-| Sales capacity | Actual sales ÷ capacity utilization % |
-| Retained earnings | NI − dividends (**not** a simple % of sales) |
-
-### Ratios & DuPont (Unit 4)
-| Idea | Rule |
-|------|------|
-| Suppliers / ST creditors / banks care about | **Liquidity** |
-| Quick (acid-test) vs current | Quick **excludes inventory**; always ≤ current; want quick **> 1** |
-| High inventory turnover vs peers | May mean **not enough inventory** / stockouts |
-| ACP too high vs industry | **Tighten credit standards** |
-| Debt ratio 40% | 40% of **assets** financed by debt |
-| Operating margin | Compare firms with different capital structures |
-| Net margin 7% | 7¢ per $1 sales for **equity holders** |
-| M/B > 1 | Growth stock; M/B < 1 = **value stock** |
-| P/E low | Undervalued / cheaper; P/E high = overpriced |
-| DuPont ROE | Net Margin × Asset Turnover × Leverage |
-| ROA | Profitability × turnover only (**no** leverage) |
-| ↑ ROE | ↑ debt financing and/or ↑ net margin |
-| Trend | Same firm over time |
-| Cross-sectional / benchmark | vs peers / industry (benchmark = top performers) |
-| Progress | vs a **goal** |
-
-### Cash flows to include / exclude (Unit 6)
-| Include | Exclude |
-|---------|---------|
-| Incremental CFs | Allocated overhead |
-| Incidental CFs | **Sunk costs** (prior consulting, prior market study) |
-| Cannibalization of **your own** products | — |
-| Opportunity cost (e.g., forgone land sale offer) | Already-spent purchase if offer is the true opp. cost focus |
-
-### Indicators / ethics / agency (Unit 2)
-| Item | Answer |
-|------|--------|
-| Leading | Yield curve (before economy) |
-| Coincident | Personal income, GDP (during) |
-| Lagging | CPI, unemployment (after) |
-| Inverted yield curve | Possible downturn |
-| Firm goal | Maximize **owner wealth** |
-| Personal goal | Maximize **utility** |
-| Ethical / Moral / Legal | Standards of conduct / personal beliefs / laws |
-| Agency fix | Align via **ownership / executive compensation** |
-
-### Risk quick hits (Unit 3 Module 6)
-| Item | Remember |
-|------|----------|
-| Systematic / market | Cannot diversify; measured by **beta** (market β = 1) |
-| Unsystematic / firm-specific / idiosyncratic | Can diversify away |
-| Risk strategies | Diversify, separate (geography), transfer (insurance), retain, avoid |
-| Higher risk | Higher required / expected return |
+**How to use:** Learn **Part 1 (Concepts)** first → drill **Part 2 (Q&A)** until answers feel automatic.  
+**Sources:** Your quizzes/unit tests + instructor cohorts. Quizlet not used.
 
 ---
 
-## Instructor Cohort Highlights (Your Transcripts)
+# PART 1 — CONCEPTS TO LEARN
 
-### Unit 3 — Fundamental Financial Principles (instructor)
-- **Unit 3 is the most tested unit on the exam.**
-- Modules: interest/required return/inflation → TVM Excel → risk & return.
-- Simple interest = P×R×T (straight line); compound = interest on interest (Excel on PA/OA).
-- Required return = opportunity cost + inflation + risk (hurdle rate).
-- Inflation causes: demand-pull, cost-push, adaptive expectations (wages chase prices).
-- Real ≈ nominal − inflation; invest if real return > required return.
-- Excel: never blank cells (use 0); cell references only; TYPE 0 = ordinary/end; TYPE 1 = begin/today; TYPE only affects Pmt.
-- Signs: money leaving account = negative; money received = positive.
-- Uneven flows → NPV (value) or IRR (rate); even repeating Pmt → PV/FV.
-- Risk width = standard deviation; beta = market sensitivity; T-bills ≈ beta 0.
-- Practice every Excel problem type before PA/OA.
+## Quick Decision Rules (OA Cheat Sheet)
 
-### Unit 4 — Financial Ratios Review (instructor)
-- Benefits of ratios: standardization, flexibility, focus, evaluation.
-- **Trend** = same firm over time; **Progress** = toward a **goal**; **Cross-sectional** = vs peers; **benchmarking** = vs top performers.
-- Banks & **suppliers** care about **liquidity**.
-- **Quick ratio** (acid test) excludes inventory — always ≤ current ratio; want > 1.
-- Activity ≈ **turnover** (sales); profitability ≈ **margins/returns** (after costs).
-- Leverage = long-term financing/solvency (vs liquidity = short-term).
-- M/B > 1 growth; M/B < 1 value; P/E low = undervalued.
-- **DuPont**: ROE = margin × turnover × leverage; ROA excludes leverage lever.
-- OA is light on calculation, heavy on **relationships and decisions** (what raises a ratio?).
-
-### Module 9 — Financial Forecasting I & II (instructor)
-- Forecasting answers “how much money will we need?”; budgeting is targets + variances.
-- Spontaneous accounts **react to sales**; notes payable / LT debt / new stock do **not** auto-scale.
-- DFN = projected assets − projected liabilities − projected equity (also called AFN/EFN).
-- DFN > 0 = raise external funds; ≤ 0 = no external need / surplus.
-- Higher growth usually → higher DFN; ↓ DFN via retention, margins, capacity, slower growth, outsourcing.
-- **Lumpy assets** = large indivisible purchases; check **sales capacity** before adding PP&E.
-- RE = NI − dividends (not % of sales).
-- **SGR** = no new equity (debt OK, constant D/E); **IGR** = no new debt or equity.
-- ↑ retention and ↑ ROE → ↑ SGR; firms dislike issuing new shares (dilution).
-- Interest on pro formas can be independent of sales; refine % of sales when you have better data.
-
-### Unit 6 Cohort (instructor)
-- OA is about **application**, not just terminology.
-- Ideal method: all relevant CFs + TVM + cost of capital → **NPV** meets all three.
-- **One project / choose one / similar size** → **NPV**; capital constraint + rank → **PI**; intuitive % → **IRR**.
-- NPV vs IRR conflict → **NPV wins**; IRR cannot choose mutually exclusive projects.
-- PI = PV(inflows) / initial outlay; value **efficiency** per dollar.
-- Debt: tax shield, no ownership given up; Equity: no fixed repayment, dilution risk.
-- Preferred = perpetuity; common = Gordon/constant growth; bond = PV of cash flows; CAPM for expected return.
-- Intrinsic > market → underpriced; include opportunity costs & cannibalization; **exclude sunk costs**.
-- NPV = how much value; PI = how efficiently value is created.
+| If the question is about… | Choose / remember |
+|---------------------------|-------------------|
+| Pick **one** project / max **$ value** / mutually exclusive | **NPV** (highest wins; NPV>0 accept) |
+| Limited budget / **rank** projects | Highest **PI** first (PI>1 accept) |
+| Return as a **%** / easy to explain | **IRR** (IRR > hurdle; NPV=0 at IRR) |
+| Weird cash-flow sign changes | **NPV** (multiple IRRs) |
+| Answers in **$** vs **%** | NPV vs IRR |
+| Ordinary annuity (end) / annuity due (begin) | Excel TYPE **0** / **1** |
+| Uneven CFs → value today / rate | Excel **NPV** / **IRR** |
+| Need money **now** / grow to later | **PV** / **FV** |
+| Spontaneous vs discretionary | Moves with sales vs management choice |
+| Extra financing needed | **DFN** = Proj A − L − E |
+| Grow without new stock | **SGR**; grow with no new debt/equity = **IGR** |
+| Supplier / short-term creditor concern | **Liquidity** ratios |
+| What drives ROE | DuPont: Margin × Turnover × Leverage |
+| Already spent before decision | **Sunk** → ignore |
+| Forgone next-best use / steal own sales | Opportunity cost / cannibalization → **include** |
 
 ---
 
+## Unit 2 — Foundations
 
-# Unit 2 — Foundations of Finance
-
-## Key Concepts to Remember
-
-### Areas of Finance
-| Topic | What it means | Remember |
-|-------|---------------|----------|
-| **Business finance** | Sources of funding, capital structure of corporations; seeks to increase firm value to owners | Uses/sources of funding to increase firm value |
-| **Investments** | Decide which assets to invest in to create wealth / earn positive returns in the future | Allocate money for future wealth |
-| **Financial institutions** | Accept deposits, offer investment products, provide loans, broker transactions; **primary role** = conduct financial transactions (investments, loans, deposits) to circulate money | Circulate money via transactions |
-| **Asset pricing** | Determining the value/price of financial assets | Valuation focus |
-
-### Finance vs Accounting (MUST KNOW)
-| | Finance | Accounting |
-|--|---------|------------|
-| Time focus | **Future**-looking | Generally **backward**-looking |
-| Role | Manage/allocate capital: investing, forecasting, budgeting, saving, lending, borrowing | Historical financial records/data |
-
-### Goals: Firm vs Personal Finance
-| Context | Goal / aim |
-|---------|------------|
-| **Firm / financial manager** | Maximize **owner wealth** (NOT manager’s utility; NOT just minimize costs) |
-| **Personal financial goals** | Maximize **individual utility** / maximize satisfaction from products & services obtained |
-| **Any investment decision — main question** | Do the **benefits outweigh the costs**? (benefit ≥ initial cost) |
-
-**Personal finance tools / actions:**
-- **Budgeting** = tool to understand overall personal cash flows (income & expenses)
-- Emergency stash alternative = **savings account** (readily withdrawable + some interest) — NOT high-risk stocks, long-term bonds, or a nicer car
-- Affordable mortgage for a house = **financing** (finance goals within your means)
-- Already decided to buy; choosing how to pay = **financing a goal**
-- **Financial planner** = works with **individuals** to achieve financial goals
-
-### Three Types of Financial Manager Decisions
-| Decision type | What it is | Test cues |
-|---------------|------------|-----------|
-| **Investment decision** | Assess costs/benefits of potential projects | R&D worth it?; assessing costs/benefits of projects |
-| **Financing decision** | Where to get funds / capital structure | Issue stocks/bonds; obtain a **loan** to buy equipment; Hannah raises $5M after approval |
-| **Working capital management** | Day-to-day cash flows | Inventory, receivables, payables |
-
-### Financial Markets & Regulation
-| Item | Definition / role |
-|------|-------------------|
-| **Purposes of financial markets** | Provide **liquidity** and **determine prices** |
-| **Primary market** | First-time issuance (IPO / new stock to raise capital) |
-| **Secondary market** | Trading after initial issuance |
-| **Money market** | Institutions borrow/lend **short term**; highly liquid; typically **≤ 1 year** |
-| **SEC** | Protect investors; fair/orderly/efficient markets; capital formation |
-| **Central bank / Fed** | Controls money circulating; adjusts rates to regulate **inflation and unemployment** |
-
-### Types of Financial Institutions
-| Type | Role / definition | Test cue |
-|------|-------------------|----------|
-| **Depository** | Accepts & pays interest on deposits; extends loans | Banks, credit unions |
-| **Contractual** | Insurance companies | Insurance = contractual |
-| **Insurance (how claims are paid)** | Invest premiums in stocks/bonds; use **returns** to pay claims | Not “withdraw from premium accounts” |
-| **Investment institution** | Provides individuals & firms **access to financial markets** | Mutual funds |
-| **Pension fund** | Retirement through employers | Employer retirement |
-| **Private equity** | Invest in firms **not on public exchanges**; buyout troubled companies → improve → sell/IPO | Non-public / troubled buyouts |
-| **Investment bank** | Complex deals like **mergers** | M&A help |
-| **Central bank** | Nation’s money supply / economy health | Fed |
-
-### Economic Indicators — Leading, Lagging, Coincident (MUST KNOW)
-| Type | When it moves | Examples from YOUR tests | Extra tested facts |
-|------|---------------|--------------------------|--------------------|
-| **Leading** | **Before** economy changes | **Yield curve** | Inverted curve → may signal **economic downturn** (low/negative future growth) |
-| **Coincident** | **During** / with the economy | **Personal income** | Useful: analyzed during shifts to show **current** state of economy (big picture). Note: GDP & personal income are coincident — they do **not** predict the future |
-| **Lagging** | **After** economy changes | **CPI**, **unemployment rate** | Confirm what already happened |
-
-**Memory:** Leading = ahead | Coincident = with | Lagging = behind
-
-### Ethics Terms (Distinguish Carefully)
-| Term | Meaning | Test note |
-|------|---------|-----------|
-| **Ethical** | Based on **accepted standards of conduct** | Society/industry accepted standards |
-| **Moral** | Person’s **beliefs** about right/wrong, good/bad, just/unjust | Personal sense of right/wrong |
-| **Legal** | In accordance with **laws/rules of an authority** | Legal error → government **penalty/repercussion** |
-| **Standard** | Measure, norm, or model for comparison | |
-
-**Moral vs ethical trap (Lucas / Bullzai):**
-- Practice is legal + commonly accepted in industry → **not** legal issue, **not** ethical issue
-- But advisor knows it’s not in clients’ best interest → **moral** dilemma (his own sense of right/wrong)
-
-**Nora (investment manager) ethical dilemma:**
-- Considering a risky client investment **just to meet her monthly goal** = ethical dilemma (duty to client vs personal goal)
-
-**Other ethics applications:**
-- Maximize shareholder value **unethically** → often **decreases** shareholder value (costly results)
-- Moving production overseas: **unethical** = saving money by paying **inadequate wages** to overseas workers
-- Advisor (Jack): may recommend firm product if you **explain performance vs market** and don’t hide alternatives
-
-### Steps to Solve an Ethical Dilemma
-1. Identify and define the problem  
-2. Consider alternative courses of action ← **2nd step**  
-3. **Consider all stakeholders involved** ← **3rd step** (confirmed)  
-4. Move forward with the chosen course of action  
-
-### Agency Problems & Bondholders
-| Concept | Remember |
-|---------|----------|
-| **Agency problem** | Managers follow **own interests** instead of owners’ |
-| Agency examples | Fake accounting + sell inflated stock; manager buys **company car** as company expense (luxury, doesn’t help shareholders) |
-| Why manipulate accounting? | Make performance look good → bonuses / stock benefits |
-| Mitigate agency costs | **Align managers’ interests with shareholders’** (usually ownership shares / executive compensation) |
-| Bondholders want | **Safe** projects with higher chance of being paid back |
-| Why strict bond contracts/covenants? | Bondholders primarily want to be **paid back**; deter risky projects |
-| Bank on risky loan | Set a **strict covenant** company can’t easily achieve |
+| Topic | Key points |
+|-------|------------|
+| **Finance vs accounting** | Finance = **future**; accounting = **past** |
+| **Business finance** | Funding, capital structure, raise firm value |
+| **Investments** | Choose assets for future wealth |
+| **Firm goal** | Maximize **owner wealth** |
+| **Personal goal** | Maximize **utility** / satisfaction |
+| **Investment test** | Do benefits outweigh costs? |
+| **Manager decisions** | Investment (spend?) · Financing (raise funds?) · Working capital (day-to-day cash) |
+| **Markets** | Purpose = **liquidity + prices**. Primary = first issue/IPO. Secondary = after. Money market = short-term ≤1 yr |
+| **SEC / Fed** | SEC = protect investors. Fed = inflation & unemployment via rates |
+| **Institutions** | Role = transactions (deposits, loans, investments). Depository = deposits+loans. Insurance = **contractual** (pays claims from investment returns). Mutual fund = **investment** (market access). Pension = retirement. PE = non-public/troubled buyouts. IB = mergers. Central bank = money supply |
+| **Indicators** | **Leading** (before): yield curve. **Coincident** (during): personal income, GDP. **Lagging** (after): CPI, unemployment. Inverted curve → possible downturn |
+| **Ethics** | Ethical = accepted standards. Moral = personal beliefs. Legal = laws (gov penalty). Steps: 1 problem → 2 alternatives → 3 stakeholders → 4 act |
+| **Agency** | Managers’ interests ≠ owners’. Fix = align via stock/options. Fake accounting / company car = agency examples. Bondholders want **safe** projects + strict covenants |
 
 ---
 
-## Practice Questions — Unit 2 Form A
+## Unit 3 — Interest, TVM, Returns, Risk
+
+### Interest & required return
+- Interest rate = **% of principal**; expressed as a **percentage**; annual form = **APR**
+- Also called: discount rate / required rate / cost of capital / **hurdle rate** (minimum to accept a project)
+- Required return = **opportunity cost + risk + inflation**
+- Longer term → more risk + opportunity cost → higher required return
+- Inflation = ↑ average price of a basket of goods. Causes: demand-pull, cost-push, adaptive expectations (wages chase prices)
+- **Nominal** = money growth (includes inflation). **Real ≈ nominal − inflation** (purchasing power)
+- **Risk-free rate** ≈ inflation + opportunity cost. **Risk premium** = pay for risk
+- Simple interest = P×R×T (straight line). Compound = interest on interest (Excel uses this)
+
+### TVM & Excel
+- Today’s $ > future $ · Compounding = PV→FV · Discounting = FV→PV
+- Annuity = equal, equally spaced CFs. Ordinary = end. Annuity due = begin. Perpetuity = forever
+- Longer loan (same rate) → **more total interest**
+- Excel: cell refs; unused = **0**; money out = negative; TYPE only affects Pmt timing
+- Equal CFs → PV/FV/PMT/RATE/NPER · Uneven → NPV (value) or IRR (rate)
+
+### Returns & risk
+- Return = gain/loss over time. Holding period = whole ownership period. Expected = scenario/expectational estimate
+- Risk = actual return may ≠ expected. Systematic/market = can’t diversify (**beta**). Firm-specific/idiosyncratic = can diversify
+- Interest-rate risk = market (bonds). Default = firm-specific (borrower won’t repay)
+- Strategies: diversify · separate (geography) · transfer (insurance) · retain · avoid
+- Higher return ↔ higher risk. Stocks riskier short-term than long-term. Utilities = low systematic risk
+
+---
+
+## Unit 4 — Ratios & DuPont
+
+| Type | Measures | Remember |
+|------|----------|----------|
+| **Liquidity** | Meet short-term obligations | Current; Quick (no inventory). Suppliers care |
+| **Activity** | Asset use → sales/cash | Turnovers, ACP. High inv. turnover vs peers may = stockouts |
+| **Leverage/Financing** | Debt vs equity; pay interest/LT debt | Debt ratio = % assets by debt |
+| **Profitability** | How well owners are rewarded | Gross / operating / net margin; ROA; ROE |
+| **Market** | Share price assessment | M/B >1 growth, <1 value stock; P/E |
+
+**Comparisons:** Trend = over time · Cross-sectional/benchmark = vs peers · Progress = vs a **goal**  
+**DuPont:** ROE = Net Margin × Asset Turnover × Leverage (= ROA × leverage). ↑ debt or ↑ margin ↑ ROE. ROA has no leverage lever.  
+**Operating margin** = good to compare different capital structures. **Net margin** = what’s left for equity holders.
+
+---
+
+## Unit 5 — Cash Budgeting & Forecasting
+
+### Cash budget (short-term, ~1 month–1 year)
+- Uses: forecast financing need · performance evaluation · corrective action
+- Order: **receipts → disbursements → create budget** · then track → monitor → revise gradually
+- Sales ≠ cash receipts (credit sales count later). Personal budget needs: income, expenses, savings
+- Envelope method = cash by category. Borrow when beg cash + net cash < minimum balance
+
+### Forecasting (longer-term)
+- Spontaneous = with sales (cash, AR, inv, AP, COGS). Discretionary = NP, LT debt, stock
+- Special: **fixed assets** (lumpy/capacity) and **RE** (NI − dividends), not plain % of sales
+- DFN after pro formas. Negative DFN = enough financing. ↓ DFN: ↑ plowback, ↑ net margin, use capacity
+- SGR = grow without new equity. IGR = no new debt or equity. ↑ SGR by ↓ dividends / ↑ ROE drivers
+- Sales capacity = actual sales ÷ % capacity used → room to grow without new FA
+
+---
+
+## Unit 6 — Capital Budgeting & Valuation
+
+| Tool | Rule | Best when |
+|------|------|-----------|
+| **NPV** | >0 accept; =0 earns exactly required return | One project / mutually exclusive / $ value |
+| **IRR** | > hurdle accept | Communicate %; conventional CFs |
+| **PI** | >1 accept; = PV inflows ÷ initial outlay | Capital rationing / ranking |
+
+- Hardest NPV input = **cost of capital** (wrong → accept bad / reject good)
+- NPV weak for different **sizes** → use PI to compare efficiency
+- Prefer **bonds** to keep ownership; prefer **stocks** so you don’t repay par
+- Discount bond = price < par; par bond = price = par; YTM ↑ → price ↓
+- Preferred ≈ perpetuity (fixed forever; can skip payments). Common = constant growth forever + voting
+- Bond ≈ annuity (coupons + maturity) → Excel PV
+- Include: incremental, incidental, cannibalization, opportunity costs. Exclude: sunk costs, allocated overhead
+- Debt benefit = interest tax shield; optimal = mix of debt + equity
+
+---
+
+# PART 2 — QUESTIONS & ANSWERS
+
+*Format: Question → **Answer***
+
+## Unit 2
 
 1. Assets for future wealth → **Investments**  
-2. Main goal of firm → **Maximize owner wealth**  
-3. R&D evaluation → **Investment decision**  
-4. After initial issuance → **Secondary market**  
-5. Insurance company type → **Contractual**  
-6. Company retirement funds → **Pension fund**  
-7. Personal income → **Coincident**  
-8. Standards of conduct → **Ethical**  
-9. 2nd ethical step → **Consider alternative courses of action**  
-10. Reduce agency via corporate control → **Executive compensation**  
+2. Funding + capital structure + firm value → **Business finance**  
+3. Finance vs accounting → **Finance future; accounting backward-looking**  
+4. Main goal of firm / FM → **Maximize owner wealth**  
+5. Personal financial goals → **Maximize individual utility / satisfaction**  
+6. Why finance definition matters personally → **Compare costs and benefits**  
+7. Main investment question → **Do benefits outweigh costs?**  
+8. R&D / assess project costs & benefits → **Investment decision**  
+9. Issue stocks/bonds / loan for equipment / Hannah raises $5M → **Financing decision**  
+10. After initial issuance trading → **Secondary market**  
+11. First-time issue / IPO → **Primary market**  
+12. Short-term borrow/lend → **Money market**  
+13. Markets’ purposes → **Provide liquidity and determine prices**  
+14. SEC focus → **Protect investors**  
+15. Institution services → **Deposits, investment products, loans, brokerage**  
+16. Institutions’ primary role → **Conduct transactions (investments, loans, deposits)**  
+17. Depository institution → **Accepts deposits & extends loans**  
+18. Insurance type → **Contractual**  
+19. How insurance pays claims → **Returns from stocks and bonds**  
+20. Mutual fund type → **Investment institution**  
+21. Access to financial markets → **Investment institutions**  
+22. Company/employer retirement funds → **Pension fund**  
+23. Buy troubled companies / non-public firms → **Private equity**  
+24. Help firms merge → **Investment bank**  
+25. Controls money supply → **Central bank**  
+26. Financial planner → **Works with individuals on goals**  
+27. Omar choosing how to pay for car → **Financing a goal**  
+28. Tool for personal cash flows → **Budgeting**  
+29. Emergency cash alternative → **Savings account**  
+30. Affordable mortgage → **Financing**  
+31. Personal income indicator → **Coincident**  
+32. CPI / unemployment → **Lagging**  
+33. Yield curve → **Leading**  
+34. Inverted yield curve → **May indicate economic downturn**  
+35. Coincident useful because → **Shows current state during shifts**  
+36. Fed adjusts rates to → **Regulate inflation and unemployment**  
+37. Ethical → **Accepted standards of conduct**  
+38. Moral → **Beliefs about right/wrong**  
+39. Legal → **Laws/rules of an authority**  
+40. Legal error → **Government penalty**  
+41. Ethical dilemma step 2 → **Consider alternatives**  
+42. Ethical dilemma step 3 → **Consider all stakeholders**  
+43. Lucas (legal + industry OK, not client-best) → **Moral** dilemma  
+44. Nora (risk for monthly goal) → **Ethical** dilemma (risky asset for her goal)  
+45. Jack advisor should → **Recommend + explain performance vs market** (don’t hide info)  
+46. Unethical maximize value → **Often decreases shareholder value**  
+47. Unethical overseas → **Inadequate wages**  
+48. Manipulate accounting why → **Make performance look good**  
+49. Agency example → **Managers’ own interests / company car / fake accounting sell stock**  
+50. Reduce agency (corporate control) → **Executive compensation / align with ownership**  
+51. Bondholders want → **Safe projects; to be paid back**  
+52. Bank on risky loan → **Strict covenant**  
+
+## Unit 3 — Interest / Inflation / Required Return
+
+53. Interest rate definition → **% of principal lender charges borrower**  
+54. How expressed → **As a percentage**  
+55. Purpose of interest → **Pay to use someone else’s assets/funds**  
+56. Required return component → **Opportunity cost** (also risk & inflation)  
+57. Why long-term needs higher return → **Greater risk + higher opportunity cost**  
+58. $25k in savings — opportunity cost → **Buying a $25k car**  
+59. Ahmed car now costs more → forgot **Inflation**  
+60. Built-in inflation / adaptive expectations → **Wages chase prices → prices higher**  
+61. Demand causes inflation → **Shortage → prices rise until balance**  
+62. Inflation effect on prices → **Prices rise**  
+63. Compensation for risk → **Risk premium**  
+64. Rate money grows (daily life) → **Nominal rate**  
+65. Indicates inflation + opportunity cost → **Risk-free rate**  
+66. Annual interest rate name → **APR**  
+67. Why “hurdle rate” → **Minimum rate project must beat**  
+68. Inflation rate definition → **↑ average price of basket of goods/services**  
+69. Risk-free rate indicates → **Inflation and opportunity cost**  
+70. Sophia risky stock + inflation → Expect return **higher than inflation** for the risk  
+
+## Unit 3 — TVM / Excel
+
+71. Equal payments at end of fixed periods → **Ordinary annuity**  
+72. $39,248.14 after investing → **Future value**  
+73. Dollar today > dollar later → **Time value of money**  
+74. 30-yr vs 20-yr mortgage same rate → **30-year pays more total interest**  
+75. Why TVM matters in decisions → **Compare benefits received at different times**  
+76. Annuity due TYPE → **1**  
+77. FV formula with cells C2:C6 → **`=FV(C2,C3,C4,C5,C6)`**  
+78. Lump sum now for future withdrawals → **PV function**  
+79. Uneven CFs PV in one step → **NPV**  
+80. Interest rate of cash-flow series → **`=IRR(cash flow range)`**  
+
+## Unit 3 — Returns / Risk
+
+81. What is a return → **Gain or loss over a period**  
+82. Expected return → **Hypothesized future returns from expectational data**  
+83. 1980 vs 2010 purchasing power (same inflation) → **1980; higher real rate**  
+84. Expected return subjective because → **Expectational data + scenario probabilities**  
+85. Risk in finance → **Actual return may differ from expected**  
+86. Market vs firm-specific → **Market can’t diversify; firm-specific can**  
+87. Firm-specific risk → **Lawsuits, labor, management problems, etc.**  
+88. Interest rate risk → **Market risk; bond value vs rate changes**  
+89. Diversification reduces → **Firm-specific risk**  
+90. Risk separation vs diversification → **Geographic dispersal**  
+91. Risk transfer example → **Home insurance**  
+92. Why retain risk → **Cost of activity < alternative**  
+93. Utilities’ systematic risk → **Low**  
+94. Time & stocks → **More risky short-term than long-term**  
+95. Higher return tends to mean → **Higher risk**  
+96. Labor strike after wage cuts → **Idiosyncratic / firm-specific**  
+97. Operating risk (price risk type) → **Operating decisions affect operating costs**  
+98. Spreading money over assets → **Diversification**  
+99. Default risk → **Firm-specific; borrower fails to repay**  
+
+## Unit 4 — Ratios
+
+100. Ratio use vs peers → **Cross-sectional analysis**  
+101. Why ratios flexible → **Not regulated; create as needed**  
+102. Help shareholders → **See if maximizing shareholder wealth**  
+103. Compare to similar firms → **Benchmarking**  
+104. Short-term obligations without external capital → **Liquidity**  
+105. Why many ratio types → **Different parts of the firm**  
+106. Leverage ratios describe → **Debt vs equity financing mix**  
+107. Paying ST loans faster → **Liquidity ratio increasing**  
+108. Current ratio type → **Liquidity**  
+109. Current vs quick → Quick **excludes inventory**  
+110. M/B = 1.2 → **Expected to grow**  
+111. Net margin measures → **% of revenue kept as profit**  
+112. ROE component → **Net margin**  
+113. DuPont helps → See how profits, assets, financing drive ROE  
+114. ↑ ROE (else equal) → **Increasing debt financing**  
+115. DuPont component path → **ROA** (ROE = ROA × leverage)  
+116. Improve ROE → **Cut costs / boost net margin**  
+117. Same ROE; all-equity firm → **Higher ROA**  
+118. ↑ ROE actions → **↓ equity financing + ↑ net margin**  
+119. Ratio toward a goal → **Progress measurement**  
+120. Market ratios purpose → **Evaluate current share price**  
+121. Profit per widget (COGS only) → **Gross margin**  
+122. What shows ROE drivers → **DuPont framework**  
+123. More efficient assets → Higher **asset turnover**  
+124. Performance over time → **Trend analysis**  
+125. vs competitors → **Cross-sectional**  
+126. Suppliers care about → **Liquidity**  
+127. Days to collect AR → **Average collection period**  
+128. Debt ratio 40% → **40% of assets financed by debt**  
+129. Operating margin useful for → Firms with **different capital structures**  
+130. ACP = 70 → **70 days to collect AR**  
+131. High inventory turnover vs peers → **Not enough inventory**  
+132. ROA vs ROE → ROE includes **capital structure**  
+133. Improve ROE (same leverage & AT) → **Improve profitability / cut costs**  
+134. Ratios across firm sizes → **Standardization**  
+135. Create custom cash/ST obligations ratio → **Flexibility**  
+136. Activity = efficiency because → Assets generating sales/cash  
+137. How financed + pay interest/LT → **Financing ratios**  
+138. Net margin 7% → 7¢ per $1 for **equity holders**  
+139. ACP 67 vs industry 40 → **Tighten credit standards**  
+140. M/B < 1 → **Value stock**  
+141. Inventory turnover assesses → **Inventory management**  
+142. Same PM & AT, higher ROE → **Higher debt / leverage**  
+
+## Unit 5 — Budgeting & Forecasting
+
+143. Cash budget variances can show → Managers/divisions **not meeting targets**  
+144. Cash budget horizon → **1 month to 1 year**  
+145. Budgeting principles (subset) → Keep records; strategies; method that fits needs  
+146. Three uses of cash budgets → Forecast need, evaluate performance, corrective action  
+147. Cash budget order → **Receipts → disbursements → create budget**  
+148. Better savings goal → **Specific and measurable**  
+149. Mortgage fixed because → **Same amount each month**  
+150. Efficient budget → Compare actual vs budgeted, then **revise**  
+151. Personal cash receipt → **Graduation gift**  
+152. Business disbursement → **Rent paid/cashed; labor costs**  
+153. Business cash budget includes → Receipts, disbursements, **borrowing**  
+154. Sales ≠ receipts because → Sales include **credit sales**  
+155. Why track cash flows → Know spending; monitor & revise  
+156. Prefer software tracking when → Busy + prefer card  
+157. Monitoring purpose → Actual vs goals; when to correct  
+158. Fix budget problems → **Monitor** to find; **gradual revision** to fix  
+159. After budget → **Monitor and revise**  
+160. Useful for loan because → Builds lender trust / shows can repay  
+161. Cash position: business vs individual → ST loan need vs personal goal progress  
+162. Tracking vs monitoring → Monitoring evaluates tracking vs targets/patterns  
+163. Short-term cash forecast name → **Cash budget**  
+164. Monthly cash budget purpose → Control inflows/outflows; balance income, spending, savings  
+165. Need to borrow when → Beg cash + net cash **< minimum**  
+166. Envelope method → Cash in labeled category envelopes  
+167. Budget changes → Prioritize; implement **gradually**  
+168. Cash/AR/inventory rise with sales → **Spontaneous**  
+169. Negative DFN → **Enough financing** for projected sales  
+170. Spontaneous example → **Accounts payable**  
+171. SGR useful because → Max growth keeping ratios **without new equity**  
+172. Whole factory purchase → Fixed assets are **lumpy**  
+173. Before personal budget know → **Income, expenses, savings**  
+174. Sales $100k cash $90k → Not all sales on cash  
+175. Effective budget cycle → **Track, monitor, revise**  
+176. Long-term forecasts used for → **Investment and financing decisions**  
+177. Don’t vary with sales → **Discretionary / non-spontaneous**  
+178. Discretionary example → **Notes payable**  
+179. Grow without new equity → **SGR**  
+180. FA rise as lump because → Must buy **entire** asset  
+181. Forecasting goal → Today’s decisions → tomorrow’s performance  
+182. Forecasting answers → How much **financing** needed later  
+183. Sales +10% may also +10% → **COGS**  
+184. When DFN determined → After pro formas (% of sales)  
+185. Decreases DFN → **↑ plowback** or **↑ net margin**  
+186. Leave constant in % of sales → **Notes payable**  
+187. BS changes with sales → Forecasting **spontaneous accounts**  
+188. ↑ SGR → **Decrease dividend payout**  
+189. Check capacity/DFN first → **Fixed assets**  
+190. Grow FA at capacity → Invest lump sum at once  
+191. Sales capacity tells → Growth room without new FA  
+192. DFN definition → Additional financing needed given growth  
+193. LT liabilities held flat → **Discretionary**  
+194. Avoid new stock; fastest grow → **SGR**  
+
+## Unit 6 — Capital Budgeting
+
+195. Increases shareholder wealth → **Positive NPV**  
+196. Hard to estimate in NPV → **Cost of capital**  
+197. NPV advantage → **$ value added to firm**  
+198. NPV disadvantage → Weak for **different sizes**  
+199. Explain to non-finance friend → **IRR**  
+200. NPV when IRR reached → **$0**  
+201. Unconventional CFs → Multiple IRRs → use **NPV**  
+202. Hurdle 9%, IRR 11% → **Accept**  
+203. Ratio method → **PI**  
+204. How PI helps NPV → Scales sizes / shows return efficiency  
+205. PI 0.8 → **Reject**  
+206. After PI=1, what causes reject → **Higher cost of capital**  
+207. Prefer stocks over bonds → Don’t repay **par**  
+208. Bond below par → **Discount bond**  
+209. Preferred vs bonds → Can **skip** preferred payments  
+210. Why seek capital investment → Buy **LT assets** for growth  
+211. Value a bond → **Excel PV**  
+212. Common stock assumption → **Constant growth forever**  
+213. LT asset planning process → **Capital budgeting**  
+214. Accurate required rate matters → Wrong rate → reject good / accept bad  
+215. One project; max value → **Highest NPV**  
+216. Rank non-exclusive for value → **Highest PI first**  
+217. YTM 8%→7% → Bond price **increases**  
+218. Cost $100k, NPV $5k → **Accept**  
+219. All relevant CFs why → Know how project adds firm value  
+220. Mutually exclusive → **NPV**  
+221. Limited capital maximize value → **Highest PIs** until budget used  
+222. Opportunity cost (TVM) → Forgo other options by investing here  
+223. Timing of CFs matters because → Opportunity cost vs other projects  
+224. Same total inflows, different timing → Prefer cash **soonest**  
+225. Cost to bring funds in → Compensate investors for **risk**  
+226. Risk and return → Higher risk → higher required return  
+227. Debt can help because → Interest paid **before taxes**  
+228. Financing decision → Mix of **debt and equity**  
+229. Incremental CFs → Extra CFs from accepting project  
+230. Allocated overhead → **Irrelevant**  
+231. Incidental vs non-incremental → Incidental **included**  
+232. Cannibalization → New product steals **your own** sales  
+233. Limited budget prioritize → **PI**  
+234. Adds value when → **PV benefits > PV costs**  
+235. Investors view returns as → Amount they require to invest/lend  
+236. Opportunity cost → Can’t use asset for next-best project  
+237. NPV = 0 means → Earns **exactly** required return  
+238. TVM methods → **NPV and IRR**  
+239. Prefer bonds over stocks → Don’t give up **ownership**  
+240. Bond like annuity because → Constant coupons + maturity  
+241. Why cost of capital → CFs may be **uncertain**  
+242. Differently timed projects need → **Opportunity cost**  
+243. Debt disadvantage → Not optimal alone (need **debt+equity mix**)  
+244. Sunk costs → **Irrelevant**  
+245. Beckingham relevant item → **$3M land offer** (opportunity cost)  
+246. NPV most reliable because → TVM + $ value + risk  
+247. Results all % → **IRR**  
+248. PI = 1 means → IRR = cost of capital  
+249. Bond at $1000 par → **Par bond**  
+250. Preferred like perpetuity → Fixed amount **forever**  
+251. Why consider TVM → $ today ≠ same $ later  
+252. Clothes vs electric bill → Opportunity cost = power shut off  
+253. Seemingly same projects → Different **inherent risks**  
+254. Own-product sales drop term → **Cost of cannibalization**  
+255. Sunk example → Consulting **before** project start  
+
+### Unit 6 traps (easy misses)
+- Bond ≠ constant growth (that’s common stock)  
+- Cost of capital reason ≠ “reinvest earlier” → **uncertainty**  
+- PI = 1 ≠ “benefit = 2× cost”  
+- Land purchase may be sunk; **forgone sale offer** matters  
+- % → IRR; $ → NPV  
 
 ---
 
-## Practice Questions — Unit 2 Form B
-
-1. Institution services → **Deposits, investment products, loans, brokering transactions**  
-2. Personal goals objective → **Maximize individual utility**  
-3. Issuing stocks/bonds → **Financing decisions**  
-4. Why finance definition matters personally → **Compare costs and benefits**  
-5. First-time issue → **Primary market**  
-6. Mutual fund → **Investment institution**  
-7. Administer retirement funds → **Pension funds**  
-8. CPI → **Lagging**  
-9. Ethical means → **Accepted standards of conduct**  
-10. Fake accounting + sell stock → **Agency problem due to conflicting interests**  
-
----
-
-## Practice Questions — Unit 2 Module Assessment Section 1 (earlier sets)
-
-**Personal / manager tasks:** Investments; Hannah $5M → financing; Spain trip goal → maximize individual utility; Financial planner; Omar car pay → financing a goal  
-
-**Markets / institutions / indicators:** SEC → protect investors; Access to markets → investment institutions; Troubled buyouts → private equity; Yield curve → leading; Inverted curve → downturn  
-
-**Ethics / agency:** Legal = laws of authority; Jack → recommend + explain vs market; Manipulate accounting → look good; Agency = managers’ interests ≠ owners’; Bank → strict covenant  
-
----
-
-## Practice Questions — Unit 2 Module Assessment Section 1 (new batch)
-
-### Business finance / finance vs accounting / investments
-1. Sources of funding + capital structure + increase firm value → **Business finance**  
-2. Primary difference finance vs accounting → **Finance focuses on the future; accounting is generally backward-looking**  
-3. Subspecialty deciding which assets create wealth/positive returns → **Investments**  
-
-### Goals
-1. Primary goal of financial manager → **Maximize owner wealth**  
-2. Main question for any investment → **Do the benefits of this investment outweigh the costs?**  
-3. Primary aim of personal finance goals → **Maximize satisfaction from products purchased and services obtained** (= utility)  
-
-### Manager tasks / careers
-1. Obtain loan to buy equipment for a project → **Making financing decisions**  
-2. Invest in firms not on public exchanges → **Private equity**  
-3. Assess costs and benefits of potential projects → **Making investment decisions**  
-
-### Personal cash tools
-1. Tool for overall personal cash flows → **Budgeting**  
-2. Reasonable alternative to emergency cash stash → **Investing in a savings account**  
-3. Affordable mortgage to buy a house → **Financing**  
-
-### Markets
-1. Purposes of financial markets → **Provide liquidity and determine prices**  
-2. Stocks/bonds after initial issuance → **Secondary market**  
-3. Institutions borrow/lend short term → **Money market**  
-4. IPO / issue public stock first time → **Primary market**  
-
-### Institutions (roles)
-1. Primary role of financial institutions → **Conduct financial transactions such as investments, loans, and deposits**  
-2. Depository institution → **Accepts and pays interest on deposits and extends loans**  
-3. Controls money circulating / economy healthy → **Central bank**  
-4. How insurance pays claims → **Use returns from stocks and bonds**  
-5. Retirement through employers → **Pension fund**  
-6. Help large corps merge → **Investment bank**  
-
-### Indicators / Fed
-1. Unemployment rate → **Lagging**  
-2. Fed adjusts rates to → **Regulate inflation and unemployment**  
-3. Inverted yield curve signals → **Economic downturn**  
-4. Coincident indicators useful because → **Analyzed during economic shifts to provide information about the current state of the economy**  
-
-### Ethics distinctions & dilemmas
-1. Beliefs about right/wrong → **Moral**  
-2. Ethical action characterized by → **Accepted standards of conduct**  
-3. Lucas/Bullzai (legal + industry-accepted, but not client-best) → **Moral** dilemma  
-4. Error with government penalty → **Legal**  
-5. Nora investing clients in risk just for monthly goal → ethical dilemma because **considering risky asset just to meet her monthly goal**  
-6. Maximize shareholder value unethically → **Often leads to decreased shareholder value**  
-7. Unethical overseas move → **Paying inadequate wages to workers overseas**  
-
-### Bondholders / agency / ethical steps
-1. Strict bond contracts to deter risk → bondholders want to **be paid back**  
-2. Bondholders interested in → **Safe projects with higher chance of sufficient compensation**  
-3. Agency example → **Manager purchases a company car as company expense**  
-4. Mitigate agency costs → **Aligning managers’ interests with shareholders’ interests**  
-5. **Third** step in ethical dilemma → **Consider all stakeholders involved**  
-
----
-
-## Quick Memory Hooks (Unit 2)
-- **Business finance** = funding + capital structure + firm value  
-- Finance = **future**; accounting = **past**  
-- Firm goal = **owner wealth**; personal = **utility/satisfaction**  
-- Investment test = **benefits ≥ costs**  
-- Assess projects = **investment**; get a loan/raise funds = **financing**  
-- Budget = cash flows; emergency cash alt = **savings account**; mortgage = **financing**  
-- Markets purpose = **liquidity + prices**; short-term = **money market**  
-- IPO = **primary**; later trading = **secondary**  
-- Institutions’ role = **transactions** (investments/loans/deposits)  
-- Depository = deposits + loans; insurance pays from **investment returns**; pension = employer retirement; PE = private/non-public; IB = mergers; central bank = money supply  
-- SEC = **protect investors**; Fed = **inflation & unemployment**  
-- Leading = yield curve; Coincident = personal income (+ current-state use); Lagging = CPI + **unemployment**  
-- Inverted curve → **downturn**  
-- Ethical = standards; Moral = personal beliefs; Legal = law + gov penalty  
-- Industry-accepted but wrong for client → **moral** (Lucas); risk for monthly goal → **ethical** (Nora)  
-- Unethical “max value” → often **hurts** value; inadequate overseas wages = unethical  
-- Agency = own interests / company car luxury; fix = **align** via ownership pay  
-- Bondholders = **safe projects** + paid back; banks use **strict covenants**  
-- Ethical steps: 1 problem → 2 alternatives → 3 **stakeholders** → 4 act  
-
----
-
-# Unit 3 — Interest Rates, Required Return & Inflation
-*(OA-heavy area per Reddit: interest rate / required rate / inflation often ~30%)*
-
-## Key Concepts to Remember
-
-### Interest Rate — Definition & Purpose
-| Concept | Remember |
-|---------|----------|
-| **Interest rate** | The **percentage of the principal** that a lender charges a borrower for the use of assets |
-| How it is expressed | As a **percentage** (not a dollar amount, ratio, or probability) |
-| **Main purpose of charging interest** | Borrowers pay to use assets/funds that belong to another entity to accomplish their own goals |
-| Other names for interest rate (perspective) | **Discount rate**, **required rate**, **cost of capital** |
-
-### Required Rate of Return — Components
-Required rate of return is composed of:
-1. **Opportunity cost**
-2. **Risk**
-3. **Inflation**
-
-| Idea | Remember |
-|------|----------|
-| **Long-term investments need higher required return** | Greater **risk** (harder to ensure return over longer time) + higher **opportunity cost** (money tied up longer) |
-| **Opportunity cost example** | Inherit $25k → put in savings → opportunity cost could be **buying a brand new $25k car** (what you give up) |
-| **Not opportunity cost** | Bank fees; emergency access; earning interest on the savings |
-| **Inflation example (Ahmed)** | Saved exactly $15k for a car; car now costs $16,562 → he forgot **inflation** |
-
-### Inflation
-| Cause / idea | Remember |
-|--------------|----------|
-| **Increased demand** | Demand ↑ → insufficient supply → **prices go up** until demand = supply again |
-| **Built-in inflation & adaptive expectations** | Prices ↑ → workers demand **higher wages** to keep living standard → pushes prices even higher |
-| What happens to prices with inflation? | **Prices rise** (from demand ↑, cost ↑, adaptive expectations) |
-
-### Risk Premium, Nominal Rate, Risk-Free Rate, APR
-| Term | Meaning |
-|------|---------|
-| **Risk premium** | Compensation for risk given to investors |
-| **Nominal rate** | Rate at which invested money grows for a certain period; interest rate most often used in daily life; **includes inflation** → represents amount of money you’ll have in the future |
-| **Risk-free rate** | Return on an investment with **no risk**; indicates **inflation and opportunity cost** (not risk) |
-| **Real rate** | Reflects future **purchasing power** / rate adjusted to remove effects of increased prices (contrast with nominal) |
-| **Annual percentage rate (APR)** | Interest rate expressed on an **annual** basis; annual interest rate charged for borrowing or earned through investment |
-| **Hurdle rate** | Another name for **required rate of return** — the **minimum** rate a firm must surpass to accept a project |
-| **Inflation rate** | Rate at which the **average price level of a basket of goods and services** in an economy increases |
-
-**Sophia stock example (application):**
-- Inflation 2–3%, Treasury ~2%, stock has significant risk
-- Expect return **higher than inflation** to cover opportunity costs and risks
-- Inflation reduces nominal returns → need higher return for risk + opportunity cost
-- Do **not** accept less than Treasuries when risk is higher; company doesn’t set her required return; still consider opportunity costs
-
-**Module summary hooks:**
-- Interest rate = % of principal lender charges borrower  
-- Also called discount rate / required rate / cost of capital / **hurdle rate**  
-- Composed of opportunity cost, risk, inflation  
-- Inflation from increased demand, rising costs, built-in inflation  
-- Nominal includes inflation (future money amount); real = purchasing power  
-- Risk-free rate = inflation + opportunity cost  
-- APR = interest rate on an **annual** basis  
-
----
-
-## Practice Questions — Unit 3 Assessment Section 1
-
-### Interest rate basics
-1. Term for % of principal lender charges borrower for use of assets → **Interest rate**  
-2. How is interest rate expressed? → **As a percentage**  
-3. Main purpose of charging interest? → **Allows borrowers to pay to use the assets of another entity to accomplish their own goals**  
-
-### Required return / opportunity cost / inflation
-1. Component of required rate of return? → **Opportunity cost** (also risk & inflation make up the required rate)  
-2. Why long-term investment requires higher rate of return? → **Greater risk and higher opportunity cost**  
-3. Inherit $25k in savings — opportunity cost? → **Buying a brand new car worth $25,000**  
-4. Ahmed saved $15k for a car now priced $16,562 — which component did he forget? → **Inflation**  
-
-### Inflation causes / effects
-1. Why is built-in inflation linked to adaptive expectations? → **Workers want higher wages as prices increase, which pushes prices even higher**  
-2. Why does increased demand cause inflation? → **Insufficient supply → prices go up until demand equals supply again**  
-3. What happens to prices with inflation? → **Prices rise**  
-
-### Risk premium / nominal / risk-free
-1. Compensation for risk given to investors → **Risk premium**  
-2. Rate at which invested money grows for a certain period → **Nominal rate**  
-3. Component of interest rate that indicates inflation and opportunity cost → **Risk-free rate**  
-
-### Unit 3 Module 1 quiz (APR / hurdle / inflation rate / Sophia)
-1. Interest rate expressed on an annual basis → **Annual percentage rate (APR)**  
-2. Why is required rate of return also called the hurdle rate? → **It is the minimum rate that a firm must surpass to accept a project**  
-3. What is the inflation rate? → **Rate at which the average price level of a basket of goods and services in an economy increases**  
-4. What does the risk-free rate indicate? → **Inflation and opportunity cost**  
-5. Sophia: risky popular stock, inflation 2–3%, Treasuries ~2% — what return to expect? → **Based on inflation, expect a return higher than this for the associated risk** (cover opportunity costs + risks; inflation reduces nominal returns)  
-
----
-
-## Quick Memory Hooks (Unit 3 so far)
-- Interest rate = **% of principal**; expressed as **percentage**; annual form = **APR**  
-- Purpose = pay to use someone else’s assets/funds  
-- Same idea aka: **discount rate / required rate / cost of capital / hurdle rate**  
-- Hurdle = **minimum** return project must beat to be accepted  
-- Required return = **opportunity cost + risk + inflation**  
-- Longer term → **more risk + more opportunity cost** → higher required return  
-- Opportunity cost = what you **give up** (e.g., the car you don’t buy)  
-- Price rose while saving → forgot **inflation**  
-- Inflation rate = ↑ in average price of a **basket of goods/services**  
-- Demand inflation = shortage → prices ↑; built-in = wages chase prices  
-- Inflation → **prices rise**  
-- Risk compensation = **risk premium**  
-- Growth of money in daily life = **nominal** (includes inflation)  
-- Risk-free rate = **inflation + opportunity cost** (no risk)  
-- Nominal = future **money amount**; Real = **purchasing power**  
-- Risky stock + inflation → expect return **above inflation** for risk/opportunity cost  
-
----
-
-# Unit 3 — Time Value of Money (TVM)
-
-## Key Concepts to Remember
-
-### TVM Core Idea
-| Concept | Remember |
-|---------|----------|
-| **Time value of money** | Money available **today** is worth **more** than the same amount in the future |
-| Why / what it considers | Amount of cash flows at different times with a certain interest rate |
-| Present value (PV) & Future value (FV) | **Relative** to other cash flows |
-
-### Compounding vs Discounting
-| Process | Direction | Meaning |
-|---------|-----------|---------|
-| **Compounding** | PV → FV | Finding a **future value** given a present value |
-| **Discounting** | FV → PV | Finding a **present value** given a future value |
-
-### Annuities
-| Type | Definition / cue |
-|------|------------------|
-| **Annuity (general)** | Equally spaced cash flows of **equal amounts** |
-| **Ordinary annuity** | Series of **equal payments** at the **end** of consecutive periods over a **fixed** length of time |
-| **Annuity due** | Equal payments at the **beginning** of periods (contrast with ordinary) |
-| **Perpetuity** | Annuity that continues forever (not a fixed length) |
-
-**Ordinary annuity keys (tested):** “at the **end** of each period” + “**fixed** period” + “**equal** payments”
-
-### TVM Example (quiz)
-- Invest $10,000 today + $5,000/year for 5 years at 4% → can withdraw **$39,248.14** in 5 years  
-- That $39,248.14 = **Future value** (worth of relative past cash flows; relative future to other cash flows)
-
-### Excel / TVM functions (from lesson + quizzes)
-| Idea | Remember |
-|------|----------|
-| Excel TVM functions | Use function + **cell references** for inputs so changes update automatically (don’t hard-code numbers if inputs are in cells) |
-| **TYPE** input | Cash flow timing: **0** = END (ordinary annuity); **1** = BEGIN (annuity due) |
-| Annuity due PV example | $5,000/year for 20 years, 3% discount → TYPE = **1** |
-| **FV function argument order** | `FV(rate, nper, pmt, pv, type)` — reference cells in that order |
-| Ordinary annuity FV example | Save $1,000/year for 10 years at 3% → `=FV(C2,C3,C4,C5,C6)` style (rate, nper, pmt, pv, type); TYPE typically **0** for ordinary |
-| When to use **PV** | Finding lump sum **needed now** to support future withdrawals / relative **past** value of future cash flows (e.g., withdraw $10k/year for 5 years at 3%); also FV/PV of a **single sum** given an interest rate |
-| When to use **FV** | Finding future worth of current/past cash flows (single sum or annuity) |
-| Also learn | **PMT**, **RATE**, **NPER** Excel functions |
-| When to use **NPV** | Present value of **uneven** cash flows in **one step** |
-| When to use **IRR** | Rate of return on **uneven** cash flows; references **cash flows only** (not the discount rate) |
-| IRR example | To find interest rate of a cash-flow series → `=IRR(B3:E3)` (range of cash flows only) |
-| Other functions mentioned | NPER, RATE (not the right pick for “lump sum needed now”) |
-
-**Compounding interest:** Interest is calculated on the **principal + earned interest** (interest on interest).
-
-**Sign/timing tip (verify in Excel lessons):** payments “starting today” / beginning → TYPE 1; end of period → TYPE 0; money leaving usually negative for PMT.
-
-### TVM in Business & Personal Decisions
-| Concept | Remember |
-|---------|----------|
-| TVM influences | Both **business** and **personal** decision-making |
-| Break-even vs dollars received | Because of TVM, the break-even amount for an investment is **not comparable** to the actual dollar amount you receive over the investment period (must adjust for time) |
-| Why TVM matters in decisions | Benefits received at **different times** are comparable **only** when you consider TVM — find today’s value of future cash flows to compare costs and benefits |
-| Loan / mortgage length | **Longer** period → **higher** interest charged over life of loan → **more total interest** paid (even at the same rate) |
-
-**Mortgage example (tested):** $250k house; 20-year vs 30-year mortgage, both at 3.5% → **30-year** requires more **total interest** (same rate, longer life = more interest paid).
-
----
-
-## Practice Questions — Unit 3 TVM Assessment Section 1
-
-1. Series of equal payments at the **end** of consecutive periods over a fixed length of time → **Ordinary annuity**  
-2. $10k today + $5k/year for 5 years at 4% → withdraw $39,248.14 in 5 years. What is $39,248.14? → **Future value**  
-3. Concept that a dollar today is worth more than a dollar in the future → **Time value of money**  
-
-### TVM decision-making quiz
-1. $250k house; 20-year vs 30-year mortgage, both 3.5% — which costs more total interest? → **A 30-year mortgage**  
-2. Why does TVM play an important role in financial decision-making? → **Benefits of investments received at different times are comparable only when you consider the time value of money**  
-
-### Excel TVM functions quiz
-1. PV of annuity due $5,000/year for 20 years at 3% — what is TYPE? → **1** (BEGIN / annuity due)  
-2. FV of ordinary annuity; inputs in C2:C6 — correct formula? → **`=FV(C2,C3,C4,C5,C6)`** (rate, nper, pmt, pv, type cell refs)  
-3. Lump sum needed now to withdraw $10,000/year for 5 years at 3% — which Excel function? → **PV function**  
-
-### Compounding / uneven cash flows (NPV & IRR) quiz
-1. Present value of **uneven** cash flows in one step → **NPV**  
-2. Find interest rate of a cash-flow series (discount rate shown but not used in formula) → **`=IRR(B3:E3)`** (IRR of cash flows only)  
-
----
-
-## Quick Memory Hooks (Unit 3 TVM so far)
-- TVM = **today’s dollar > future dollar**  
-- **Compounding** = PV → FV; **Discounting** = FV → PV  
-- Compounding interest = interest on **principal + earned interest**  
-- PV/FV are **relative** to other cash flows  
-- Annuity = equal, equally spaced cash flows  
-- **Ordinary** = end of period (TYPE **0**); **Annuity due** = beginning (TYPE **1**); **Perpetuity** = forever  
-- Lump sum today + payments growing to a later amount → that later amount is **FV**  
-- TVM lets you compare costs/benefits across **different times** (today’s value of future CFs)  
-- Longer loan life → **more total interest** (even at same rate)  
-- Break-even $ ≠ raw dollars received over time without TVM  
-- Excel equal CFs: PV, FV, PMT, RATE, NPER  
-- Excel uneven CFs: **NPV** = PV in one step; **IRR** = rate of return (cash flows only)  
-- Need money **now** for future withdrawals → **PV**; grow money to later date → **FV**  
-
----
-
-# Unit 3 — Returns (NEW from this batch)
-
-## Key Concepts
-| Term | Definition |
-|------|------------|
-| **Return** | Money **gained or lost** on an investment over some period of time |
-| **Holding period return** | Return over the **entire period** an investor owns a financial security |
-| **Expected return** | Hypothesized estimate of future returns under different scenarios based on **expectational data** / probability of scenarios |
-| **Real rate (purchasing power)** | Roughly **nominal return − inflation** — use to compare purchasing power across years |
-
-**Purchasing power example:** 1980: inflation 5%, return 15% → real ≈ 10%. 2010: inflation 5%, return 12% → real ≈ 7%. Stockholders gained greater purchasing power in **1980** because the **real rate** was higher.
-
-### Practice — Returns
-1. What is a return? → **Gain or loss on an investment over some period of time**  
-2. What is an expected return? → **Hypothesized estimate of future returns under different scenarios based on expectational data**  
-3. 1980 vs 2010 purchasing power (same 5% inflation; returns 15% vs 12%) → **1980 because the real rate was higher**  
-4. What makes expected return subjective/different? → **Based on expectational data and the probability of different scenarios occurring**  
-
----
-
-# Risk (Market / Firm-Specific / Reduction)
-
-## Key Concepts
-| Concept | Remember |
-|---------|----------|
-| **Risk (in finance)** | Possibility that the **realized/actual return** will differ from the **expected return** |
-| **Systematic / market risk** | Economy-wide; **cannot be diversified away** |
-| **Firm-specific / idiosyncratic risk** | Company problems (lawsuits, labor, management, etc.); **can be diversified away** |
-| **Interest rate risk** | Market risk where bond value is affected by changes in interest rates |
-| **Default risk** | **Firm-specific** risk from probability of loss if borrower fails to repay a contractual obligation |
-| **Price risk — operating risk** | Depends on the effect of the firm’s **operating decisions** on its operating costs |
-
-### Risk reduction techniques
-| Technique | Meaning / example |
-|-----------|-------------------|
-| **Diversification** | “Spreading” money over many different assets; reduces **firm-specific** risk (only up to a point — market risk remains) |
-| **Risk separation** | Dispersing assets **geographically** instead of concentrating in one location (differs from diversification) |
-| **Risk transfer** | e.g., **buying home insurance** — risk transferred from policyholder to insurer |
-| **Risk retention** | Keep risk when cost of pursuing the activity is believed **less than the alternative** |
-
-### Risk–return & time
-| Idea | Remember |
-|------|----------|
-| Systematic risk differs by firm | **Utility companies** → **low** systematic risk (move with market in a diminished way); luxury often higher |
-| Higher return | Typically **higher risk** / greater uncertainty |
-| **Time diversification** | Stock investments are **more risky over a shorter period** than over a longer period |
-| CAPM idea (lesson) | Trade-off between risk and return; higher systematic risk → higher expected return |
-
-### Practice — Risk
-1. Risk in finance → **Actual/realized return may differ from expected return**  
-2. Market vs firm-specific → **Market cannot be diversified away; firm-specific can**  
-3. Firm-specific risk → Problems from lawsuits, labor, management, etc.  
-4. Interest rate risk → **Market risk**; bond value affected by rate changes  
-5. Risk reduced by variety of assets in portfolio → **Firm-specific risk**  
-6. Risk separation vs diversification → Separation = disperse assets **geographically**  
-7. Risk transfer example → **Buying home insurance**  
-8. Why retain risk? → Cost of activity believed **less than the alternative**  
-9. Utilities’ systematic risk → **Low** (diminished co-movement with market)  
-10. Time & stocks → **More risky short-term than long-term**  
-11. Higher return tends to mean → **Higher risk**  
-12. Competitor hit + wage cuts → labor strike → **Idiosyncratic / firm-specific risk**  
-13. Price risk type correctly identified → **Operating risk** (operating decisions → operating costs)  
-14. Spreading money over many assets → **Diversification**  
-15. Default risk → **Firm-specific**; loss if borrower fails to repay  
-
----
-
-# Ratio Analysis (OA-heavy)
-
-## Why ratios matter
-| Idea | Remember |
-|------|----------|
-| Purpose | Compare companies of different sizes/strategies/risk; evaluate performance; know what to focus on |
-| **Flexibility** | Not regulated — can **create new ratios** as needed (e.g., cash / short-term obligations when AR slow & inventory illiquid) |
-| **Standardization** | Makes firms of different sizes comparable |
-| Useful through comparisons | **Trend analysis**, **cross-sectional analysis**, **progress measurement** |
-| Shareholders use | Help determine whether firm is **maximizing shareholder wealth** |
-| Benchmarking | Compare firm to similar firms / peer group |
-
-### Comparison methods
-| Method | Meaning |
-|--------|---------|
-| **Trend analysis** | Firm’s performance **over time** |
-| **Cross-sectional analysis** | Firm vs **competitors / industry / peer group** |
-| **Progress measurement** | Compare current ratio to a **goal** and track progress toward it |
-| **Benchmarking** | Performance relative to similar firms |
-
-## Five major ratio types
-| Type | What it measures |
-|------|------------------|
-| **Liquidity** | Ability to meet **short-term** obligations (often without raising external capital). **Suppliers** care about these |
-| **Activity (efficiency / asset use)** | How well assets generate **sales or cash** |
-| **Leverage / Financing** | How firm is financed (debt vs equity); ability to pay interest & long-term obligations |
-| **Profitability** | How well management maximizes shareholder wealth; performance & cost efficiency |
-| **Market** | Evaluate **current share price** of public firm’s stock |
-
-### Key specific ratios
-| Ratio | Type / meaning |
-|-------|----------------|
-| **Current ratio** | Liquidity — meet short-term obligations |
-| **Quick ratio** | Liquidity — like current but **excludes inventory** (inventory least liquid; more stringent) |
-| **Inventory turnover** | Activity — inventory management; **high vs industry** may mean **not enough inventory** (customers wait) |
-| **AR turnover** | Activity — collecting receivables |
-| **Average collection period (ACP)** | Days on average to collect AR. ACP 70 → takes **70 days** to collect. If ACP 67 vs industry 40 → **tighten credit standards** |
-| **Total asset turnover (TAT)** | Activity — sales per dollar of assets (higher = more efficient asset use) |
-| **Fixed asset turnover (FAT)** | Activity — fixed asset efficiency |
-| **OIROI** | Activity — operating income return on investment |
-| **Debt ratio** | Leverage — % of **assets financed by debt** (40% → 40% of assets financed by debt) |
-| **Times interest earned (TIE)** | Ability to pay interest / long-term obligations |
-| **Gross margin** | Profitability — % of sales that become gross profit (after COGS); useful for production cost efficiency / profit per widget before other op costs |
-| **Operating margin** | Profitability — pre-interest; useful to **compare firms with different capital structures** |
-| **Net margin** | Profitability — % of revenue retained as profit (NI/Sales). 7% → 7 cents per $1 sales remain for **equity holders** after all costs |
-| **Market-to-book (M/B)** | Market — growth prospects; **>1** expected to grow; **<1** = **value stock** |
-| **Price-to-earnings (P/E)** | Market — assess if stock/firm correctly valued |
-
-### DuPont framework (MUST KNOW)
-**ROE** = Net Margin × Total Asset Turnover × Leverage Multiplier  
-Also: **ROE = ROA × Leverage Multiplier** (ROA is a DuPont component path)
-
-| Idea | Remember |
-|------|----------|
-| What DuPont shows | How **profitability**, **asset management**, and **financing** contribute to ROE |
-| Component of ROE | **Net margin** (also TAT & leverage) |
-| ↑ ROE (all else constant) | **Increasing debt financing** (↑ leverage multiplier); **↑ net margin** (cut costs); **↓ equity financing** + ↑ net margin |
-| Identical ROE, different financing | BigDog 40% debt vs SmallDog 100% equity → SmallDog has **higher ROA** (same ROE, smaller leverage multiplier) |
-| Same PM & AT, higher ROE | Firm uses **higher proportion of debt** (larger leverage multiplier) |
-| Improve ROE | Successfully cut production costs to boost **net margin** |
-
-### Extra applications
-- Paying off short-term loans more quickly → **liquidity ratio increasing**  
-- Different ratio types needed because they inform **different parts** of the firm  
-- Ratios useful across firm sizes because they provide **standardization**  
-
-### Practice — Ratios (selected from quizzes)
-1. Ratio use example → compare to peer group = **cross-sectional**  
-2. Why flexible? → **Not regulated; invent as needed**  
-3. Help shareholders? → Determine if maximizing **shareholder wealth**  
-4. Compare to similar firms → **Benchmarking**  
-5. Short-term obligations without external capital → **Liquidity ratios**  
-6. Why many ratio types? → Info about **different parts** of firm  
-7. Leverage ratios describe → **Proportions of equity and debt** financing assets  
-8. Paying ST loans faster → **Liquidity ratio increasing**  
-9. Current ratio type → **Liquidity**  
-10. Current vs quick → Quick **excludes inventory**  
-11. M/B = 1.2 → firm **expected to grow**  
-12. Net margin measures → % of revenue retained as **profit**  
-13. ROE component → **Net margin**  
-14. DuPont helps how? → Profits, assets, financing → ROE  
-15. ↑ ROE all else equal → **Increasing debt financing**  
-16. DuPont component → **Return on assets** (ROE = ROA × leverage)  
-17. Improve ROE → **Cut costs / boost net margin**  
-18. Same ROE; one all-equity → all-equity has **higher ROA**  
-19. Actions that ↑ ROE → **Decrease equity financing + increase net margin**  
-20. Goal ratio 1.5→2 via cost cuts → **Progress measurement**  
-21. Market ratios purpose → Evaluate **current share price**  
-22. Profit per Widget (COGS only) → **Gross margin**  
-23. What shows what drives ROE changes → **DuPont framework**  
-24. Who uses assets more efficiently → Higher **asset turnover**  
-25. Performance over time → **Trend analysis**  
-26. vs competitors/industry → **Cross-sectional analysis**  
-27. Suppliers interested in → **Liquidity ratios**  
-28. Avg time to collect AR → **Average collection period**  
-29. Debt ratio 40% → **40% of assets financed by debt**  
-30. Operating margin useful for → Comparing profitability of firms with **different capital structures**  
-31. ACP of 70 → **70 days to collect AR**  
-32. High inventory turnover vs peers → **Not enough inventory**; customers wait  
-33. ROA vs ROE → ROE considers **capital structure**; ROA does not  
-34. Improve ROE (same leverage & AT) → **Reduce costs / improve profitability**  
-35. Ratios across sizes → **Standardization**  
-36. Create cash/ST obligations ratio → **Flexibility**  
-37. Activity = efficiency because → Measure asset use to generate sales/cash  
-38. How financed + pay interest/LT obligations → **Financing ratios**  
-39. Net margin 7% → 7¢ per $1 sales for **equity holders**  
-40. ACP 67 vs industry 40 → **Tighten credit standards**  
-41. Current vs quick again → Inventory excluded from quick  
-42. M/B < 1 stock term → **Value stock**  
-43. Inventory turnover assesses → **Inventory management**  
-44. Same PM & AT, higher ROE → **Higher proportion of debt**  
-
----
-
-# Unit 5 — Cash Budgeting & Financial Forecasting (OA-heavy)
-
-## A. Cash Budgeting (Short-term)
-
-### What / horizon / uses
-| Idea | Remember |
-|------|----------|
-| **Cash budget** | Forecast of **short-term** events to see if firm has enough cash for operations |
-| Time horizon | Usually **1 month to 1 year** (not useful <1 month; not necessary >1 year) |
-| Budgeting focus | Forecast future events for a specific short-term period (months up to a year) |
-| **3 main uses** | (1) Forecast **future financing needs**, (2) basis for **corrective action**, (3) **performance evaluation** |
-| Variances on cash budget | Can show certain managers/divisions **not meeting targets** (performance evaluation) |
-
-### Six principles of personal budgeting
-1. Know yourself  
-2. Understand key areas: **savings, income, expenses**  
-3. Develop savings, income, and expense strategies  
-4. **Keep records**  
-5. Use a method that meets your needs/objectives  
-6. Eliminate consumer debt and minimize long-term debt  
-
-**Before personal budget, determine:** income, expenses, and savings  
-
-### Creating a cash budget (business) — order
-1. **Determine cash receipts**  
-2. **Estimate cash disbursements**  
-3. **Create the cash budget**  
-
-Business cash budget should include: **cash receipts, cash disbursements, and borrowing**
-
-### Personal vs business budgeting steps
-- Business: cash inflows, estimate outflows, create plan  
-- Personal: understand goals → track cash flows → develop plan → try plan → adjust  
-- Effective budget process ongoing: **Track → Monitor → Revise**
-
-### Cash receipts vs disbursements
-| | Business | Personal |
-|--|----------|----------|
-| **Receipts** | Cash sales + collected AR | Salary/wages; e.g., **graduation gift** |
-| **Disbursements** | Materials, interest, taxes, rent, admin, selling expenses, etc. | Groceries, gas, insurance, etc. |
-| Example receipt | Gift of $100 from grandmother | |
-| Example disbursement | Rent check paid/cashed this month; labor costs | |
-| **Not** a disbursement this month | Inventory on credit paid next month | |
-| **Not** a receipt | Collection timing aside; ski pass trade isn’t cash income the same way | |
-
-**Sales ≠ cash receipts:** Sales include **cash + credit** sales; credit sales become receipts only when collected.  
-Example: $100k sales but $90k cash → firm did not make all sales on cash.
-
-### Fixed expenses / goals / efficiency
-- Monthly mortgage = **fixed expense** (same amount each month)  
-- Better goal: “Put $50 in savings each month for Christmas” → **specific and measurable**  
-- Make budget more efficient: compare budgeted vs actual cash flows, then **revise if needed**  
-- Implement budget changes: **prioritize and implement gradually, one by one**
-
-### Tracking, monitoring, revision
-| Term | Meaning |
-|------|---------|
-| **Tracking** | Recording cash flows (envelope, spreadsheet, software) |
-| **Monitoring** | Evaluate actual vs goals; find patterns; know when correction needed |
-| **Revision** | After analysis; implement gradually |
-| Why track? | Recognize where/how money is spent so you can monitor and revise |
-| Software vs spreadsheet | Prefer software when hard to remember recording + prefer card purchases |
-| Fix problems | **Monitor** to identify → **gradual revision** to fix |
-
-**Envelope method:** Put budgeted cash for each expense category into labeled envelopes; spend only that category’s cash.
-
-### Borrowing / cash position
-- Need to borrow when: **beginning cash + net cash < minimum cash balance** required for the month  
-- Cash budgets help lenders trust firm can operate within borrowing limits and repay  
-- Knowing cash position: **Businesses** → when short-term loans needed; **Individuals** → progress toward personal goals (individuals usually shouldn’t need ST loans)  
-- Purpose of monthly cash budget: control inflows/outflows to balance income with expenditures and savings  
-
-### W&H case hooks
-- Labor costs = **cash disbursement**  
-- After budget: **monitor actual cash flows and revise if needed**  
-- Useful for loan: shows creditors firm can support operations within borrowing limits  
-
----
-
-## B. Financial Forecasting (Longer-term)
-
-### Purpose / goal
-| Idea | Remember |
-|------|----------|
-| Role | Supplements history with proposed investments/changes for better foresight |
-| **Goal** | Understand implications of **today’s decisions on tomorrow’s performance** |
-| Key question answered | **How much financing will the firm need in the future?** |
-| Horizon contrast | Cash budget ≤ ~1 year; forecasting often **2–5 years** (unit summary) |
-| Long-term forecasts used for | **Investment and financing decisions** |
-
-### Spontaneous vs discretionary accounts
-| Type | Meaning | Examples |
-|------|---------|----------|
-| **Spontaneous** | Vary **naturally/proportionally with sales** | COGS, cash, AR, inventory, **accounts payable** |
-| **Discretionary (non-spontaneous)** | Do **not** vary automatically with sales; management decides | **Notes payable**, **long-term liabilities/debt**, common stock |
-| Special (neither purely) | **Fixed assets** and **retained earnings** need special treatment | |
-
-If sales grow 10%/15% → increase spontaneous accounts (cash, AR, inventory, COGS) similarly; leave notes payable / LT liabilities constant unless management decides otherwise.
-
-### Percent of sales & DFN
-| Concept | Remember |
-|---------|----------|
-| **Pro forma statements** | Projected future financial statements |
-| **Percent of sales method** | Sales forecast + historical relationships → pro formas |
-| **When DFN determined** | **After** pro forma statements forecasted with % of sales |
-| **DFN** | Additional financing needed given expected growth |
-| **DFN formula idea** | Projected assets − projected liabilities − projected owners’ equity |
-| What DFN tells | Total funding management must obtain through discretionary financing sources |
-| **Negative DFN** | Firm will have **enough financing** to fund projected sales (no extra financing needed) |
-| Estimating BS changes with sales | **Forecasting spontaneous accounts** |
-
-### Ways to decrease DFN
-- **Increase plowback / retention** (↑ projected OE)  
-- **Increase net margin** (↑ projected OE)  
-- First place to check capacity constraints: **Fixed assets**  
-
-Do **not** decrease DFN by decreasing retention / increasing dividend payout / decreasing net margin.
-
-### Sustainable growth rate (SGR)
-| Idea | Remember |
-|------|----------|
-| **SGR** | Growth rate firm can grow while maintaining present financial ratios **without issuing new equity** |
-| Components | Profitability, asset use efficiency, capital structure, dividend policy |
-| Also described | ROE × plowback; max growth keeping ratios constant without new equity |
-| ↑ SGR | **Decrease dividend payout** (↑ retention) |
-| Avoid new stock but grow fast as possible → look at **SGR** |
-
-### Fixed assets / capacity / lumpy assets
-| Idea | Remember |
-|------|----------|
-| Why % of sales for FA unrealistic | Assets are **lumpy** — buy whole factory/equipment, not a fraction |
-| Grow FA at capacity | Invest a **substantial lump sum** at once to increase capacity |
-| **Sales capacity** equation | Shows how much room to grow **without additional FA investment** (actual sales / % of capacity) |
-
----
-
-## Practice — Unit 5 (key Qs with answers)
-
-### Cash budgeting
-1. Variances on cash budget indicate → managers/divisions **not meeting targets**  
-2. Cash budget forecast horizon → **1 month to 1 year**  
-3. Three budgeting principles (subset) → keep records; develop savings/income/expense strategies; method that meets needs  
-4. Three main uses → forecast need, performance evaluation, corrective action  
-5. Order to create cash budget → receipts → disbursements → create budget  
-6. Better Christmas goal → **specific and measurable** ($50/month)  
-7. Mortgage fixed because → **same amount each month**  
-8. More efficient budget → compare budgeted vs actual, **revise**  
-9. Personal cash receipt example → **graduation gift $100**  
-10. Business disbursement example → **rent check paid/cashed**  
-11. Business cash budget includes → receipts, disbursements, **borrowing**  
-12. Business disbursements examples → raw materials, rent, admin, interest, selling expenses  
-13. Sales ≠ receipts because → sales include **credit sales**  
-14. Why track cash flows → know where money goes; monitor & revise  
-15. Prefer software tracking when → forget to record + prefer card  
-16. Purpose of monitoring → actual vs goals; when correction needed  
-17. Identify & fix problems → **monitor** identify; **gradual revision** fix  
-18. Labor costs in budget → **cash disbursement**  
-19. After developing budget → **monitor and revise**  
-20. Useful for bank loan because → builds lender trust / shows can repay within limits  
-21. Cash position benefit: business vs individual → ST loans needed vs progress to personal goals  
-22. Tracking vs monitoring → monitoring uses tracking record to evaluate vs target/patterns  
-
-### Unit 5 Test Form B highlights
-1. Short-term cash sufficiency forecast → **Cash budget**  
-2. Purpose of monthly cash budget → control inflows/outflows; balance income, expenditures, savings  
-3. Need to borrow when → beg cash + net cash **< minimum cash balance**  
-4. Envelope method → cash in labeled envelopes by category  
-5. Budget changes → prioritize; implement **gradually one by one**  
-6. Cash/AR/inventory ↑ with sales % → **Spontaneous accounts**  
-7. Negative DFN → firm has **enough financing** for projected sales  
-8. Spontaneous account → **Accounts payable**  
-9. SGR useful because → max growth maintaining ratios **without new equity**  
-10. Buy whole factory for capacity → fixed assets are **lumpy**  
-
-### Unit 5 Test Form A highlights
-1. Jerry budgeting principles → keep records; understand savings/expenses/income; eliminate consumer debt  
-2. Before personal budget determine → **income, expenses, savings**  
-3. Sales $100k, cash $90k → not all sales on cash (credit)  
-4. Effective budget → **track, monitor, revise**  
-5. Envelope method → withdraw/set cash per category spending limit  
-6. Long-term forecasts used for → **investment and financing decisions**  
-7. Don’t vary with sales; management discretion → **Non-spontaneous / discretionary**  
-8. Discretionary account → **Notes payable**  
-9. Grow without new equity → **Sustainable growth rate**  
-10. FA increase as lump sum because → must purchase **entire** asset, not just portion needed  
-
-### Forecasting / DFN / SGR quizzes
-1. Forecasting role → history + proposals for accurate foresight  
-2. Goal of forecasting → today’s decisions → tomorrow’s performance  
-3. Question answered → how much **financing needed in future**  
-4. Helps decision-making → impacts of today’s actions on future  
-5. Fundamental purpose → estimate how cost/sales changes impact future CFs & financing needs  
-6. Spontaneous accounts → vary naturally with sales  
-7. Account type that changes with sales growth → spontaneous  
-8. Sales +10% might also +10% → **COGS**  
-9. When can DFN be determined → after pro formas via % of sales  
-10. Decreases DFN → **increasing plowback ratio**  
-11. % of sales; leave constant → **notes payable** (discretionary)  
-12. Estimating BS changes with sales → forecasting **spontaneous accounts**  
-13. SGR definition → grow maintaining ratios **without new equity**  
-14. Reduce DFN → **increase net margin**  
-15. Increases SGR → **decreasing dividend payout**  
-16. Check first for capacity/DFN → **fixed assets**  
-17. Grow FA at capacity → invest substantial amount at once  
-18. Sales capacity tells → room to grow without more FA  
-19. DFN definition → additional financing needed given expected growth  
-20. LT liabilities held constant → **discretionary account**  
-21. DFN tells → funding to obtain via discretionary sources  
-22. Grow without issuing stock → **SGR**  
-23. Major purpose of forecasting → how decisions impact future growth  
-
----
-
-## Quick Memory Hooks (Unit 5)
-- Cash budget = **short-term** (1 mo–1 yr); forecast need + evaluate + correct  
-- Personal principles: know yourself; savings/income/expenses; strategies; records; right method; cut consumer debt  
-- Budget order: **receipts → disbursements → budget**  
-- Track → Monitor → Revise (gradually)  
-- Sales ≠ cash (credit); spontaneous ↑ with sales; discretionary = management (NP, LT debt)  
-- DFN after pro formas; DFN = proj A − L − OE; negative DFN = enough financing  
-- ↓ DFN: ↑ plowback, ↑ net margin; check **fixed assets** capacity first  
-- SGR = grow without **new equity**; ↑ SGR by ↓ dividends  
-- Fixed assets = **lumpy**; sales capacity = growth room without new FA  
-
----
-
-# Unit 6 — Capital Budgeting, Valuation & Project Cash Flows (OA-heavy)
-
-## Ideal evaluation / why TVM & opportunity cost matter
-| Idea | Remember |
-|------|----------|
-| Ideal method should consider | **All relevant cash flows** — otherwise you don’t know how the project enhances firm value |
-| Investment adds value when | **PV of benefits > PV of costs** |
-| Opportunity cost (TVM) | What you forgo by tying money/time in an investment vs other options |
-| Timing of CFs matters because | Related to **opportunity cost** — compare CFs to other projects; earlier CFs better (can reinvest) |
-| Same total $600k inflows, different timing | Prefer the project that receives cash **most quickly** (highest NPV via TVM) — e.g., Project D in the quiz |
-| Non-cash opportunity cost example | Study instead of movies → opportunity cost is **going to the movies** |
-| Opportunity cost definition | Loss of ability to use an asset for the **next best** project once invested elsewhere |
-
-## NPV (Net Present Value)
-| Idea | Remember |
-|------|----------|
-| Positive NPV | Project **increases shareholder wealth** / adds dollar value to firm → **accept** |
-| Advantage | Calculates **dollar value** added to the firm by the project |
-| Disadvantage | **Not** effective to compare projects of **different sizes** |
-| Hardest / most important input | **Cost of capital / required rate** — inaccurate estimate → reject good projects or accept bad ones |
-| Mutually exclusive projects | Use **NPV** (pick the one that adds most value) — e.g., among 4 projects, choose highest NPV (**Project 2**: IRR 11%, NPV $67k beats higher IRRs with lower NPV) |
-| NPV = 0 | Means **IRR has been reached** |
-
-## IRR (Internal Rate of Return)
-| Idea | Remember |
-|------|----------|
-| Definition | Rate that makes NPV = **$0** |
-| Why use for non-finance friend | Easy to interpret / communicate investment potential |
-| Accept rule | Accept if **IRR > hurdle rate / cost of capital** (Bobby’s Books: hurdle 9%, IRR 11% → **yes**) |
-| Unconventional CFs problem | Multiple sign changes → **multiple IRRs**; can’t tell which is correct → use **NPV** |
-| Mutually exclusive | IRR alone can mislead; prefer NPV for value added |
-| Limitation (module) | Don’t use for multiple sign changes or mutually exclusive ranking alone |
-
-## PI (Profitability Index)
-| Idea | Remember |
-|------|----------|
-| What it is | Presented as a **ratio** — discounted benefits / discounted costs |
-| How it aids NPV | Scales different-sized projects so returns are comparable; gives idea of **return** generated |
-| Accept rule | Accept if **PI > 1**; PI 0.8 → reject (inflows 20% short of covering investment) |
-| Capital rationing / not mutually exclusive but limited budget | Rank/accept by **highest PI first** until capital used (Alphabet Co.; Betsy’s Wigs: 1.35, 1.27, 1.02 → Projects **3, 2, 1**) |
-| Adjustment that can make PI < 1 | **Higher cost of capital** decreases PI → may reject |
-| Mutually exclusive | PI not the primary pick method (use NPV for mutually exclusive) |
-
-**Decision cheat sheet:**
-- Mutually exclusive → **NPV**  
-- Capital constraints / rank within budget → **PI**  
-- Communicate % return / simple story → **IRR** (if conventional CFs)  
-- Unconventional CFs → **NPV**  
-
-## Why capital / returns / debt
-| Idea | Remember |
-|------|----------|
-| Why firms seek capital investment | Purchase **long-term assets** for future growth |
-| Capital budgeting | Evaluating & planning purchases of **long-term assets** |
-| Why always a cost to bring funds in | Must compensate investors for **risk** of investing |
-| Risk–return | Higher risk → **higher required return** |
-| Debt benefit | Interest is paid **before taxes** (tax shield) |
-| Financing decision | Proportions of **debt and equity** to fund assets/operations |
-| Investor view of returns | Amount they require to lend/invest in the corporation’s securities |
-
-## Bonds & stocks (valuation basics)
-| Idea | Remember |
-|------|----------|
-| Why raise via stocks vs bonds | Stocks do **not** require firm to repay **par value** to investors |
-| Bond price < par ($973 vs $1000) | **Discount bond** (YTM > coupon) |
-| Preferred stock vs bonds | Company **can skip** preferred payments (not bonds — bond skip = default); must eventually pay dividends in arrears before common |
-| Bond valuation method | **PV function in Excel** (rate, nper, pmt, FV) |
-| Common stock key assumption | **Growth rate stays the same forever** (constant growth / Gordon model) |
-| Preferred stock valuation | **Perpetuity model** |
-| YTM ↑ → bond price | **Falls**; YTM ↓ (8%→7%) → price **increases** (inverse) |
-| Bonds | Fixed-income; fixed interest payments |
-| Common stock | Variable dividends + **voting rights** |
-| Preferred | Hybrid; fixed payments; generally **no voting**; paid before common |
-| CAPM (module) | Risk–return for an asset; way to price risk |
-
-## Incremental / incidental / cannibalization
-| Concept | Remember |
-|---------|----------|
-| **Incremental cash flows** | Any additional cash flows in or out created by accepting a project |
-| Allocated overhead | General firm cost, **not** a direct result of the project → **irrelevant** to analysis |
-| Incidental vs non-incremental | **Incidental** = indirect but **must be included**; non-incremental **excluded** |
-| **Cannibalization / cost of cannibalization** | Reduction in sales of a company’s **own** products due to introducing another similar product |
-| **Sunk costs** | Already incurred whether you do the project or not → **irrelevant** (do not include) |
-| Sunk examples | Market study already paid; consulting spent **before** project start |
-| **Not** sunk | Required training; shipping new machine; forgone land sale offer |
-
-**Beckingham Sports:** $400k study + $600k consulting = **sunk** (ignore). Land cost $2M but offer of **$3M** to buy the land → relevant = **$3M opportunity cost**.
-
-### Extra Unit 6 locks (Assessment Sec 1–2 — study these hard)
-| Idea | Remember |
-|------|----------|
-| NPV = 0 | Earns **exactly** required return; neither adds nor takes value |
-| TVM valuation methods | Both **NPV and IRR** |
-| Mutually exclusive | Use **NPV** (not PI for $ value) |
-| Prefer **bonds** over stocks | Bonds do **not** require giving up **ownership**/control |
-| Bond like an annuity | Constant coupon each period + maturity date |
-| Why cost of capital matters | Project CFs may be **uncertain** |
-| Differently timed CFs | Must determine **opportunity cost** |
-| Debt financing disadvantage | Does **not** achieve optimal capital structure alone — need **debt + equity mix** |
-| NPV most reliable because | TVM + **$ value** added + takes **risk** into account |
-| Results as **percentages** | Used **IRR** |
-| PI = 1 | IRR = cost of capital (break-even) |
-| Price = par | **Par bond** |
-| Preferred = perpetuity | Fixed payment **forever** |
-| Why TVM in evaluation | $ today ≠ same $ in 10 years |
-| Clothes vs electric bill | Opportunity cost = electricity turned off |
-| Seemingly identical projects | Different **inherent risks** → different cost of capital |
-| Sunk cost example | Consulting spent 3 months **prior** to project |
-
-**Traps (from missed Qs):**
-- Bond ≠ constant growth forever (common stock); bond = coupons to maturity  
-- Cost of capital reason ≠ “reinvest earlier” (TVM) → **uncertainty**  
-- Don’t compare differently timed projects on benefits only → **opportunity cost**  
-- Debt disadvantage ≠ “can’t raise equity” → need **mix**, not all debt  
-- Land purchase may be sunk; **forgone $3M sale** is the opportunity cost  
-- PI = 1 ≠ benefit outweighs cost by initial amount (that ≈ PI of 2)  
-- % answers → IRR; $ answers → NPV  
-
----
-
-## Practice — Unit 6 (correct answers)
-
-### NPV / IRR / PI basics
-1. Project increases shareholder wealth → **NPV positive**  
-2. Important but hard to estimate in NPV → **Cost of capital**  
-3. Advantage of NPV → **Dollar value added to the firm**  
-4. Disadvantage of NPV → **Not effective to compare projects of different sizes**  
-5. Explain TVM-naive friend why invest → **IRR** (easy to interpret)  
-6. NPV when IRR reached → **$0**  
-7. Unconventional CFs → multiple IRRs → use **NPV**  
-8. Hurdle 9%, IRR 11% → **Accept** (IRR > cost of capital)  
-9. Method presented as a ratio → **PI**  
-10. How PI aids NPV → idea of **return**; scales different sizes  
-11. PI 0.8 → **Reject** (short of covering investment)  
-12. Adjustment causing reject after PI=1 → **Higher cost of capital**  
-
-### Securities / capital budgeting definition
-13. Prefer stocks over bonds for capital because → no need to repay **par**  
-14. Bond bought below par → **Discount bond**  
-15. Preferred vs bonds → can **skip** preferred payments (not bond payments)  
-16. Why seek capital investment → buy **long-term assets** for growth  
-17. Bond value calculation → **Excel PV**  
-18. Common stock evaluation key assumption → **constant growth forever**  
-19. Process for LT asset purchases → **Capital budgeting**  
-
-### Module / ranking applications
-20. Accurate required rate important because → wrong rate → reject good / accept bad projects  
-21. One project only; maximize value → choose **highest NPV** (Project 2)  
-22. Not mutually exclusive; rank for most value → **highest PI first** (3, 2, 1)  
-23. YTM 8%→7% → bond price **increases**  
-24. Cost $100k, NPV $5k → **Accept** (positive NPV)  
-
-### Ideal method / mutually exclusive / rationing
-25. Consider all relevant CFs because → know how project enhances firm value  
-26. Mutually exclusive → use **NPV**  
-27. Limited capital, maximize value created → projects with **highest PIs** until capital used  
-
-### Timing / opportunity cost / financing
-28. Opportunity cost in TVM → forgo other options due to time scope of investment  
-29. Timing of CFs important because → opportunity cost vs other projects  
-30. Four projects same total inflows → choose one getting cash **quickest** (Project D)  
-31. Always a cost to bring funds → compensate investors for **risk**  
-32. Risk and return → higher risk → higher required return  
-33. More debt can benefit → interest paid **before taxes**  
-34. Financing decision example → mix of **debt and equity**  
-
-### Incremental CFs
-35. Incremental CFs → additional CFs created by accepting project  
-36. Allocated overhead → **not** direct result; irrelevant  
-37. Incidental vs non-incremental → incidental **included**; non-incremental not  
-38. Cannibalization → new product steals sales from **your other product**  
-39. Limited budget, not mutually exclusive → prioritize with **PI**  
-40. Opportunity cost not cash flows → study vs movies  
-41. Investment adds value when → **PV benefits > PV costs**  
-42. How purchasers view returns → amount they require to lend/invest  
-43. Opportunity cost → can’t use asset for next best project once invested elsewhere  
-
-### Assessment Section 1–2 (new)
-44. NPV = 0 → earns **exactly** the required rate  
-45. TVM evaluation — more than one way? → **Yes: NPV and IRR**  
-46. Mutually exclusive → **NPV**  
-47. Prefer bonds over stocks → don’t give up **ownership**  
-48. Bond like annuity → constant coupon + maturity  
-49. Why cost of capital → CFs may be **uncertain**  
-50. Differently timed CFs need → **Opportunity cost**  
-51. Debt disadvantage → not optimal structure alone (need mix)  
-52. Sunk costs → **Irrelevant**  
-53. Beckingham relevant item → **$3M land offer** (opportunity cost)  
-54. NPV most reliable → TVM + $ value + risk  
-55. Results all % → **IRR**  
-56. PI = 1 → IRR = cost of capital  
-57. Buy bond at $1000 par → **Par bond**  
-58. Preferred like perpetuity → fixed amount **forever**  
-59. Why TVM → $ today ≠ $ in 10 years  
-60. Clothes not bill → opportunity cost = power shut off  
-61. Seemingly same projects → different **inherent risks**  
-62. Own-product sales drop → **Cost of cannibalization**  
-63. Sunk example → consulting **before** project start  
-
----
-
-## Quick Memory Hooks (Unit 6)
-- +NPV = add wealth; NPV=0 = earn exactly required return; hard part = **cost of capital**  
-- NPV = $ value; weak for different sizes → **PI** under capital constraints  
-- Mutually exclusive → **NPV**; % story → **IRR**; IRR > hurdle → accept  
-- Weird CF signs → multiple IRRs → NPV  
-- PI > 1 accept; PI = 1 → IRR = r; raise r → PI falls  
-- Discount / par / premium bonds; YTM ↑ price ↓  
-- Stocks: no repay par; Bonds: keep **ownership**  
-- Bond ≈ annuity; preferred ≈ perpetuity; common = constant growth  
-- Include incremental + incidental (cannibalization); ignore overhead & **sunk costs**  
-- Forgone land sale = opportunity cost; prior consulting = sunk  
-- Debt tax shield BUT optimal = **debt + equity mix**  
-- Earlier cash better; differently timed → opportunity cost  
-- Answers in % → IRR; answers in $ → NPV  
-
----
-
-## Material Log
-| Source | Status |
-|--------|--------|
-| Unit 2 (all prior) | Captured |
-| Unit 3 interest / TVM / Excel / returns | Captured |
-| Risk lessons + quizzes | Captured |
-| Ratio analysis + DuPont | Captured |
-| Unit 5 cash budgeting + forecasting (DFN/SGR) + Forms A/B | Captured |
-| Unit 6 NPV / IRR / PI + securities + incremental CFs | Captured |
-| Unit 6 Assessment Section 1 & 2 (sunk costs, Beckingham, PI=1, traps) | Captured |
-| Reddit OA tips | Strategy only |
-| Quizlet | ON HOLD |
-
-*(Add more units/forms/transcripts as provided.)*
+**Study order:** Cheat sheet → Unit 3 Excel/TVM → Ratios/DuPont → Forecasting → Capital budgeting → drill Part 2.
