@@ -1,0 +1,1389 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Good, good. Alrighty, welcome again everyone.
+
+As we said, uh, we are going to be sharing a little bit this evening regarding our unit for module seven ratio analysis.
+
+And just a quick overview as we get started in terms of what we hope to cover in the session.
+
+So the five things mainly which we want to touch on this evening, we want to look at how ratios are used,
+
+how we actually perform the analysis, what we can do with ratios, why they are beneficial as a tool for evaluation.
+
+Then we want to look at the specific areas we examine using ratios,
+
+and then look at the individual ratios which we use to examine each of those areas.
+
+And then we are going to wrap up by looking at a relationship among some of the 333 ratios that relate to our profitability in the firm ROE,
+
+which is called the DuPont framework, and then talk about how the DuPont framework helps us in our managerial or
+
+management decision making to affect how well we are performing for shareholders.
+
+So that's where we're going. Any questions, any concerns before we get started?
+
+Anything particular you may have read the material before? Uh, so if you have any specific, uh, trepidations, fear, comments, good things,
+
+anything you have at this moment before we get into the content, anybody want to share anything?
+
+And while you're thinking, I want you to as much as possible, be interactive.
+
+So I know I'm the only one able to talk, but you can drop information in the chat.
+
+So at any point feel free if you have a comment. If you have a question, feel free to drop it in the chat okay.
+
+All right. So if we do get a chance we can we will look at the practice questions from the course page.
+
+I will tell you though, and it's not that you don't need to do them,
+
+but I will tell you that the practice questions are not the most important from the
+
+perspective of you really aren't going to be asked to do a lot of the calculations.
+
+So the practice question is focused primarily on doing some math in order to really show you the relationship.
+
+So I'll touch on those. As I said, if we have time, we'll look at some of those.
+
+But but remember the main focus is really going to be the relationships, how to use the numbers to make decisions.
+
+That's really your focus. Alrighty. Uh, Erica says, uh, getting lost in the vocabulary.
+
+Yes, there is a lot of terminology. One of the things you want to probably do upfront, I usually say, uh, jot down some important terms.
+
+When you study ratios, especially, you want to study them by category.
+
+So as we get into that, uh, bullet point number two about the five major categories, when you get to point three,
+
+which you look at individual ratios, you want to associate them with their category.
+
+So when we get to that you'll see that's that's the way we're going to work through them in the session this evening as well.
+
+So it's you kind of want to have the big picture view first before you start drilling down into the details.
+
+So you're always looking at the details in a context rather than looking at them abstract,
+
+where you're just looking at a specific term without a reference or a context.
+
+Alrighty. Anything else? Any other comments or questions?
+
+Uh, no. All right. Well, then let's get into what we have this evening.
+
+So the first thing we wanted to talk about was how we use ratios.
+
+Why are ratios beneficial. And again the the cohort session does not replace the text.
+
+We cover most of what is in the text. But we the we're not going to cover 100% of the content.
+
+So that means we are not, uh, using the cohorts, the live sessions to replace going to the text.
+
+We're actually using it to supplement. So bear that in mind. You don't want to ignore the text because you come to the live session,
+
+but you want to supplement what you read in the text with what we discussed here.
+
+So the four major benefits of using ratios, as discussed in the in the in the course resources.
+
+You can see them there. But let's talk a little bit about what what they are and why this is a benefit.
+
+So we start with standardization.
+
+So standardization is the idea that when you're using ratios for evaluation you are able to remove what we call the size effect.
+
+So it's it's instead of saying for example if I'm if I'm looking at uh, let's say I,
+
+I invested some money and made $200, say $200 is just a number without a size reference.
+
+The size reference would be how much did I spend to earn $200?
+
+So instead of saying I made $200. A more standardized number that I could compare would be to say I made 20% on my investment.
+
+See, 20% is a ratio because it's expressing the amount of money I made as a percentage of what I invested.
+
+So that's what we mean by it's a standardized or a normalized value.
+
+You can then compare firms which are different sizes because you have standardized or normalized for size.
+
+So when you use ratios, ratios are always fractions one number divided by another.
+
+The denominator is usually a size measure. So I can look at a firm that has $200 billion in assets.
+
+And I can compare that firm's profitability performance with another firm who only has $200,000 in assets.
+
+So even though one firm is much bigger than the other, I can still compare their performance.
+
+Not by looking at the dollar value of their profit,
+
+but by looking at their profit as a percentage of sales, for example, or as a percentage of their assets.
+
+So that's the benefit of standardization. You're able to compare people.
+
+Firms in this case are not people, but firms which are different in size and still make a meaningful evaluation in terms of better performance.
+
+Flexibility. The benefit of flexibility in ratios is that ratios are allow you to create your own numbers for evaluation.
+
+And again, when I say number I mean ratio. So it means that you are not restricted to only a specific set of ratios.
+
+So let's say we want it to examine performance in a particular area of the firm.
+
+Let's say we wanted to examine our performance based on number of employees.
+
+Now there is no ratio in the text that gives you that information.
+
+But as a firm, if you wanted to look at sales per employee, then you could actually take that number and use it as a ratio.
+
+You could take total sales divided by number of employees, and use that as a ratio to evaluate your particular area of performance.
+
+So you have a lot of flexibility with ratios,
+
+because you can create a ratio that fits the area of your concern, even though none might not exist before.
+
+You can create that ratio for yourself. Now you're not creating the numbers, you're creating the ratio.
+
+The numbers must come from the actual data. So like I couldn't create my own sales.
+
+You know, I'm taking the actual sales and divide it by the actual number of employees to create a new ratio.
+
+So we have that level of flexibility to kind of identify and look at any particular area we're interested in.
+
+Focus also builds on that idea because what focus means is it's like going to a doctor.
+
+You go to a general practitioner, but then that general practitioner might identify something and refer you to a specialist.
+
+The specialist is like the focus area. So when we use ratios we can evaluate broadly across the firm using ratios.
+
+But then we can also drill down on a particular area.
+
+So ratios can allow us to focus on just one area of the firm and say just examine that one area in more detail.
+
+So we might do a general evaluation across all categories. It might identify to us that there is a concern in a particular area.
+
+We might then develop some additional ratios to focus on that one area and drill down further.
+
+So focus is the ability to just target a specific area of performance and evaluate that one area.
+
+And then the last benefit is generally an across the board benefit ratios give us a tool to evaluate performance.
+
+So ratios are and evaluate our evaluation metrics.
+
+They allow us to determine how well a firm is performing what's the financial health of the company.
+
+So they are important evaluation tools. So those are some of the benefits.
+
+Any questions on those. Anything you need clarified or any comment anybody wants to add?
+
+Uh, no. Your good Mary. Everybody else is good. Silence does not mean consent.
+
+So. But I'm assuming you're all good if you have no questions. All right.
+
+So far, so good. Thanks, Antonio. All right. So then how do we actually use ratio.
+
+So we talked about benefits of using them. But what type of analysis can we perform with ratios.
+
+Not the category. No not what we are analyzing but how we perform the analysis.
+
+So there are two broad ways we can analyze firms performance using ratios.
+
+Think of it this way. You see three items there. But I said too broad because I'm going to clarify.
+
+We can think of looking at my own performance over time, and we can look at comparing my performance with the performance of others.
+
+That's the two main ways. And we're going to talk about them. So trend analysis would be where we're looking at our own performance over time.
+
+So again we're using ratios to do all it. So we're talking about ratio analysis. So let's say we pick a ratio at random.
+
+Let's say we're examining the liquidity position of the firm. So we look at the current ratio of the firm.
+
+Trend analysis would mean over the past five years we look at the current ratio of our firm each year.
+
+And we look at how those that ratio is changing. So we are looking at the trend.
+
+Are we trending upward or downward or are we flat.
+
+You know, are we not improving. Our are getting worse. That's a trend analysis.
+
+So we're simply trying to evaluate how we are performing against ourselves.
+
+Are we improving or are we getting worse? So we would look across time.
+
+That's why we say trend across time. We are tracking performance over time for the same firm on the same ratio.
+
+That's your trend analysis. Now I'm going to skip cross section and I'll go to progress measurement.
+
+Because progress measurement is tightly related to trend analysis.
+
+Here's the difference. Trend analysis just looks at the numbers and see if we're improving progress.
+
+Measurement says we first set a goal as to what we want to accomplish.
+
+Then we track performance not just over time but against that goal.
+
+So like I said, let's say we were looking at our current ratio over the past five years.
+
+We might have set a goal that we want to achieve a current ratio target of 3.0.
+
+So five years ago we may have been at 1.5. We then may have gone up to 1.75 and two, then 2.25.
+
+See, we are tracking the trend, but we are not yet at the mark where we want to be.
+
+So yes, we're improving, but we still haven't reached the target,
+
+so that's progress measurement and progress measurement can also be used at a firm level to evaluate like staff performance,
+
+like for bonuses where near the end of the year. So we set goals and we see how well we are achieving toward that goal.
+
+So we can use ratios to evaluate progress toward that goal.
+
+That's why we say progress measurement. So your department, for example,
+
+might be rewarded if you reach those ratio targets compared to another department which may have not achieved their ratio targets.
+
+So they would have underperformed. So if they are tracking performance against a goal.
+
+Now what's the difference then with cross sectional.
+
+Because progress and trend tracking over time against a target, but against a target for progress.
+
+Just tracking over time for trend. Well, cross sectional would be where we're comparing our performance to the performance of others.
+
+So yeah you know my my my firm's current ratio may have been improving.
+
+We were at 1.751.75, then two, then 2.1.
+
+So we're improving.
+
+But over that same five year period each year, we might have been having a current ratio that is lower than the average for our industry.
+
+So what we're doing is we're comparing ourselves to our industry peers. That's cross sectional.
+
+So I'm saying okay, my firm's current ratio was 2.15.
+
+But the other firms which operate in my industry have an average current ratio of 2.75.
+
+So even though our ratio is good, it is still below our competitors.
+
+So we're not doing as well as others are. So, so that's that's the difference between these the type of uh, analyzes that we want to do.
+
+So all of these are important. We want to analyze our own performance over time.
+
+We also want to analyze how we perform relative to our peers.
+
+And we want to identify how well we're achieving a target that we set.
+
+So this is typically how we're going to use ratios.
+
+Now for the for the actual analysis we're going to do in the session, we will primarily only be doing cross-sectional.
+
+Now you'll also notice that I'm going to distinguish we.
+
+You also notice that benchmarking is a form of cross-sectional analysis.
+
+What's the general difference. Well cross-section is the broad term. Cross-sectional just means we're comparing to others.
+
+Benchmarking is when we are comparing to a group of highly, uh, performing firms.
+
+So it's like saying cross-sectional Means mei mei.
+
+Our ratio is 2.15. The average for our industry is 2.75.
+
+That's just a general cross-sectional analysis. Benchmarking might be what is the average current ratio for the top three firms in our industry.
+
+Notice we're not looking at everybody now. We are benchmarking because we want to be like the best.
+
+So we choose a select group typically highly performing.
+
+You don't want to benchmark against the bottom, you want to benchmark against the top.
+
+So we choose a group of highly performing firm, the ones who are probably the good, you know, great firms or are recognizing our in our industry.
+
+And we use that smaller group as the target that we want to achieve.
+
+So that's benchmarking. We're comparing against a select group not just everybody in general.
+
+And that's typically the case right. We don't want to be average. We want to be the best.
+
+So we typically benchmark against the best. We don't benchmark as an average and say we're at average.
+
+So we're going great. No, we say, what's the great firms doing?
+
+Are we like the great firms? The, you know, the highly, highly sought after firms.
+
+So that typically is how we're going to use ratios for performing analysis.
+
+Alright. Now we're going to go to an actual, uh, deep dive into the actual ratios,
+
+what they tell us and how we actually use do we're going to do a little benchmark.
+
+It's not really a benchmark, but we're just going to compare two firms and see how well they perform one against the other.
+
+All right. So any questions before we go there. Everything good so far.
+
+All right. So let's then look at who uses ratios.
+
+And then look at how we're going to do the performance. So again we talked about what ratios can do how we use them.
+
+So who are the persons who typically would then want to do this type of analysis?
+
+So you would say, not me, I'm just doing the course. So but of course there are going to be internal and external users of the financial
+
+statements who would want to evaluate the performance of the company so quickly.
+
+This is not, you know, detailed in the text, but it's important information.
+
+So internally you might have for example, the managers might want to see how the firm is performing because they're running the business.
+
+You might want to look at them. Employees might be interested in knowing how their firm is performing.
+
+So, you know, am I going to have a job in the next five years? So internally, a number of internal persons would be interested.
+
+Investors who are currently shareholders would be interested in looking at how their firm is performing.
+
+Uh, so this is typically going to be your internal users, but they're also going to be external users, for example, those who provide financing.
+
+You looked at financing earlier in the course. Financing would be stocks and bonds.
+
+So bondholders and stockholders are going to provide financing to the firm.
+
+Firstly, the bondholders would want to know that they can get their get paid creditors.
+
+So they need to know that the firm can pay them.
+
+So they're going to be interested in evaluating the performance of that firm, using ratios to check on their liquidity position,
+
+whether they will have funds to pay in the short term,
+
+but also your individual investors who are going to be providing equity financing want to know that they're investing.
+
+They are going to be investing in a firm that is expected to grow and do well.
+
+So again, there would be interested in doing some of this type of analysis. So just again, not a not a comprehensive list,
+
+but just some examples of who are the persons who would probably be interested in doing this sort of analysis.
+
+So here's how we're going to do the analysis going forward.
+
+So for the five categories that we're going to examine we're going to look at two companies Cisco Systems and Netgear.
+
+Both of these companies are traded on Nasdaq. Anybody know or is there anybody who doesn't know what we mean when we say they're traded on Nasdaq.
+
+Or can anybody tell me if you don't want to. You know you're a little shy.
+
+You don't want to say you don't know. So let's ask it the positive way.
+
+Who can tell me what it means when we say they're traded on Nasdaq? So let's see who is going to get the price.
+
+There isn't a price. Who's going to be the first to answer?
+
+What do we mean when we say Cisco and Netgear are traded on Nasdaq?
+
+He closed down. Yes. Stocks. Okay.
+
+Adding a little more important. So these are tech companies. As you can see there.
+
+IT companies Cisco and Netgear. So there they are.
+
+More specifically they are in the networking software and services area of it.
+
+Our tech. And then as a final little piece that brings it all together.
+
+So the New York Stock Exchange. Sorry Eric I missed that.
+
+The New York Stock Exchange is a similar but not the same as Nasdaq.
+
+So they are both financial markets where you can trade, buy and sell.
+
+That's what trade mean.
+
+So when we say they are traded on Nasdaq, uh, like Diana said you can purchase shares or stocks in the company on that platform.
+
+Nasdaq is an electronic communications like Robinhood. You know where you can go in and do trading.
+
+So Nasdaq is an electronic market. So when we say Cisco and Netgear are traded, it means you can go to that platform,
+
+that market and you can ask a broker to buy shares for you in that company.
+
+Or you can sell your shares in that company. So so yeah.
+
+So the Dow. So here's the difference. So they ask a question.
+
+The Dow refers to what we call the Dow Jones Industrial Average.
+
+It's actually uh, an index like a number that represents how well the firms which are traded on the New York Stock Exchange are doing.
+
+So again, not the Nasdaq but the New York Stock Exchange.
+
+So the new think of it like I could go to the Atlanta farmer's market or I could go to the, uh,
+
+what was let me scroll up quickly if I can catch the name, because I don't remember that name.
+
+We can I can go to the Atlanta Farmers Market, or I can go to the Danville, Washington Farmers Market.
+
+See, they're both markets, but they're in different places. So that's like the New York Stock Exchange versus Nasdaq.
+
+There are different markets. Nasdaq is electronic. New York is a physical market.
+
+And you all know this because I'm sure you have all seen movies sometime in your
+
+lifetime where you see people like their chicken chickens with their head cut off,
+
+running mad on this place, running around. That's called the New York Stock Exchange trading floor.
+
+So that's so it's a physical place that you actually go. Well, you wouldn't go the broker, your broker representative would be there.
+
+They would go to the machine and they would, you know, make a bid for the shares.
+
+And then people are buying and selling just like a farmer's market where you're buying and selling.
+
+So the Dow Jones is the representative number for performance on the New York Stock Exchange.
+
+On Nasdaq, the representative indicator of performance is called the S&P 500.
+
+So again this is not critically important. But since, you know, just to kind of give us a context as to what we mean.
+
+So Nasdaq relates to the S&P 500, as well as the Nasdaq index.
+
+And then the Dow Jones Industrial Average relates to the New York Stock Exchange.
+
+So these two companies trade on Nasdaq.
+
+Nasdaq, uh, is just an electronic market.
+
+It's like just saying where do I want my shares to be sold? Do I want them to be sold in Atlanta or in Danville?
+
+Now shares across the US can be sold in either market. Alright.
+
+So let's go to the actual analysis. So like, uh, you have said in the chat.
+
+Both companies are IT companies.
+
+And we're going to briefly look at their financial statements just to get an idea as to where the numbers are going to come from.
+
+And then we're going to do the analysis. Everybody good with that.
+
+That sounds like a reasonable plan. I know I'm the one doing it, but you can tell me.
+
+All right. Great. So let's look first because it's important.
+
+You know, even though even though the course doesn't teach you to develop financial statements,
+
+it's not an accounting course, but it's important to know where the numbers come from,
+
+what the statements look like, so you have a better picture as to why we are using particular ratios to examine particular things.
+
+So firstly these are the income statements for the two companies.
+
+And the financial years are slightly different. So Cisco's financial year runs from August 1st to July 31st,
+
+while Net Gear's financial year runs like the calendar year from January 1st to December 31st.
+
+So right now, we would have had the July 31st with annual statements for Cisco would have been their last year end financial year end.
+
+But Net Gear, because we haven't yet completed December this year,
+
+their last financial statements would have been produced for the year that ended December 31st, 2020.
+
+So anything catches your eye. We can see sales, operating revenues are just revenues, our sales and other name for sales.
+
+So you see their sales, then they take out the cost of goods sold. So cost of goods sold.
+
+Just a quick review. Is the direct cost related to the production and sale of the goods that they mean and services,
+
+so that when we take out those direct costs we have gross profit. But then there are other operating costs.
+
+So these are not tied directly to a product. But you have people like working in the in the offices.
+
+So we have the sales staff.
+
+Those are people who are doing are incurring costs to the firm related to the to product and the business, but it's not directly related.
+
+So I couldn't say, okay. The admin staff was paid a salary of 30,000, 20,000 of that related to the manufacture and sale of the product.
+
+No, it's a general overhead cost. So it's still operations because it's part of our business.
+
+So those are your operating expenses. You see we take out those. So gross profit after you take out direct cost of goods sold.
+
+After you take out other operating expenses, you are now left with operating income otherwise called Ebit.
+
+So if you see that word earnings before interest and taxes, same thing.
+
+Then you take out your other costs like finance and taxes.
+
+And that gives you the net income of the firm. We call that the bottom line.
+
+So you can see why they call it the bottom line. Notice the top line is revenue. If you go all the way to the bottom the bottom line is net income.
+
+So it's much simpler than you thought when they said net income is your bottom line.
+
+It just means it's the number at the bottom of this statement. Alrighty.
+
+And then you have earnings per share and the market price.
+
+So the market price is like at that point in time, if you had gone to your broker to buy shares on Nasdaq,
+
+this is how much you would pay for one share in that company. All right.
+
+Anything stands out quickly. Give you a minute. Tell me anything that stands out for you.
+
+Looking at Cisco's income statement and net income statement. Any observation you want to share?
+
+Okay. So the the net income dollars on the market price, uh, Cisco is much larger.
+
+Yep. Right. Exactly. So we see those numbers are much higher for Cisco relative to Netgear.
+
+So notice we we specifically did that. We didn't want to compare two firms that are exactly the same size.
+
+Because remember we talked about standardization helps us to compare firms even though they are different sizes earnings per share.
+
+Similarly that is higher for Cisco versus Netgear.
+
+And Diana said notice also there's a timing issue because the financial years are not the same.
+
+So whereas Cisco's in Cisco's our numbers, we're actually looking at seven months in 2021 versus five months in 2020.
+
+But in Netgear numbers we're looking at 12 months of 2020.
+
+So there's a timing issue there. We're not comparing apples to apples. There's a slight difference in the time period.
+
+All right. And then of course higher numbers at Cisco generally.
+
+So great. Let's look at their balance sheets. So let's start with assets.
+
+And notice again correct assets means short term assets.
+
+It doesn't mean assets you currently own. Don't use the English word current.
+
+This is an accounting word current. Current means short term.
+
+So you expect these items to change within a year.
+
+So for example you're going to collect money from the receivables.
+
+You will still have receivables but it will probably be different people who owe you next year.
+
+It won't be the exact same person. You expect to have inventory, but it's not the same inventory item that will be on the shelf next year.
+
+That's what we why we say they're current. They're short term. They expect to change over time.
+
+Whereas the other ones you see at the bottom property and equipment and so on.
+
+Those are what we call long term or fixed assets. They generally will remain in place.
+
+So your building will be the same building you operated from this year will probably be the same building you're operating from next year.
+
+So the property is the same. The equipment you'll be using is probably going to be the same.
+
+Typically, assets are listed in what we call descending order of liquidity, meaning the current assets are much more liquid than the long term assets.
+
+So we start with the things that will be converted more quickly to cash. And then we go down the list as as we go down the order.
+
+Again, similar story to what you notice at first, Cisco a much bigger company than Netgear.
+
+You can see Cisco. These numbers are in millions of US dollars.
+
+So Cisco has total assets of about $97.5 billion.
+
+Netgear has assets of about 1.1 billion. So you roughly are saying that Cisco is about 90 times the size of Netgear in terms of the total assets.
+
+So a much bigger company in terms of their footprint, the actual assets that you're looking at.
+
+The other side of the balance sheet is the liabilities and equity. And they should total the same.
+
+So assets must equal total of liabilities. And equity assets is what you own.
+
+The liabilities and equity is where you got the money to buy those assets.
+
+So it's the financing. And again similar story.
+
+You will see that overall Cisco same idea. The numbers are going to be the same because the total assets and liabilities is the same as total sorry.
+
+Total liabilities and equity is the same as the total assets. So the same relative numbers across the board.
+
+All right. And then at the bottom you see market capitalization. So what that represents for us.
+
+Is if we were to look at the total number of shares that are available in this company, they use the term Outstanding shares.
+
+It actually means what you have available. That's the term outstanding.
+
+If you were to take the total number of shares and multiply it, I'm going to go back two steps by the market price per share.
+
+That's what we call the market capitalization. So it's an it's an idea of the total value of the equity.
+
+Remember equity is the shares. So if we take the total equity available shares and multiply it by the price per share,
+
+it tells you the total market value of the equity in the company.
+
+So they use the term market capitalization and the stock market.
+
+In the accounting record we would usually use the term value of the equity.
+
+So we don't say market. So in the in the balance sheet it doesn't say stockholders market value.
+
+It says stockholders equity value. So it says the book value of the equity.
+
+So that's terminology wise you know so we can identify some of those.
+
+All right. Now let's get into the actual meat of the discussion.
+
+Ratio. What do they mean? How do. How do we use them to decide on performance.
+
+So now you have a brief idea of what their financial statements look like without going to go back to them.
+
+But again, you have the slides on the course of study course resources.
+
+So you can always go back and look at the numbers when we get to the ratios and see where we got the numbers from.
+
+So I identified all my main items by name, so you can easily pick them up when we get to the calculations for the ratios.
+
+So the five categories of ratios that we're going to look at, and a brief overview of what they tell us when we go to each.
+
+We'll expand a little bit more. Liquidity ratios.
+
+Tell us about how well the firm is able to generate cash in the short term to pay their short term obligations.
+
+So it's can we pay our bills that will be due in the next 612 months.
+
+That's your liquidity ratios Activity, otherwise called efficiency ratios.
+
+Tell us a little bit about how well the firm is using the assets that it has available to it, in order to generate revenue.
+
+Our sales notice I said revenue our sales, because when we get to the next the one after leverage, there's going to be a slight difference.
+
+So activity is about generating revenue. Making a sale.
+
+Leverage ratios is about the other side of the balance sheet that we just looked at the liabilities and the equity.
+
+It's the financing. How much debt are we using to finance the assets of the business.
+
+So leverage is about borrowing. It's about debt profitability ratios as distinct from activity profitability ratios.
+
+It's not just about generating sales. It's not just about selling a product.
+
+It's about ensuring that the bottom line is also good.
+
+In other words. Let me go back quickly to this just to give you an illustration. Activity ratios focus on this top line generating sales.
+
+Profitability ratios focus on the lines that come below gross profit.
+
+Operating income or operating profit. Net income or net profit.
+
+In other words, after we take out the cost, do we have money left over?
+
+That's what profitability focuses on. Are you earning something for your shareholders?
+
+What's the rate of return you're earning on your sales and so on.
+
+And then the last one, your market ratios are going to be comparing the accounting values for the firm to the market values for the firm.
+
+All right. So let's go into each of these in a little more detail. And if you have questions along the way again feel free to drop it in the chat.
+
+So we mentioned liquidity ratios. It's about your ability to meet your short term debts.
+
+So of course the people who would be most interested in looking at these are your creditors because they want to know that you can pay them back.
+
+So banks, suppliers, the people who give the firm credit, they would very much be interested in looking at your liquidity ratios.
+
+So here are the two ratios that we examine in the course. And again we are confining it to the course.
+
+So that's another thing. You don't want to go Google these things when you're trying to, you know get information about the course.
+
+Google is not your friend. Now it might sound strange and you might say, but why?
+
+I can say ask Google. Here's why. There is much more than two ratios that look at liquidity.
+
+What will happen happen is when you go to Google, they're going to give you more information than you need.
+
+This is an introductory course. It's not covering everything in finance.
+
+So you have to make sure you don't go out of scope. So focus only on what is discussed in the text for the purposes of the course.
+
+So the two ratios current ratio and quick ratio. The quick ratio is also called asset test.
+
+And again, since we are looking at ability to pay our short term bills, we have to look at where do we get cash from.
+
+So that's going to be our current assets. So we call it your liquid assets.
+
+What you can sell in the short term to get cash.
+
+So you take your current assets which are the available resources short term,
+
+and divide it by your current liabilities, which is the obligations you have to pay in the short term.
+
+And that gives you the current ratio.
+
+Now, even though I'm telling you the formulas, you're not really going to be asked in the assessments to calculate ratios.
+
+That doesn't mean, however, although it says it in the text, I'm changing what the text says.
+
+So make note of this. If the text says you don't need to know the formulas because you're not calculating, not exactly true.
+
+Here's why. Yes, you are not calculating. But if you don't know the composition of the ratio and that asked you a question.
+
+Which of the following actions would increase the current ratio?
+
+Well, if you don't know what's in the current ratio, how do you know which action is going to increase it?
+
+Get what I'm saying? If you don't know the composition, then you can't understand how an item is changing will have an impact on this ratio.
+
+So you still have to have an idea of the composition.
+
+You don't necessarily have to know the exact formula, but you must understand what goes into the ratio.
+
+Now what's the difference between the quick ratio and the current ratio?
+
+Well the quick ratio says what if I have difficulty selling my inventory.
+
+You know it might be a company that we're inventory. Yeah. Thanks, Mary.
+
+It might be a company where inventory is not easy to sell. And remember, liquidity is about selling assets short term to get money to pay bills.
+
+So if inventory is difficult to sell, we might want to be a little more restrictive in assessing liquidity by taking out inventory.
+
+So we exclude inventory from the current assets when we're looking at the quick ratio notice.
+
+This is this can be confusing. I'm not I'm not questioning your intelligence.
+
+This might be confusing, but bear with me. Inventory is in the asset test ratio, but it's excluded from the ratio.
+
+In other words, the name is in the ratio, but it's being subtracted out from the current assets.
+
+So if you get a question that says which of the two ratios excludes inventory, don't say current ratio because I don't see inventory in the formula.
+
+That's incorrect. They didn't say which one has the name in the formula.
+
+Which of the two ratios excludes inventory is the quick ratio.
+
+Because the quick ratio removes inventory from the total current assets and takes the smaller figure.
+
+So we are excluding the inventory from consideration when we're calculating the quick ratio.
+
+All right. Let's go to the two companies.
+
+And again you could pick the numbers up from the table.
+
+I won't go back to them.
+
+But from the financial statements if you take the the the figures for current assets and current liabilities and then for the quick ratio,
+
+if you take out inventory from the current assets, then you will get these numbers.
+
+So you can see the current ratio for Sysco is 1.49, while for Netgear it's 2.45.
+
+The quick ratio, which is always going to be smaller because remember we took out inventory.
+
+So we have a smaller numerator. So the quick ratio is 1.15 for Cisco and 1.89 for Netgear.
+
+So a brief way we could explain what that number is saying.
+
+You can see it bullet point there. So using the current ratio as an example we would say for every Dollar that we owe.
+
+We have available assets totaling $1.49, so we have $1.49 in short term assets,
+
+not total assets, not just short term current assets for every dollar of current liabilities.
+
+So in other words, we have enough to pay off that dollar. So we have enough funds available to pay our short term obligations.
+
+Again assuming that we can sell these items because these are estimates.
+
+Remember where we're assuming we can sell them. Uh comparing the two bottom line in the blue there.
+
+Let's get some feedback from you. What does this tell us about the two companies in terms of their liquidity, which is doing better.
+
+Which is more liquid? Great.
+
+Net gear is more liquid because they have higher numbers, which means yep,
+
+they have more assets, liquid assets to pay off their short term obligations.
+
+Great. So when you compare both the current ratio and the quick ratio, we can see that.
+
+Net gears numbers are are better than Cisco's.
+
+Cisco is not doing terribly because typically we want a current ratio of about 21. 5 to 2 minimal.
+
+So you can see Cisco is just about at 1.5. So they're still okay.
+
+And their quick ratio is still above one. So that's so for the quick ratio you want it to be at least above one.
+
+And for the current ratio it needs to be about 1.5 or 2 at minimum.
+
+So right. So thanks Lily. Yeah 2.45 to every dollar in liquidity in current ratio for net gear.
+
+So net gear has more liquid assets or is more liquid.
+
+Great. Now let's look at the second group activity. So remember activity ratios are about how you generate sales from your assets.
+
+So you'll generally notice the word turn over.
+
+Not for all, but for most of the activity ratios you're going to see the name turnover.
+
+Are you going to see the word turnover in their name. So we usually call these ratios turnover ratios because turnover is an activity.
+
+You're turning over something. So this is a way to remember your activity ratios.
+
+They generally have the word turnover in their name. So you can see this is a big list.
+
+We have about six activity ratios that we focus on and all but two of them.
+
+So four of the six has the word turnover in their name. So you have the accounts receivable turnover.
+
+You have the inventory turnover total asset turnover. Fixed asset turnover.
+
+Now the last one operating income return on investment is a little uh like it straddles
+
+the fence because it's both an activity ratio as well as a profitability ratio.
+
+But we we we look at it from, from now as an activity ratio because it focuses on operating income.
+
+In other words, it focuses on your revenue less your operating costs.
+
+So accounts receivable turnover is how fast you are turning over credit sales.
+
+Because remember accounts receivable is credit sales. You sell goods on credit. Then the customer is pay you.
+
+So if it was linear meaning if it's not happening at the same time but linear, then you would sell goods, you would collect then sell goods again.
+
+You would collect and sell goods again. That's what the turnover is showing.
+
+How many times would that cycle repeat itself based on the total sales you are getting from over that year?
+
+So it's like if I, if I sell $100, then take 30 days to collect and sell another hundred, it means that would happen 12 times.
+
+So I would expect to have total sales for the year of $1,200.
+
+Every month I sell a hundred. I collect at the end of the month so the turnover would be the 12.
+
+It would repeat itself 12 times based on how much sales I'm generating.
+
+So again, higher numbers are usually better. Higher turnover means you are rolling it over more often so you are generating more sales.
+
+Now the inverse of that ratio is the average collection period.
+
+I say inverse because the higher the turnover, the lower the collection period.
+
+Collection period is saying how long am I taking to collect?
+
+So think of it this way again I use some simple numbers which you'll have to see the picture.
+
+If I'm turning over 12 times, it means it repeats itself 12 times per year, which is once every month.
+
+But if I'm turning over only two times, it means it repeats itself only twice for the entire year.
+
+Which means I'm taking six months to collect. See how the lower turnover means a higher time to collect?
+
+That's the relationship. So faster turnover means you collect money quicker.
+
+So a higher turnover is good, which means a lower collection period is good because it means you collect money quicker.
+
+So you have cash available to use. Inventory turnover is similar.
+
+It's how fast the goods are moving off the shelf. Now there's one thing to be careful of when it comes to the inventory turnover.
+
+High turnover is generally good if it's typical for your industry because it means you're selling goods.
+
+But what's who can tell me what's a possible danger that can result from goods moving off the shelf too fast?
+
+Think about going to the store to buy something. If those goods are moving too fast.
+
+Exactly. It can get sold out like this. The store can run out or have a stock or don't have enough inventory,
+
+and therefore lose sales in the long run because now they lose those customers who would have bought from them if they had goods available.
+
+So it's it's like the two sides of the coin selling, turning.
+
+Turning over inventory is good because you're generating sales from those assets.
+
+But if you do it too fast, it means you are not managing your inventory good enough because you are having stock.
+
+You could have stock house like now. Yeah, exactly.
+
+With the shortages in the supply crisis, you know, and the supply chain issues we are having globally.
+
+So you have stock outs regularly and like with with the pandemic, you know, when Covid came you couldn't find tissue paper and all of those things.
+
+You know what what would normally be readily available was not there.
+
+So that can happen. Inventory turning over too fast can be also a problem.
+
+All right. Now total asset and fixed asset turnover is extending it now broadly if I'm just saying okay inventory is the actual goods being sold.
+
+Accounts receivable is collecting from the people who bought from me.
+
+Total asset is saying, let's look at all the assets that are being used in the business and how much sales we are generating in total.
+
+So it includes the machinery, the equipment that you use to manufacture the product.
+
+It includes the building you're operating from. This is all my assets that are being invested.
+
+How much sales am I getting from that investment. So that's what your total asset turnover looks at.
+
+And then the fixed asset turnover just looks at the long term assets and say what am I generating.
+
+So again the main thing to take away. Activity ratios speak about your ability to sell to make to earn revenue from your products and your services.
+
+So again let's look at the two companies and tell me what conclusions you can draw.
+
+So I have the numbers there. Tell me anything you observe quickly.
+
+Collection period. Okay, tell me, what about the collection period?
+
+Then what do you notice about the collection period? Or who is doing better?
+
+Let's put it that way. Netgear. Exactly. Nicole.
+
+Netgear is turning over their assets faster, turning over their total assets.
+
+So I'm going to clarify because we just said assets. So net gear is turning over their total assets because as Diana says net gear
+
+is also taking longer to collect accounts receivable which is also an asset.
+
+So notice there's a little when I say inconsistency there's a little difference.
+
+Let me not say inconsistency. So when it comes to accounts receivable and inventory Cisco is doing better.
+
+But when it comes to total assets and fixed assets.
+
+Netgear is doing better. What does that tell you? It tells you that Netgear has less investment in long term assets.
+
+So they're they're not as. As they don't have as big a footprint in terms of buildings and equipment and so on.
+
+But they're generating sales. So you notice when it comes to the short term accounts receivable average collection period, inventory turnover.
+
+Cisco is doing great because they can get their goods sold. They're selling quickly inventories moving off the shelves.
+
+They're collecting from their customers. But they also have a heavy investment in long term assets.
+
+So they're total asset. And fixed asset turnover is relatively much lower.
+
+And that we saw that from the balance sheet. Everybody remember. Remember what the balance sheet showed.
+
+Netgear or Cisco had about 90 times the total amount of assets that Netgear has.
+
+But when it came to sales, Cisco was only selling about 50 times as much as net gain.
+
+So you see all those two trade offs in those numbers.
+
+Cisco is doing better sales relative to their short term assets, but relative to their long term assets, they are not doing as well.
+
+So this is a like a mixed result.
+
+Uh, short term, we see that, uh, Cisco is operating much more efficiently in terms of generating sales and collecting from customers.
+
+But in terms of utilizing their long term assets,
+
+Netgear is actually being more efficient in that they don't have as heavy and overload our footprint in terms of buildings,
+
+machinery, equipment and so on.
+
+So they are still able to generate sales with a smaller footprint, and then overall operating income is a little higher for Cisco.
+
+Again, relative to net gear. So overall Cisco tends to be doing better.
+
+But on the long term basis for that, if you know, in terms of investments in long term assets,
+
+Netgear is actually producing, are selling better relative to their long term assets.
+
+Alright, great. Let's go to our next category leverage. So leverage ratios are about borrowing or financing.
+
+So again let's look at the three ratios that are important in this area.
+
+So we have the debt ratio debt to equity and times interest earned.
+
+So pretty much it's just about we we usually say solvency as opposed to liquidity to remember liquidity short term ability to pay your bills.
+
+Leverage is long term borrowing. How much debt are you carrying long term.
+
+Because if you have too much debt long term, it can end up in solvency or bankruptcy issues for the firm.
+
+So you have to manage the long term financing as well.
+
+So that's what this is focusing on. The first two ratios essentially give you the same information.
+
+It's not the same numbers, same information, because the debt ratio says my total assets were financed with what percentage of borrowed money.
+
+So if I borrowed 60% of the money to buy my house, then it means the other 40% was my equity because it's either debt or equity.
+
+So the debt ratio will say I have 60% debt, total liabilities $60, total assets $100.
+
+But that also means that $40 was equity. So if debt ratio is 60%, equity ratio is 40%, which therefore means follow along with me.
+
+Now that the debt to equity ratio must then be 6 to 4.
+
+So once I know the debt ratio, I know the debt to equity is the same numbers but just expressed differently.
+
+So it's like saying my debt ratio says using my little example of $100 for every dollar of assets that I own, $0.60 was borrowed.
+
+Borrowed money. But that also means for every $6 of debt I have for $4 in equity.
+
+So? So one is looking at the assets to the debt to the assets.
+
+The other one is looking at the debt to the equity that was used.
+
+So but the same numbers are used in those two two relationships.
+
+And then times interest earned is just essentially telling us how much available profit do we have to pay those interest costs on the debt.
+
+So again, if you look back at the financial statement, the income statement,
+
+remember operating income is the figure before we subtract interest and taxes.
+
+So it's. So we have this amount of income available to pay those interest costs.
+
+So it's a multiple saying how many times over could we pay that cost.
+
+So again looking at the numbers for Cisco and net gear, uh what's your assessment of their solvency position, who tends to look a little better.
+
+Okay, you started answering. So great. I was just going to say, here's a little hint.
+
+Too much debt is not good. So when it comes to solvency, a lower debt ratio is better.
+
+So like Sandy and Nicole said, Netgear is actually in a better solvency position because they do not have as much debt.
+
+Cisco is generally high over 50% debt, so roughly 50% of the of the value of their assets is is borrowed is is financed with borrowed money.
+
+Again, if it's typical of their industry,
+
+that's fine because it just might be the way how their industry operates, as long as they can manage that debt.
+
+So again, it's not just the number. The number doesn't mean anything by itself.
+
+It has to be compared to something else. And like in this case we are comparing to Netgear.
+
+So we know Netgear is doing a little better. They only have a 3730.
+
+Let's say 40% are borrowing too much equity can be bad as well.
+
+Yes and no. It depends on what your goals are.
+
+So if you have too much equity, then it means you are not taking advantage of the extra earning you can make from borrowing.
+
+So here's a here's the idea behind that, Lily. Think of equity is my money.
+
+So we're talking about businesses. If if I have a demand for a product that I can't satisfy.
+
+Exactly. Then if I have a demand for a product that I can't satisfy, then if I'm not able to buy additional machinery to satisfy the demand,
+
+what I could do is borrow money to make to buy that additional machinery.
+
+So if I'm if I'm overextending in equity, it means I'm not taking advantage of the potential investments that can come from borrowed money.
+
+So too much equity means that we are not taking advantage of leverage opportunities.
+
+That's what we call it, leverage opportunities to kind of grow the firm a little faster.
+
+Now on the equity side. It's bad in the sense it can.
+
+Too much equity can be bad in the sense that it's diluting ownership.
+
+So all right. So so great. Yeah. All right.
+
+Lily. So as we can see. Yeah. You know, if you look at the debt to equity ratio.
+
+Yeah. Relative less debt to equity, which we saw from the 40%.
+
+So we know that it's going to be less than one for next year because they have more equity and less debt.
+
+While for Cisco, it's more than one because they have more debt and less equity.
+
+Now even though it looks like zero. But the times interest earnings ratio for net year, it's not exactly zero.
+
+The only reason why that number is not shown is because their interest cost is very low relative to to their operating income.
+
+So it's like the number is too low to show. It would be like 0.000015% or something like that.
+
+So it's too low. So that's so we didn't say zero because it's not exactly zero.
+
+All right. Let's look at profitability. So profitability ratios address the question of what am I earning.
+
+How much am I getting on my investment. So remember we said it brings in the idea of cost not just revenue but also cost.
+
+So again this is another big group five ratios that we look at.
+
+And just like for the two big groups, remember the key to remembering them activity ratios.
+
+With those six ratios generally you look for the word turnover. Four of them have the word turnover.
+
+For profitability ratios, the two key words you want to look for are return and margin.
+
+So you will notice that all the profitability ratios have either the word return and return means what you're earning.
+
+So you're making a profit, you're making a return on that investment, or they have the word margin.
+
+And again in sales. Margin is like a markup.
+
+What are you getting on top of something. So when you see the word margin it's about earning on top of something.
+
+So that's a profit. So you have a return on assets. Return on equity.
+
+So that's the net profit. The bottom line relative to how much assets were invested in return on equity.
+
+The bottom line relative to how much equity was invested.
+
+So equity's ownership not the borrowed money, just the equity and then gross margin after you take out the direct cost,
+
+remember cost of goods sold, that's your gross profit. So gross margin is what do you have available after direct cost relative to say.
+
+So how much of the sales as a percentage do you get to keep after direct cost?
+
+Operating margin goes one step further.
+
+No one says how much of the sales as a percentage do you get to keep after you have taken out all your operating costs, not just the direct costs?
+
+And then net margin says, how much of the sales do you get to keep after you have taken out all costs,
+
+which includes direct costs, operating costs, as well as financial costs and taxes?
+
+So you take out all your costs and this is what's left. So generally speaking, the higher those numbers are the better.
+
+All of them. So profit you want to earn more profit.
+
+So higher profits generally you're performing better.
+
+So for the two companies let's have a look at their ratios.
+
+And across the board which company is performing better.
+
+And this applies to all of those ratios. Which company is performing better.
+
+Cisco Cisco has higher profit numbers on all the profitability ratios.
+
+So they're consistent. So Cisco is managing their costs better than Netgear.
+
+So Netgear doesn't have as much equipment and long term assets.
+
+So they are generating sales. But the cost that they incur is a little bit higher based on what they're using.
+
+So Cisco is managing their cost well relative to Netgear.
+
+Yeah more money is good for companies. The you know the more you have available after cost the better it is.
+
+And that goes for personal as well right. You want to minimize your expenses and maximize your profit.
+
+Alright. Lastly our market ratios. So the two the two ratios that we mainly look at is the market the book ratio and the price to earnings.
+
+So the market to book ratio gives you an idea of how the market sees the company.
+
+Alright, so let's go back one step. Roe and Roe. Sorry, we went a little too fast.
+
+Really. So return on equity, remember?
+
+Return on assets says we are taking the net income and divided by the total assets that we use.
+
+But remember some of the assets was financed by borrowed money.
+
+So return on assets includes what you're earning on both borrowed money as well as your own money.
+
+On the other hand, return on equity is telling you what you're earning on the equity only.
+
+So return on equity is focused only on the shareholder's investment in the company.
+
+It's the same net income you're looking at, but you're looking at. This is the net income you earned for your shareholders, whereas return on assets.
+
+This is the net income you earned on the total assets you invested.
+
+So that's kind of the difference. The difference is Roe looks at the earnings relative to the owner's investment.
+
+ROA looks at both debt and equity investment and what you earned on those total assets that were invested.
+
+All right. Now there's a little more explanation we'll come to when it comes to if we probably go a few minutes over because we are about 901,
+
+but we just want to talk about the DuPont framework. And that will also come in when we talk about the DuPont.
+
+So there's an alternate way to look at it when we come to the DuPont. And you'll see it a little a little better there as well.
+
+So the market to book ratio tells us about the type of firm that the market believes we have.
+
+So if if the firm assesses the value of the company at a higher value than the accounting records,
+
+so the market value of the firm is higher than the book value.
+
+Then what that's saying is. Sorry. After equity, I said firm, but the market value of the equity.
+
+It's saying that the market thinks that this is a growing firm.
+
+In other words, we're willing to pay more than what they currently think they're worth because we think this firm is going to grow.
+
+So we would call it a growth stock if it's lower.
+
+In other words, if that ratio is lower than one, then it's the other way around.
+
+The book value is a little higher than the market value this typically implies if it's a stable firm.
+
+In other words, it's not that the firm is in problems. Then this would typically imply that this is what we call a value stock.
+
+It's like a well-established company. They're not going to be growing faster, much faster now because they're slowing down.
+
+They're well-established. Been in business for a long time, but it's a good company.
+
+So think of like a Facebook or, you know, or like an Amazon or like a Walmart.
+
+Well established company has been growing over time, but it's now pretty stable.
+
+But it's a good company in terms of value. So their, their, their market might be one or lower than one, but it's still a good company.
+
+It's a value stock.
+
+But if you think of a new upstart company just coming out, just going to be growing like, you know, like a Robin Hood, let's say, or so on,
+
+the new company expectations for growth is high,
+
+then that company might have a market value that's much higher than their book value, because we think that's a growth stock.
+
+And then price to earnings ratio is a is an indicator as to whether the market thinks the stock is overvalued or undervalued.
+
+So notice not value stock are growth stock.
+
+But are we paying too much for this stock or are we paying too little.
+
+And it's a good deal. So the price to earnings ratio is saying if I'm going to buy the stock at its current price,
+
+how many years would this company take to pay me back in terms of what they're earning for me?
+
+So notice if if a stock is going to pay you back quickly, it means the price to earnings number is smaller.
+
+So let's say we have a PE ratio of five.
+
+That says if I were to buy the stock at the current price, this company would give me back my investment in five years.
+
+So we say that's a great deal. See that's an undervalued stock.
+
+You can get a discount. You can get it. It can repay you quicker.
+
+But if you have a company that has a PE ratio of 25, it's saying you're paying too much.
+
+This company is going to take you 25 years to give you back the amount of money you invested in that stock.
+
+So that would be an overpriced stock. So a low PE ratio is an underpriced or undervalued company.
+
+A high PE ratio is an overpriced stock. So that's kind of the general relationship for those two.
+
+All right. Any questions on the numbers. If you look at them from Cisco and Netgear What can we say about the two?
+
+So their market, the book ratios are both above one indicating that they are one.
+
+Value stocks are growth stocks. Anybody remember what we said.
+
+If the if the market the book ratio is more than one more than one.
+
+Our growth stocks remember growth more than one growth less than one would be value.
+
+In other words the market thinks that this stock is worth less than what their accounting records say.
+
+So Cisco has a higher market to book. So expect it to not necessarily to be growing faster.
+
+But they're both growth stocks so they're both doing well. Price to earnings ratios now are a little different.
+
+These stocks are about are fairly valued.
+
+They are not undervalued or overvalued. You see the numbers are about 2020 is like the margin for being overvalued.
+
+So they're close to 20. So we could say they are just about fairly valid a little on the high side.
+
+But but definitely they are not undervalued. So they're not good bargains.
+
+You wouldn't want to go buy these shares right away or the gate.
+
+You would want those PE numbers to drop a little bit before you would want to buy those shares.
+
+Alright. Last thing are DuPont framework.
+
+So give me five more minutes please. You know I've kept you a little over, but give me five more minutes.
+
+So the DuPont framework essentially is just analyzing three aspects or factors that affect what you earn for your shareholders.
+
+Notice it's not about the calculation, it's about the relationship.
+
+So the DuPont framework says the return on equity that you earn for your shareholders can be impacted by profitability,
+
+turnover or activity and financing. In other words, we're going to use three specific ratios.
+
+The math is true, but you don't need to worry about the math. The profitability ratio which we want to focus on is the net margin.
+
+The activity ratio we focus on is the asset turnover. And the financing ratio we focus on is the leverage multiplier.
+
+Now why is this useful. It's not the math. So it's not because of the math.
+
+It's because of what it tells us that we can look for this exactly to see where the company is not doing good.
+
+So what we what we want to do is or what we want to know is if we if we look back, I'm going to scroll back quickly.
+
+If we look back at the ROE for our two companies, Netgear 8.42%, Cisco 25.66%.
+
+And we want to know, let's say Netgear management says how do we improve our ROE.
+
+What can we do? That's what the DuPont tells you to focus on, it says.
+
+Let's look at our performance across these three areas and see where we have the greatest opportunity to improve.
+
+Because if we can improve any one of these three, we can improve ROE.
+
+It's the factors. So and I'll show you the numbers. If you glance at Cisco's numbers on Netgear,
+
+you can see that Netgear has opportunities for improvement in their profitability as well as their leverage.
+
+See their numbers are lower than Cisco. So relative to Cisco Netgear, we mentioned this in our discussion along the way.
+
+Netgear has opportunity to kind of do better in their cost management so they can improve their profit margins.
+
+So if they can manage their costs, they can improve their profit margin and increase their return on equity.
+
+Similarly, they can take more advantage of that. Remember they were lower in debt usage.
+
+So if they can take advantage of that, they can improve their ROE. On the other hand, like you, like you said Lilly.
+
+Total asset turnover is where Cisco can improve.
+
+And we saw that because we saw that Cisco has a much bigger footprint in terms of buildings that they're using, equipment that they're using.
+
+So they're probably opportunities for scaling down some of their long term investments
+
+and still generating the amount of sales that they are generating and earning profit.
+
+So so we notice that there are opportunities that we can pick up from this quarter.
+
+They start a relationship by looking at their their DuPont framework.
+
+The quick the quick final point. Overall Cisco is doing very well.
+
+Yes. So they are doing well relative to the Netgear. They are earning higher return on their equity.
+
+But the last point I'd make as I wrap up and Lily, I think I mentioned it about what's the difference between roe and Roe.
+
+I'm going to show you from this table. ROE is a function of all three areas.
+
+Notice ROE takes into consideration profitability.
+
+Activity and financing or financing is also called capital structure.
+
+The leverage multiplier because all three of these goes into the ROE calculation.
+
+Well ROE is actually only the first two factors.
+
+Return on assets only takes into consideration profitability and activity.
+
+It doesn't look at the financing because remember we focus on the total assets.
+
+So we didn't look at how much is debt versus equity. We just looked at the total assets.
+
+So ROE focuses only on profitability and activity.
+
+But ROE focuses on profitability activity and capital structure.
+
+So the missing piece for our the piece that is not considered in ROE is the capital structure.
+
+So that also is another way we can look at the difference between ROE and Roe.
+
+All right. I know we're just about all the time, but any quick questions? Oh yes.
+
+Lily, it definitely is on the P and the O. Oh, yes.
+
+Erica. Yep. The hour passes very quickly. This this topic has a lot of content, so you do need to go spend some more time,
+
+you know, reviewing using the cohort here, but also going back in the text.
+
+There's a lot, a lot of details that we weren't able to cover.
+
+Uh, you are all very welcome. And thank you all for spending the extra ten minutes and giving me that extra ten minutes.
+
+Hope you have a great rest of your evening,
+
+and feel free to reach out at any time if there's anything we can help with as you work through the material.
+
+Thanks again.
+

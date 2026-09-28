@@ -1,0 +1,909 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+We might as well start. Good morning everyone. Happy new year.
+
+If you haven't figured it out, I'm Doctor Borg. Um, I just go by.
+
+Doctor Andy is so much easier. Anyway, I hold a pretty what I call loose session, meaning that if you have questions, ask.
+
+Just go into chat and ask. And as I'm speaking, I will respond because I have a screen set up just for your questions that might arise.
+
+Okay. Um, I just want to make sure everybody can see the screen and everybody can hear me.
+
+So I'm seeing some okay. Is good here. Perfect. So then we we might as well start, you know, during, uh, session one.
+
+This is session two. But during session one we kind of discuss the purpose of financial forecasting.
+
+Introduced why it's important As well as who uses this information and some tools that were, uh.
+
+That organizations use during this session. Number two, we're going to review.
+
+How to develop pro forma statements, uh, using the, you know,
+
+using the applying the percentage of sales method and the application of SDR sustainable growth rate and DFM,
+
+which is discretionary financing, AFN AFN, uh to determine the financing need.
+
+Okay. So it's important to remember that the primary objective for preparing financial
+
+plans is to estimate or estimate the future financing requirements in advance,
+
+when the financing is needed. A real quick 32nd commercial for me, um, wasn't always a teacher.
+
+I was actually a finance director for about as I age myself.
+
+20 some odd years on Wall Street. Um, I was a secondary Muni bond analyst.
+
+I was a director with J.P. Morgan, director with Lehman Brothers.
+
+So I know the equity side, the fixed income side, and I've used this stuff.
+
+Um, and then obviously had my own businesses and then geared towards academia.
+
+Um, was a teacher program chair of campus dean.
+
+Um, and now I'm here. So again, if you have questions, do not hesitate to ask.
+
+Okay. So let me just close this.
+
+The pro forma statement. Okay.
+
+So it's important to know that the interest expense on these pro forma statements can be independent of the firm's operations and sales.
+
+So you might not see that. And then another thing on a pro forma statement is that there's such a thing called other income or special items.
+
+You can consider those as like one offs. Um, that happened will happen one time in nature, or it might have a projected value of zero.
+
+You're not going to see much information on a pro forma income statement on that as well.
+
+Okay. A pro forma income statement is just saying, hey, I'm going to take my sales and I want to see what it would look like based on what I know now.
+
+And we're going to build that. Okay. The key item on the income statement used to develop a pro forma is going to be your sales forecast.
+
+That's going to drive everything okay.
+
+On the other hand the balance sheet that's where you have your cash accounts receivable inventories net plant and equipment payables accruals.
+
+It's it's dealing with those accounts that are assumed to increase or decrease proportionally with sales.
+
+Okay, so you got to remember there may be what's called economies of scale in inventories.
+
+Basically, um, you can think of those as efficiency measures.
+
+Um, and as a result, inventories may grow less rapidly than sales.
+
+So you got to take that into consideration. Also there may be unused capacity in their current fixed assets.
+
+Thus there may be no need or may be no new fixed assets needed when sales increase moderately.
+
+So those are the caveats when we when we do these proforma statements.
+
+It's a line in this. Excuse me. It's a line in the sand but it's not set in stone.
+
+Okay. So we're going to start with Howard Corporation.
+
+And we're going to basically build a quick statement. Assume that their sales is projected to be $200,000.
+
+And we're looking at our spontaneous accounts, those accounts that are influenced directly with sales.
+
+So we say, okay, our cash is currently 5000 accounts receivable, 40 inventory equipment, AP accrued expenses.
+
+You can see and we have our sales number. So all we're going to be doing is saying, okay, let me take my cash of 5000 divided by the sales of 200,000.
+
+And I do that for every one of the account. And I do that to come up with a percentage.
+
+Does everybody see how that's done to come up with a percentage?
+
+What I'm doing is I'm taking the value of the account divided by the assumed sales to come up with the percentage.
+
+Well, that's almost done. Believe it or not, it's that simple.
+
+Because now all we're going to do is create this balance sheet using the percentage of sales.
+
+And if we had that 200 sell thousand of sales, we're just converting those assets that we just had the 5000 to 4 to the 25 and so forth,
+
+and creating percentages for your assets, liabilities and equities.
+
+Does everybody see that? This is known as a pro forma statement using the percentage of sales table.
+
+Is it that intimidating. You're actually seeing a lot of no's come across the chat.
+
+Perfect. Alright so this is when we start talking about percentage of sales.
+
+We're just building this for the balance sheet and for the income statement.
+
+Okay. So all I'm doing is I'm taking these figures, dividing it by the assumed sales coming up with a percentage,
+
+applying the percentages to come up with what it would look like.
+
+That's it. So that brings us to sales capacity.
+
+How much money does a firm have to invest in its fixed assets?
+
+If their sales exceeded their sales capacity? That's the real question.
+
+Okay. So that's what we're going to walk through. Okay.
+
+The calculation is really sales capacity equal actual percentage.
+
+So assume that a firm we're going to walk through an example.
+
+So assume that a firm must invest in the fixed assets by $5 million if it exceeds sales capacity.
+
+So now you have $5 million on the hook. You have to know whether or not I need to spend that $5 million.
+
+Okay. That's that's why we go through this exercise. So if the current production capacity will say is 80% okay.
+
+So it's basically saying if the firm is only producing 80% of what it could produce.
+
+Okay. So the current sales are 240 million.
+
+Then the sales capacity is going to be 300 million.
+
+And all I'm doing is taking the 240 million, dividing that by the 80% or 0.8 to come up with 300 million.
+
+So 300 million. That is what the firm can grow by.
+
+So in this case, it could grow by 60 million or by 25%.
+
+Okay. And that 25% is just looking at 60 million divided by 240 million.
+
+Does everybody see how the calculations for sales capacity works?
+
+Okay. So, you know, we're just breaking it down.
+
+It doesn't have to have a lot of moving parts.
+
+So then we say okay, at what level is additional fixed asset investment needed?
+
+Remember the example we're looking at is do we invest $5 million.
+
+So if a 10% growth is projected next year, no additional investment in fixed assets will be required.
+
+Firm will at that point has sufficient capacity to handle the increased production without buying any new machinery, any new fixed assets.
+
+On the other hand, if the company is expecting 30% sales growth this coming year due to, you know,
+
+many positive shocks in the market coming out of Covid, if you think about it, we're now coming out of God willing Covid.
+
+And now these companies might have what's known as positive shocks.
+
+Um, I just decided it would be 80% of 90% or 95% of a good forecast is going to be based on your your gut.
+
+So we're just saying, okay, I have like total sales and this is what I'm based on the equipment that I have.
+
+I should be able to manufacture. And I'm only going against 240 instead of the 300.
+
+So I know it's 80%. Does that make sense?
+
+Okay, great. So as I said, you know, you have these companies now, God willing, we're coming out of Covid that might have these positive shocks.
+
+It's called. So in this case, the company will exceed the sales capacity by $12 million.
+
+And the way I come up with that is I say, okay, 30% of 240 million is 72 million.
+
+So I'm going to have to invest $5 million in assets.
+
+Okay, that's how it works. So again, if you do the math, if we expect the firm to grow at 30%, it means that 30% of two for 240 million is 72 million.
+
+We know that our unused capacity is 60 million.
+
+We can grow 60 million, 25%, but here we're planning on 30%.
+
+So the difference between 62, 25% and 30% is the difference between 60 million and 72 million, which is 12 million.
+
+So on our example, the company would have to pay would have to invest in the $5 million because it wouldn't be able to afford the growth.
+
+Does everybody see how that works? Okay.
+
+So let me just go through this one back up to here.
+
+So if we have again, our cells capacity in this case is 240 million.
+
+And we say, okay, from that 240 million, I'm actually that's what I'm operating on okay.
+
+Think of it this way. Your car might go might average 30mph or 30 miles per gallon.
+
+On the other hand, that's if you're driving in ideal conditions.
+
+If you step on the gas and brake hard and all the sudden you're averaging 22 miles per gallon,
+
+well, you have the capacity for 30, but you're you're driving and you're maintaining 22.
+
+So sales capacity in this case we can we're doing 240, but we actually can do 300 million.
+
+Okay. Well if I say that 300 million is 25% difference between 240 and 300, that means I can grow another $60 million.
+
+I can grow 60 million without doing any investment whatsoever.
+
+However, if I'm going to grow past that 60 million, in this case, 60 million equals 25%.
+
+And I just get that by dividing the difference between available capacity, which is 3 million divided by use capacity,
+
+which is 240, I take the difference of 60 divided by 240 to come up with 25%.
+
+And I said, okay, anything within that I'm good.
+
+I don't have to invest. But if I go outside that in this case, a growth of 30% is greater than the $60,000 that equals $72 million,
+
+essentially that difference between 72 million and 60.
+
+I need to be able to fund I need to fund that growth.
+
+And I know that the only way I could fund that growth is by making an investment of the $5 million worth of assets fixed assets.
+
+Does that clarify it a little bit more for those that have questions?
+
+Okay. Yeah, whatever. You know, this is you know, I get this stuff isn't necessarily the easiest, but we're gonna, you know, we'll walk through it.
+
+So then we say, okay, there are some limitations to percentage of sales.
+
+The first one, the first limitation is garbage in, garbage out.
+
+I know you've all heard of that before.
+
+And the reason why it applies to this is because we have to constantly update this percentage of sales forecasting otherwise.
+
+So how are the percentages? The percentage works.
+
+So are we talking about the question is that percentage of sales or the percentage of the growth percentage?
+
+The 25%. The 30%. Well, the 30%. Okay.
+
+So in this case we're making the assumption that's all these are.
+
+These are forecasts. The forecasts are based on our gut feeling.
+
+Our educated guess limits. Okay. Based on the market we predict that our firm is going to grow by 30%.
+
+That's all that is. We have the capacity to grow to 25%.
+
+We can grow an extra 60 million. But in this case, we believe we're going to grow past that.
+
+In this case, 30%. Again, it's what we believe is an estimate and that 30% exceeds our limitations.
+
+So we need to have more investment into our firm. Does that make sense?
+
+Does that clear it up a little bit? Yes.
+
+No. Maybe. So that 80% we're just looking at as our current sales capacity.
+
+Okay. It's based on you know what we believe the company should be operating at what it can operate at.
+
+So if we know the maximum of production based on the material, the assets that we have on hand, if you remember,
+
+when you look at the return on assets ROA, that's a measure of how much revenue a company is generating based on the assets it has on hand.
+
+So if we're looking at those, the the efficiency,
+
+and we know that the capacity is $300,000 for $300 million for our firm, and we know we're only earning 240 million.
+
+Well, we know we're only at 80% capacity at that point.
+
+Does that make more sense? Okay, great.
+
+So let's go to Lumpy Investments.
+
+Lumpy investments are those things that we don't buy all the time.
+
+In this case, we have. How do we know when to do that?
+
+$500 million, $5 million worth of investments in this example.
+
+So the method provides reasonable estimates of financing requirements only when asset
+
+requirements and financing sources can accurately forecast as a constant percentage of sales.
+
+However, you got to remember that this relationship may not always hold true.
+
+Okay. Economies of scale, as I mentioned earlier, are sometimes realized from investing in certain type of assets.
+
+And then you have some assets which are lumpy assets or assets that must be purchased in a large non divisible components.
+
+Again, think of I give this example um during session one of an ice cream parlor.
+
+So for those that were in session one apologize I'm going to I probably won't repeat it exactly the same.
+
+But imagine you have an ice cream parlor, and you have a soft serve machine that can serve 50 cones a day.
+
+I know, ridiculous, right? So 50 cones a day and you're thinking about growth, and you believe that your growth is going to be to 75 coins a day?
+
+Well, you can only do 50. Either have to buy the new machinery to give you capacity for 100 or risk customers going to your competitors.
+
+That's what I mean by lumpy assets. At what point do we have to make that investment decision?
+
+Well, if the ice cream cone, if we're at capacity of 50 cones, well, then we have to buy it for growth, period.
+
+Even if we went to 51, we'd have to buy it. But here we're forecasting from 50 ice cream cones to 75 ice cream cones.
+
+So we have to invest the money into a new machine. That's what that lumpy asset is.
+
+Does that make sense to everybody? Okay great.
+
+So it can also mean buying multiple items.
+
+Yeah I mean it just hasn't you know, we're using one investment, one fixed asset,
+
+but you could have other fixed assets needed to support another fixed asset.
+
+So just look at it as a capital of an investment into your company.
+
+So as a quick reminder these are the spontaneous accounts.
+
+Okay. I'm sorry. I put a different color so it stands out.
+
+But these are the amounts of, you know, these are the accounts that are are supposed to change in relation to sales.
+
+Your cash. Again, if you're an ice cream parlor, you're selling from 50 to 75 coins fully.
+
+You expect to receive more cash. You expect to have more receivables coming in.
+
+You expect to have more ice cream, more cups, more spoons, more napkins, cones, etc. that's your inventory.
+
+I'm going to buy new assets, a new machine, so that would be spontaneous.
+
+Once I reach my capacity, I'll have more accounts payable because I might buy more of my inventory on credit.
+
+My sales will increase, my cost of goods will increase, my net income will increase.
+
+So that's why these are called spontaneous. They React to sales.
+
+Does everybody understand that concept? Great.
+
+Okay, so when a company when you're a firm again let's go back to the Paula.
+
+And you're asking Paula is going from 50 coins a day to 75 cones a day, you would expect more cash to come in.
+
+Okay. Because you're doing more sales, you would expect more accounts receivable.
+
+Again, more people to buy your ice cream cones on credit.
+
+You would also have to then buy more ice cream, and then the supplies that support the making and selling of ice cream,
+
+the cups, the spoons, the napkins, and so forth.
+
+In this case, you're going to buy a new machine, a soft serve machine.
+
+Your accounts payable can go up because you're going to be buying more things, possibly like your inventory on credit.
+
+Your sales will go up from 50 sales a day to 75.
+
+Your cost of goods sold will go up because I'm buying more things now to sell and then inherently my net income goes up.
+
+Does that better explain that? For those that had a question about that.
+
+So everything goes up. Absolutely. Everything goes up. Supposed to be that way right now.
+
+Does that mean that everything goes up? No. I mean, if I'm in capacity.
+
+If I have capacity, I might not have to buy a new fixed asset. That's why we do these analysis to see whether we have to buy more fixed assets.
+
+Exactly. If sales go down and I've already spent all this money on a fixed asset,
+
+now I have a loan that I have to pay back or whatever the case may be I have to make sure that activity is going to be there.
+
+So when we talk about spontaneous accounts, it's exactly that activity.
+
+You're right. That's a great way of saying it. It's activity sales up or down.
+
+Okay. What activity. If we look at activity as sales, whether they go up or down are going to impact certain accounts.
+
+If sales go up, then my cash goes up. If sales go down, my cash goes down.
+
+If my sales go up or down and I don't have to buy fixed assets, that could stay the same.
+
+But all my others can be directly related to sales, and that's why they're called spontaneous accounts.
+
+Does that make more sense? Great.
+
+So that brings us to FN, AFN and all that fun stuff.
+
+Okay. So additional financing is called the discretionary financing needed.
+
+TFN, also known as the external Financing needed EFM or additional financing needed.
+
+AFN estimating TFN is often the primary objective of the forecasting process.
+
+This amount, you got to remember, can be financed by an increase in notes payable,
+
+long term bonds, preferred stock, common stock or combination thereof.
+
+Okay, so that's why it's important to look at. If you look at the what I have highlighted here,
+
+it says if this number when you do the pro forma and we're going to go through and look at a pro forma,
+
+if this number is positive, this means that the firm needs to raise money externally to support the growth.
+
+But if it's zero or negative, it means that it doesn't. And we're going to go through that.
+
+So if we look and you're going to see this screen again, I just figured sometimes it's better to see you twice.
+
+So if you look at net income, all I'm doing is I'm taking my sales and I'm dividing everything to come up with my,
+
+my letting my, you know, my profit margins and so forth.
+
+And all I'm doing is saying, okay, I'm going to take all my pieces by current assets divided by the 10 million,
+
+my net fixed assets divided by 10 million. And I'm going to create a pro forma based on a percentage of sales.
+
+And I'm going to base it on from our company called fund for all.
+
+If I grow by 0%, if I grow by 20%, and if I grow by 40%.
+
+Okay. So we're going to go look at this in a few minutes.
+
+But this is how a percentage of sales would look at look like present.
+
+If you can see my pro forma income statement to the left and to the to my profit pro
+
+forma income statement on the top left is sales and then the pro forma to the right,
+
+and then right below it is the balance sheet and then the pro forma right to the right.
+
+So that's what we're going to work on going forward.
+
+So going to look at the four steps needed for our fun for all example.
+
+In other words how do we create this okay this spreadsheet.
+
+So step one we need to convert each asset and liability account that varies directly with the firm sells to a percentage of the current year cells.
+
+Well that's what we were doing with the percentage of sales method.
+
+All I'm doing is taking that division similar to what we did earlier,
+
+where we took the 200,000 divided by the 5000, 5000 divided by the 200,000, 40,000 and so forth.
+
+Okay, you got to remind reminder that spontaneous accounts are those accounts that are directly impacted by increases and decreases in sales.
+
+So if you notice, not every account is impacted where you see, you know, you see na na na, they're not directly impacted by sales.
+
+Step two is predicting the current assets.
+
+We want to be able to project the level of each asset and liability account in the balance sheet,
+
+using the percentage of sales multiplied by the projected sales,
+
+or by leaving the account balance unchanged when the account does not vary with the level of sales.
+
+Again, I want you to you see, everybody sees the 2.4 million.
+
+That's our projected current assets. Does everybody see here on the right hand side projected current assets of 2.4 million.
+
+The good look at current assets on the left and then go all the way down and you'll see.
+
+Current assets of 2.4 million. Okay. If we're growing at 20, assuming a 20% growth okay.
+
+So if you go down, do you see where it says fun for all incorporated pro forma balance sheet.
+
+Okay great. So next step is predicting additional retained earnings.
+
+That's the equity piece. Okay.
+
+You got to remember it's really just taking your projected assets minus your projected liabilities minus your projected equity.
+
+So now we're looking at our equity which in this case is going to be retained earnings okay.
+
+So project the additional addition to retained earnings available to help finance the firm's Operation.
+
+This equals projected net income for the period, less planned common stock dividends.
+
+And you would be given that I believe, that type of information.
+
+So in this case we come up with retained earnings of $300,000 just by going through this formula.
+
+But if we come back here and we see retained earnings, that's how we're coming up with the figure.
+
+Okay. It's A1234 fifth from the second to last column fifth one up.
+
+We're going to go through it a little bit more. And then our fourth step is predicting DFM project.
+
+The firm's DFM as as a projected level of total total assets less projected liabilities and owner's equity.
+
+So let's take a look to see if we can find the 7.2 million, minus the 4.9 million, minus the full 1.8 million.
+
+Okay, So our projected assets we said, is 7.2 million.
+
+Does everybody see under total?
+
+If you look at the right hand side fund for all incorporated pro forma balance sheet, it says current assets, net fixed assets.
+
+And then it says total. And in the second in the middle column it says 7,200,000.
+
+Everybody got it okay. So there's my current assets. And then these are projected.
+
+My initial were 12 was 6 million.
+
+But now I projected that increase of 12,000,012 million.
+
+So now it's all 1.2 I should say 20% to seven two.
+
+And then I said okay, I have 4.9 in liabilities.
+
+So do we see the 4.9 in liabilities if you go down 123456 rows.
+
+Does everybody see the 4.9 million? Got a couple of yeses there.
+
+Okay, so now we say, okay, we have the 7.2 million minus that 4.9 again, projected current assets minus projected liabilities.
+
+And then I'm going to minus the 1.8 million.
+
+Oops. And if you go down one two, three, four rows below the total liabilities you'll see the common equity.
+
+Okay. That's at 1.8. So my total financing needed is $500,000.
+
+I know this because I had 7.2 million in assets, projected assets and then my liabilities of 4.9 and my stock of my equity of 1.8.
+
+That difference is means what I need. So all I'm doing is I'm taking the $7.2 million, which is my projected total assets,
+
+minus the 4.9 billion, my projected total liabilities, minus the 1.8 million of projected owner's equity.
+
+And that equals a difference. That remainder, that is the amount that's needed.
+
+If it was zero, then I wouldn't need financing. If it was a -100, I wouldn't need financing.
+
+I have more capacity than needed, but in this case it's positive.
+
+So it says that I need additional financing. Does everybody see how that works?
+
+Okay. So that brings us to effort.
+
+If it includes all the firm's needs for financing beyond the funds provided internally through retention of retained earnings.
+
+That's all it is. Okay, so it's that additional bump that I need.
+
+Okay. So if we look at, um, the fund, uh, for example, we had the proforma we're looking at.
+
+We looked at their growth and then.
+
+Well, you got to remember, if you look at the spreadsheet here, account balances that do not vary with sales, those are not applicable.
+
+I don't need to change them. So I want to be able to make sure that they're identified.
+
+My projected rate retained earnings for 2020 are based on a 20% growth rate scenario.
+
+Again, it's an estimate. A scenario is what you believe it can grow to.
+
+And that's why when I was in business, I always did it at zero, 20, 40 or used 3 or 4 different scenarios,
+
+different estimates to see where I could, you know, what would be needed.
+
+So in this case, we, based on a 20% growth rate scenario in this case would equal $1.5 million.
+
+And it's calculated by taking the retained earnings of 1.2 million, added to the 2021 projected net earnings of 600,000, less dividends of 300,000.
+
+That's how we come up with that amount. Uh, at some point, you know, dividends are assumed to be 50% of net income.
+
+Um, so they're divided across the three scenarios equally.
+
+Um, don't need to get hung up about that. So what's important to know is that the DFM is all about the difference between projected assets.
+
+Minus projected liabilities, minus projected equity. Does everybody see.
+
+If I didn't grow, I'd have -$250,000. Does everybody see that?
+
+Under my. Zero growth scenario means that I don't need find external financing.
+
+I'm good with the internal financing that I have.
+
+Okay. I have enough and retained earnings to support it.
+
+But if I grow by 20%, I need 500,000. If I grow by 40%, I need 1,250,000.
+
+Okay. And you can do interpolation and change, you know, 20 to 25, 30 and so forth.
+
+It's going to basically be the same scenario. So Let's see.
+
+Okay. So you see that when fun for all experienced sales growth, it needs to expand its required AFN AFN.
+
+So here's the rule of thumb. The higher the rate of growth in sales, the greater will be the need for external financing.
+
+I'll repeat. I'll repeat that the higher the rate of growth in sales, the greater will be the need for external financing.
+
+Growth in internal financing, such as an increase in retained earnings, is then going to be kind of slow.
+
+So you got to remember that this, uh, cause and effect isn't just one way financing policy also affects growth in real life.
+
+So fun for all. Might expect higher sales, but they might not choose to do anything about it.
+
+They might not choose to borrow or issue new sales issue new stock shares or anything like that.
+
+So just because a performer says, oh, we have to raise this money in order to, you know, fund these future projections and so forth,
+
+it's important to remember that real life business, that decision, this is just a tool to be used.
+
+It's not a guarantee that you're going to go in that direction. Okay.
+
+So if one for all imposes constraints on financing. Maybe it says, you know what?
+
+I'm not going to put any money down.
+
+It may decide to raise prices of its admission of its things that it sells to increase profit and slow down the sales growth.
+
+So I might raise my the prices there to slow down my growth and keep my profit going.
+
+Does that make sense? Okay.
+
+So after projecting TFN, we can easily evaluate the sensitivity of the FN to changes in key variables.
+
+Um, again, a negative fn indicates that the firm has a surplus in dollars in financing, so it doesn't need any more money.
+
+Okay. The internal growth rate.
+
+You know, if we look at our fund for all we can say, okay, fun for all is probably a very conservative, very conservative.
+
+Uh, can you explain why we would slow down sales? Sure. So if we slow down sales, we don't need to have that capital investment of our fixed assets.
+
+So I can still get the increase of monies coming in. Okay.
+
+So I might raise prices to increase my profit, but I'm not going to sell as much.
+
+Okay. Great. So again, the internal, you know, growth rate.
+
+You know, maybe the powers that be at fun for all are conservative about financing.
+
+And the firm may set its sales targets on an internal growth rate instead of external financing.
+
+The internal growth rate. That's the maximum growth rate that a firm can achieve with no external financing of any kind.
+
+Neither debt or new equity.
+
+Okay. Only internally retained earnings are used to fund growth.
+
+That's the internal growth. Uh um, internal growth rate.
+
+Think of internal growth rate as using retained earnings.
+
+Does that make sense to everybody? Okay.
+
+So then we have something called the sustainable growth rate. And if you look at that little note on the second bullet.
+
+SDR is greater than IR. So sustainable growth rate SDR is the maximum growth rate of firm can achieve with no external financing.
+
+No new shares of equity is what it's really dealing with while it maintains a constant debt equity ratio.
+
+Okay, so I can get more debt. I could I could reduce dividend.
+
+I could do different things, but it's going to be slightly higher than my IGR.
+
+That's the absolute maximum. You know, it's important to note that this is the concept that most fortune 500 companies would use.
+
+They would go towards the SDR and not the GR.
+
+Um, you got to remember, firms don't like to issue new shares because when they announced new shares, the prices of their old shares.
+
+Shares fall. Imagine if we had, uh.
+
+You had 100 shares. That's all. The company had 100 shares outstanding.
+
+And you own them all. And it was worth a dollar share. So you had $100.
+
+And the company decides to issue another 100 shares to the public.
+
+Well, now your hundred shares are worth $0.50. So companies don't like to do that to dilute the holdings of their investors.
+
+Does that make sense to everybody?
+
+So the things that you got to remember is this the higher the retention ratio, the higher the SDR, the higher the ROE, the higher the SDR.
+
+But remember, this is all about relationships, the relationships of like financial ratios.
+
+Now these are the relationships of borrowing and financing.
+
+So the higher the retention ratio the higher the SDR, the higher the ROI return on equity, the higher the SDR.
+
+So when we talk about the return of equity, you know, we can think of the DuPont equation.
+
+I know everybody loves that one.
+
+So we know that with DuPont, we know that ROI is positively related to profit margin, total asset turnover and equity and equity multiplier.
+
+And then we could say okay then SDR is positively related to four variables retention ratio,
+
+profit margin, total asset turnover and equity multiplier.
+
+So it's very similar to DuPont in terms of what it relates to with the addition of the retention ratio.
+
+Okay. So SDR implications if a firm wants to pursue a growth rate that is higher than its SDR, the firm must do one of the following.
+
+Again, it doesn't want to have any more financing, but it wants to pursue a higher growth rate.
+
+Well, you could do retain more earnings within the firm.
+
+In other words, pay less dividends. Now let's face it your CEO, CFO,
+
+financial manager might not want to pay less dividends to the investors because that could impact the firm's stock price.
+
+If there becomes a negative perception but they can retain more income, more earnings pay less in that way.
+
+It limits the amount of monies that are needed because they have it.
+
+They can increase their profit margin. They could increase that profit margin by reducing costs or increasing price or any combination thereof.
+
+It could increase their asset turnover, maybe making the assets more efficient, maybe making the quality better, thus improving sales.
+
+Improve increasing demand. It might increase my financial leverage.
+
+I could borrow more. I could issue more debt, or I could then sell new shares.
+
+So those are the SDR implications. So ways to reduce DFM.
+
+So depending on the size of a firm's discretionary financing let's face it.
+
+It could be a challenge to obtain sufficient capital to support their growth.
+
+So in order to reduce the DFM companies can take many actions to to either reduce reduce projected assets or increase projected financing.
+
+So assuming that the firm doesn't want to issue new shares, new equity, there are basically some methods you can use for decreasing DFM.
+
+Okay. While you know it may seem counter productive or I say counterintuitive for an entrepreneur or CEO to deliberately decrease sales,
+
+slowing the growth by increasing process prices, it may actually serve to increase the total value of the firm and profitability.
+
+So ways to reduce the effect. Um, let's see it this way.
+
+Um, one way is to expand your expansion of fixed assets.
+
+So basically when you have financing constraints and they start to bind, one of the first variables managers look at is going to be fixed assets.
+
+Okay. So think about well what do you mean by buy my fixed assets.
+
+Well perhaps I can get rid of them and I can outsource. Okay.
+
+So if I outsource production of some of my components effectively these types
+
+of questions of whether I should outsource or not fit right back into SDR.
+
+So there's another relationship. It fits back to the equation by examining examining the total asset turnover ratio in terms of efficiency.
+
+Okay. The use of my assets to generate revenue. So ways to reduce TFN.
+
+I look at my fixed assets not to buy new ones, but perhaps put them to rest and outsource.
+
+Okay. Um, it's basically you're looking at a way to squeeze more dollars in sales out of each dollar of assets.
+
+So inherently the DFM would be reduced. Does everybody understand the concept of what I call fixed assets?
+
+An outstanding here outsourcing here rather. Okay.
+
+So if I have fixed if I have a number of fixed assets that have a certain level of capacity.
+
+And I'm at a threshold point and I want to get past that threshold, but I don't want to invest.
+
+I could find my fixed assets don't have to change, but I don't have to necessarily use them either.
+
+I can outsource it. Just say a company wants to grow bigger and they don't, you know, and they don't have the supply chain needed.
+
+Franchises want opportunity. Absolutely.
+
+But think of it as a supply chain okay.
+
+Supply chain I might hire Fedex or UPS to do my outsourcing so I don't have to create and
+
+buy a warehouse for myself and bought machinery and forklifts and this and conveyor belts.
+
+So I might not change my fixed assets.
+
+I might not use them as much or at all, I might even be able to sell them.
+
+But I'm going to be outsourcing. To improve efficiencies. To lower cost, essentially.
+
+Does that make more sense? Okay.
+
+Another way is we can lower the dividend payouts.
+
+So if the company were to lower the annual dividend payment, thereby increasing its retention ratio,
+
+more earnings would remain with the firm and TFN would then decrease.
+
+As I mentioned earlier, the problem with this scenario is that stockholders normally do not react well to reduced dividends.
+
+So even when the CEO is able to explain to the shareholders the reason for the change and the opportunities it affords to the firm,
+
+shareholders would still have a negative reaction to the lower dividend payment, which could drop down the stock price.
+
+So that's the. You know mathematically. Yeah it would work pay out less.
+
+You keep more internally. However, you might have negative impact to your stock price as investors would be unhappy.
+
+Well I can increase my net margin. So the larger the company's net margin ratio, the higher the level of earnings per dollar of sales.
+
+Gotta remember a higher earnings lead to more cash retained within the company, which in turn decreases DFD.
+
+So besides increasing the product sales price,
+
+the firm could also increase the net margin by cutting costs in that pendulum swings both way for revenue, increasing revenue or decreasing costs.
+
+Increased sales volume will help in this process, as the firm can take advantage of economies of scale and get better pricing from their suppliers.
+
+There's also usually a number of managed expenses with the firm,
+
+such as advertising costs that can be managed in order to decrease or increase net margin for a given year.
+
+So things can be managed. You can manage things on your cost side and sell side to increase your net margins,
+
+which would then put more cash to the company, thus reducing the need for DFM.
+
+So then what are some limitations we have? So consider a business that competes in a market where consumers are on a tight budget due to lower income.
+
+Okay. These consumers are traditionally more conservative with their spending habits.
+
+The businesses, you know, may stay competitive in this market by cutting prices and potentially decreasing growth.
+
+In addition, the business might also invest money to develop new products that will appear to be existing,
+
+you know, which would appeal to existing customers. However, this would help maintain the business, maintain its customer base and gain market share,
+
+but it would also increase the costs and its ability to grow and achieve SGR.
+
+So everything is surrounded by SDR customers and CEOs and managers are always going to look at economic trends,
+
+the next new thing, economic conditions they're going to look at.
+
+If you remember the yield curves, they get a look at the market. They're going to look at unemployment.
+
+They're going to look at participation. Um, uh um employment participation.
+
+They're going to say, okay, we're now in a pandemic and we're hopefully coming out.
+
+How does that impact our limitation? Are we going to have positive sale sharks?
+
+Are we going to you know, these are these different scenarios that they're going to be playing.
+
+So while SDR is often the goal of a firm. Simply calculating SDR and striving to achieve and maintain this rate is not the best way to use it.
+
+Each company needs to consider many different factors, both economic and non economic, to use the SDR.
+
+Okay. So it's not you know going to be the solve for everything.
+
+It's just a line in that sand. It's more robust and it's more commonly used than IR.
+
+And it gives you can manage it. So you don't need to get external financing, increase your debt levels or issue new shares.
+
+Does that make sense to everybody.
+
+So the basic question if the proforma balance sheet shows the total assets must increase by $400,000, while retaining a debt equity ratio of 75.75.
+
+Then what's the answer? A, B, C, or D? We got one b.
+
+Only one person. I told you, you guys should have had coffee before we started.
+
+It is B, so debt must also increase by 300,000 okay.
+
+And it's just that's just that simple calculation. Does anybody have questions.
+
+I'm hoping this helps a little bit. Did it help at all. Okay good I know I'm glad.
+
+Any questions? I just.
+
+Yeah, it, um, it's it's a process.
+
+And, um, it does take a long time, you know, it can take a long time to, to digest, so I totally get it.
+
+If anybody ever has questions regarding any of this material, please do not hesitate to contact make an appointment with me or any course instructor.
+
+We're all here to help we go through. Yes, this will be available to everybody.
+
+The recording will be available. Um, and if you don't have access to it, email me and I will make sure you have it.
+
+Uh, my schedule is, you know, I, I teach two finance classes, an accounting class and that Excel class that everybody loved.
+
+Um, so it does fill up. So I always tell, make appointments and, um, you know,
+
+if you if you can always email me with questions, I'll be more than happy to respond that way as well.
+
+But, um, I work.
+
+Monday, Tuesday, Wednesday, Thursday and Saturday.
+
+Um, yeah. I confirm you can confirm appointments with me.
+
+I think a month out. Okay. Um, well, I'm glad everybody was able to attend.
+
+Um, on Wednesday, there's a cohort live session on financial ratios, financial statement analysis.
+
+It's basically dealing with financial ratios. So, um, if you need that, uh, it's Wednesday at 6 p.m., uh, mountain time.
+
+Anyway. Enjoy your weekend. And, uh, I'm here if you if you, uh, if you need.
+
+You take care, guys. Take care.
+

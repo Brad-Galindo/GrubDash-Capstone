@@ -1,0 +1,617 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Welcome to the Finance Skills for Managers Unit six live event.
+
+You may want to pause the recording from time to time to take notes.
+
+Unit six is about helping you think like a manager when it comes to financial decisions.
+
+First, we'll talk about tools used to evaluate investments.
+
+These are the core techniques managers used to decide whether a project or investment is worth pursuing.
+
+We'll then look at bonds, stocks and capital investments.
+
+Next we'll compare different valuation methods for bonds common stock and preferred stock.
+
+Finally, we'll discuss the key variables to consider when evaluating capital investment projects,
+
+such as timing of cash flows, risk, and cost of capital.
+
+It is important to connect the concepts back to real world decision making.
+
+The objective assessment is more about application than about terminology or memorization.
+
+The cohort will be interactive and we will pause for knowledge checks at different points.
+
+We'll start with net present value, or NPV, which is one of the most important tools managers use to evaluate investment decisions.
+
+NPV looks at the value of an investment in today's dollars.
+
+It does this by taking all expected future cash inflows and outflows, and discounting them back to the present, using the company's cost of capital.
+
+For each of the evaluation tools that we will discuss.
+
+It is important to learn the advantages and disadvantages of each as well as practical applications.
+
+The advantages of NPV are. It includes all cash flows over the entire life of the project.
+
+It also accounts for the time value of money, making it more accurate than simpler methods.
+
+Lastly, it incorporates the cost of capital, so risk and required return are built in.
+
+The disadvantages are it requires the calculation of the cost of capital,
+
+which can be difficult to do, and NPV is also not useful for comparing projects of varying sizes.
+
+If NPV is greater than zero, the project is expected to add value to the company and should typically be accepted if NPV is less than zero.
+
+The project would reduce value and is usually rejected.
+
+In general, firms use several methods when evaluating projects.
+
+If you are considering only one project, the first method to use is NPV, since it gives you the exact value added to your company.
+
+So one key to look for in a question to determine whether you will use the NPV result rather than the others,
+
+is whether the question indicates that you are only choosing one.
+
+In the real world, NPV is widely used for capital budgeting decisions.
+
+Managers use NPV when deciding whether to purchase new equipment, launch a project, or expand operations.
+
+It helps answer the question will this investment increase the overall value of the organization?
+
+Now let's look at the internal rate of return or IRR, which is another commonly used investment evaluation tool.
+
+IRR is the rate of return a project is expected to generate.
+
+More specifically, it's the discount rate that makes the project's NPV equal to zero.
+
+Managers often like IRR because it's expressed as a percentage, which makes it easy to compare to a required rate of return or cost of capital.
+
+The advantages are it is intuitive and easy to understand.
+
+It also incorporates the time value of money, just like NPV.
+
+Lastly, the calculation does not require the use of the required rate of return.
+
+Managers can compare the IRR to an estimate of what the required rate or cost of capital would be.
+
+If the IRR is much higher than the cost of capital of the project.
+
+Management can make a decision easily without worrying too much about the accuracy of the estimated cost of capital.
+
+If the required rate of return or cost of capital is calculated, it is used as a hurdle rate for comparison to the IRR.
+
+The disadvantages are. The IRR can give misleading results when comparing projects of different sizes or timelines.
+
+Also, projects with non-conventional cash flows can result in multiple IRR.
+
+The IRR does not measure actual dollar value added, which is why NPV is often preferred in practice.
+
+You cannot use the IRR method to help choose between mutually exclusive projects.
+
+Two projects are mutually exclusive when you can only pick one of the two projects.
+
+Lastly, it assumes reinvestment at the IRR rate, which can be an overly optimistic assumption.
+
+The decision for IRR would be if the IRR is greater than the company's required rate of return or hurdle rate.
+
+The project is generally acceptable if the IRR is less than the required rate.
+
+The project should usually be rejected. When projects conflict, managers typically rely on NPV over IRR for the final decision.
+
+In real world decision making, IRR is often used as a comparison tool.
+
+Managers may use IRR to screen projects quickly or communicate expected returns to stakeholders.
+
+It's especially helpful when answering the question, is this project earning a high enough return for the risk we're taking?
+
+The next tool we'll look at is the profitability index, often called Pi.
+
+The profitability index measures the value created per dollar invested.
+
+It's calculated by taking the present value of expected future cash inflows and dividing it by the initial investment.
+
+Think of Pi as a benefit cost ratio.
+
+It helps managers see how much value they're getting for each dollar they put into a project.
+
+The advantages of pi are it accounts for the time value of money, just like NPV and IRR, and considers all future cash flows and the risk.
+
+It's especially useful when capital is limited and managers need to rank or prioritize projects.
+
+Pi also provides a clear relative measure of efficiency, showing which projects deliver the most value per dollar invested.
+
+The disadvantages of Pi are. It requires the calculation of the cost of capital.
+
+Just like NPV, the Pi is also not useful for mutually exclusive projects like other valuation tools.
+
+Pi relies on estimates of future cash flows, which introduces uncertainty.
+
+The decision criteria are.
+
+If the Pi is greater than one, the project is expected to create value and is generally acceptable if the pi is less than one.
+
+The project is expected to destroy value and should usually be rejected when funds are constrained.
+
+Managers may prioritize projects with the highest Pi for useful application.
+
+Managers often use Pi when budget constraints exist, such as allocating limited capital across multiple potential projects.
+
+It helps answer the question which investment gives us the most value for each dollar we spend?
+
+So while NPV tells us how much value a project adds, Pi helps tell us how efficiently that value is created.
+
+Let's look at an example. The company has a capital constraint of $1 million.
+
+They have four different projects they are considering and plan to invest most, if not all, of the $1 million.
+
+If each of those projects require a different initial outlay, which is the upfront cost, the amount of the capital constraint becomes important.
+
+In that case, you could rank the projects from the highest to lowest pi.
+
+The key words that you might look for in a question to determine if you will be
+
+using Pi are different upfront costs and ranking or language describing ranking.
+
+Now let's take our first quiz over what we have covered so far.
+
+For each question. The three options are NPV, IRR or Pi.
+
+Question one. Which of the three tools discussed does not provide the value added by the project?
+
+Question two. If a company is evaluating three projects of approximately the same size and only plans to choose one of the three.
+
+Which primary tool would be most useful? Question three.
+
+If a company has a capital constraint but plans to spend all the capital available.
+
+Which method should be used to rank multiple projects with varying initial investment costs?
+
+And question four. If a company is looking to use an evaluation tool that is easier to understand and more intuitive, which would be the best option?
+
+We'll take a few seconds for you to write down your answers. Now let's review the correct answers.
+
+Question one. Which of the three tools discussed does not provide the value added by the project?
+
+The answer would be the internal rate of return. Question two.
+
+If a company is evaluating three projects of approximately the same size and only plans to choose one of the three.
+
+Which primary tool would be most useful? The answer would be the net present value.
+
+Question three. If a company has a capital constraint but plans to spend all the capital available.
+
+Which method should be used to rank multiple projects with varying initial investment costs?
+
+The answer would be the profitability index.
+
+Question four if a company is looking to use an evaluation tool that is easier to understand and more intuitive, which would be the best option?
+
+The answer would be the internal rate of return. Once a manager decides a project is worth pursuing.
+
+The next big question is how do we pay for it?
+
+Companies generally finance projects using debt, equity or a combination of both.
+
+Each option has advantages and disadvantages, and the right choice often depends on cost, risk, and control considerations.
+
+Debt financing means borrowing money that must be repaid.
+
+This typically includes loans, bonds, or other forms of borrowing.
+
+With debt, the company agrees to make regular interest payments and repay the principal over time.
+
+The advantages of using debt for financing include. Interest payments are tax deductible, which lowers the effective cost of borrowing.
+
+Debt allows owners to maintain control. Lenders do not get ownership or voting rights.
+
+Debt can be a lower cost source of financing compared to equity.
+
+The disadvantages of debt include. Debt creates fixed obligations.
+
+Payments must be made regardless of the company's performance.
+
+Too much debt increases financial risk and constrain cash flow.
+
+High debt levels can make it harder to borrow in the future.
+
+Now let's discuss equity financing. Equity financing means raising funds by selling ownership in the company.
+
+This includes issuing common stock or preferred stock.
+
+Investors receive ownership claims and expect returns through dividends or stock appreciation.
+
+Also called capital appreciation, the advantages of equity include.
+
+Equity does not require mandatory repayment, reducing short term cash pressure.
+
+It can improve a company's financial flexibility, especially during uncertain times.
+
+Equity reduces bankruptcy risk compared to excessive debt.
+
+The disadvantages of equity include. Issuing equity dilutes ownership and control.
+
+Another is that equity is often more expensive than debt in the long run.
+
+Lastly, investors expect higher returns because they take on greater risk.
+
+Now let's bring it all together. In practice, most companies use a mix of debt and equity.
+
+Managers aim to balance the cost of capital risk and control.
+
+The goal is to choose financing that supports growth while maintaining financial stability.
+
+As a manager, the key question isn't just can we fund this project?
+
+It's what's the best way to fund it?
+
+Now that we've talked about financing choices, let's take a closer look at bonds, which are a common form of debt financing.
+
+Bonds are considered fixed income securities because they typically provide regular, predictable interest payments to investors.
+
+When a company issues bonds, it's essentially borrowing money from investors and promising to pay it back with interest.
+
+Some key bond terms to know are par or face value.
+
+This is the amount the bond issuer agrees to repay at maturity,
+
+most commonly $1,000 per bond coupon rate the coupon rate is the annual interest rate paid on the bond based on the par value.
+
+These payments are usually made semiannually. Maturity date.
+
+The maturity date is when the bond expires and the issuer repays the face value to the investor.
+
+Longer maturities generally mean more risk because there's more time for conditions to change.
+
+Yield to maturity. Yield to maturity represents the total return an investor expects.
+
+If the bond is held until maturity, it takes into account the coupon payments, purchase price and time remaining to maturity.
+
+Covenants bonds often include covenants, which are rules designed to protect bond holders.
+
+Affirmative covenants require the issuer to do certain things like maintain insurance or provide financial statements.
+
+Negative covenants restrict the issuer from doing certain things, such as taking on too much additional debt.
+
+Now let's discuss the relationship between interest rates and bond prices.
+
+There is an inverse relationship between interest rates and bond prices.
+
+When interest rates rise, existing bond prices fall.
+
+When interest rates fall, bond prices rise. A bond selling above the par value is called a premium bond.
+
+A bond selling below the par value is called a discount bond.
+
+This relationship is especially important for managers and investors when interest rates are changing.
+
+Next, let's talk about bond ratings, which help investors and managers assess the risk level of a bond.
+
+Bond ratings are assessments provided by rating agencies that estimate the likelihood a bond issuer will repay its debt, as promised in simple terms.
+
+Bond ratings measure credit risk or how risky it is to lend money to the issuer.
+
+The rating scale is triple A to D, the sequence is triple A, double A, single A, triple B,
+
+etc. triple AA bonds are considered the highest quality with the lowest risk of default.
+
+As ratings move downward, risk increases and investors demand higher returns.
+
+D indicates the bond is in default and has failed to make required payments.
+
+Here's an important concept to remember. Lower risk bonds offer lower returns, and higher risk bonds must offer higher returns.
+
+Lowest risk. Lowest return bonds are usually issued by financially strong organizations.
+
+Bonds with lower ratings must offer higher interest rates to compensate investors for taking on more risk.
+
+Now let's compare investment grade versus junk bonds.
+
+Investment grade bonds are considered relatively safe and include ratings from triple A to triple B.
+
+Junk bonds, also known as high yield bonds, are rated below triple B.
+
+They may also be referred to as speculative bonds. Junk bonds offer higher potential returns, but they also carry significantly higher default risk.
+
+Managers need to understand this distinction because it affects borrowing costs and investor demand.
+
+Why does this matter to managers? Higher bond ratings usually mean lower interest costs for the company and easier access to capital markets.
+
+Lower ratings mean higher borrowing costs and greater scrutiny from investors and lenders.
+
+Now that we understand bond ratings and risk. Let's look at some common types of bonds you'll see in practice and possibly on the exam.
+
+Callable bonds. Callable bonds give the issuer the right to repay the bond early before maturity.
+
+Companies often call bonds when interest rates fall so they can refinance at a lower rate.
+
+From an investors perspective, callable bonds usually offer higher interest rates to compensate for this risk.
+
+Zero coupon bonds zero coupon bonds do not make periodic interest payments.
+
+Instead, they are sold at a deep discount and pay the full face value at maturity.
+
+All of the investors return comes from the difference between the purchase price and par value.
+
+In other words, if an investor is looking for fixed income, zero coupon bonds would not be appropriate.
+
+Convertible bonds. Convertible bonds can be converted into a set number of shares of common stock because of the conversion option.
+
+They usually offer lower interest rates than regular bonds.
+
+Secured bonds. Secured bonds are backed by specific collateral, such as equipment or real estate.
+
+If the issuer defaults, bond holders have a claim on those assets because they are less risky.
+
+Secured bonds typically have lower interest rates. Municipal bonds.
+
+Municipal bonds are issued by state or local governments.
+
+A key feature is that interest income is often tax exempt at the federal level, and sometimes at the state level,
+
+because of the tax advantage, municipal bonds usually offer lower yields than taxable bonds.
+
+Investors in a higher tax bracket would be more likely to consider municipal bonds, as they would provide a larger tax benefit.
+
+Treasury bonds. Treasury bonds are issued by the U.S. federal government.
+
+They are considered very low risk because they are backed by the government.
+
+As a result, they offer lower returns but are often used as a benchmark for risk free rates.
+
+To recap, the key takeaway is that different bonds offer different trade offs between risk return and special features.
+
+Managers and investors choose bonds based on risk tolerance, cost of borrowing and financial goals.
+
+Now let's turn to common stock, which represents equity ownership in a company.
+
+When someone owns common stock, they are an owner, not a lender.
+
+That ownership comes with several important rights and characteristics.
+
+Common stockholders typically have voting rights.
+
+These votes are often used to elect the board of directors or approve major corporate decisions from a managerial perspective.
+
+Issuing common stock means giving up some control of the company.
+
+Common stockholders also have residual claims on the company's assets.
+
+This means they are paid after creditors and bondholders.
+
+They are also paid after preferred stockholders because they are last in line.
+
+Common shareholders face higher risk. Common stock does not promise fixed dividend payments.
+
+Dividends are optional, not guaranteed and paid at management's discretion.
+
+Companies may reduce or eliminate dividends without defaulting, which provides financial flexibility while common stockholders take on more risk.
+
+They also have the greatest upside potential if the company performs well.
+
+Stock prices can increase and dividends may grow over time.
+
+This risk and reward trade off is what attracts many equity investors.
+
+To recap, common stock represents ownership, control and upside, but also greater risk.
+
+Managers need to understand common stock because it affects control and decision making,
+
+influences the company's cost of capital, and plays a role in long term financing strategy.
+
+Now let's look at preferred stock, which is often described as a hybrid between debt and equity.
+
+Preferred stock represents equity ownership, but it has features that make it behave more like debt.
+
+In some ways, preferred stock holders are also owners, not lenders.
+
+However, unlike common stockholders, they typically do not have voting rights.
+
+From a management perspective, this can be an advantage because issuing preferred stock raises equity without giving up control.
+
+Preferred stock is sometimes characterized as a hybrid security because it combines features of both stocks and bonds.
+
+Like bonds, preferred stock usually provides fixed income payments like equity,
+
+it does not have a maturity date and does not require repayment of principal.
+
+Preferred dividends are typically fixed and are often cumulative.
+
+Cumulative dividends mean that if the company skips a dividend payment,
+
+it owes those dividends in the future before paying any common stock dividends.
+
+This makes preferred stock less risky than common stock.
+
+From an investors perspective, preferred stock holders have priority over common stockholders in the event of liquidation.
+
+This means they are paid before common stockholders, but after bondholders and other creditors.
+
+This priority lowers risk compared to common stock, but it's still riskier than debt.
+
+To recap, preferred stock sits between debt and common stock in terms of risk and return.
+
+They are attractive to investors seeking steady income and useful for companies
+
+that want to raise capital without increasing debt or sacrificing voting control.
+
+Now let's take the second quiz. Be sure to write down your answer to each question one.
+
+Which form of financing provides a tax benefit? Debt or equity?
+
+Question two as and investor you are considering triple a bond, a single, a bond,
+
+and a triple B bond, which would most likely provide the highest return.
+
+Question three as an investor, you are considering a callable bond, common stock and a treasury bond.
+
+If safety of principle is your greatest concern, which would you choose?
+
+Question four as an investor, you are deciding between a preferred stock and a common stock of the same company.
+
+Your main objective is the highest potential for return through capital appreciation.
+
+Which type of stock is most appropriate? Now let's review the correct answers.
+
+Question one. Which form of financing provides a tax benefit?
+
+Debt or equity? The answer is debt.
+
+Question two as and investor, you are considering a triple, a bond, a single,
+
+a bond, and a triple B bond, which would most likely provide the highest return.
+
+The answer is the triple B bond. Question three as an investor, you are considering a callable bond, common stock, and a treasury bond.
+
+If safety of principle is your greatest concern, which would you choose?
+
+The answer is the Treasury bond. Question four.
+
+As an investor, you are deciding between a preferred stock and a common stock of the same company.
+
+Your main objective is the highest potential for return through capital appreciation.
+
+Which type of stock is most appropriate? The answer is common stock.
+
+Now we're going to shift from what bonds and stocks are to how we estimate what they're worth.
+
+In this section, we focus on valuation models that managers and investors use to estimate the intrinsic value of securities.
+
+Intrinsic value is what an asset is actually worth based on expected future cash flows, not just its current market price.
+
+Bonds are valued based on the cash flows they generate, which are primarily interest payments.
+
+Find the present value to calculate the intrinsic value.
+
+Preferred stock can be valued using the perpetuity model for the valuation of common stock.
+
+The dividend growth model or Gordon growth model can be used.
+
+This model assumes dividends are paid regularly and grow at a constant rate over time.
+
+The Capital Asset Pricing Model, or Capm, is another valuation model.
+
+The capital asset pricing model is used to estimate the return for stocks and considers the risk free rate.
+
+The stock's beta, which measures how risky the stock is compared to the market and the market risk.
+
+Premium beta is key here. It tells us how sensitive a stock is to market movements by measuring the systematic risk.
+
+Now let's compare intrinsic value to market price.
+
+Once the intrinsic value is calculated, managers and investors compare it to the market price.
+
+If intrinsic value is greater than the market price, the stock appears undervalued.
+
+If the intrinsic value is less than the market price, the stock may be overvalued.
+
+Ultimately, valuation helps answer the question is this investment worth its price given its risk and expected returns?
+
+Now let's consider the criteria for an ideal evaluation method.
+
+What makes an evaluation method a good one? There are key criteria managers look for when choosing how to evaluate investment projects.
+
+A strong evaluation method should consider every relevant cash flow from the start of the project to the very end.
+
+It should also include the time value of money. An ideal method adjusts cash flows to reflect when they occur.
+
+This allows managers to fairly compare projects with different timing patterns.
+
+Any method that ignores the time value of money is missing a critical piece of the decision.
+
+Lastly, it should incorporate the cost of capital, which reflects risk required return and opportunity cost.
+
+This ensures that projects are judged against the company's minimum acceptable return.
+
+The net present value is generally considered the best evaluation method because it meets all three criteria.
+
+But as we have discussed, other methods are used in certain circumstances instead of or in combination with the net present value.
+
+Up to this point, we focused on how to evaluate projects.
+
+Now let's talk about two critical questions managers must answer before they even run the numbers.
+
+Why is the timing of cash flows important? Not all cash flows are equal when they occur.
+
+Matters just as much as how much they are. Cash flows that occur further in the future are riskier.
+
+There's more uncertainty about market conditions, costs, and demand because of this uncertainty.
+
+Future cash flows are discounted more heavily. Opportunity costs are also important.
+
+Money invested in one project cannot be used elsewhere.
+
+Lastly, inflation reduces purchasing power.
+
+A dollar received in the future will likely be less than a dollar today.
+
+Discounting cash flows helps adjust for this loss of value.
+
+The next question managers must ask is which cash flows should actually be included in the analysis?
+
+Only incremental cash flows should be included. These are cash flows generated by the project.
+
+If the cash flow would occur anyway, it doesn't belong in the analysis.
+
+Think with the project versus without the project.
+
+Opportunity costs are cash flows from the next best alternative that we give up.
+
+Even though no cash is physically paid, opportunity costs are very real and should be included.
+
+Incidental cash flows are secondary effects caused by the project.
+
+They can be positive additional sales elsewhere or negative lost sales or cannibalization if the project causes them, they count.
+
+Sunk costs are costs that have already occurred.
+
+They cannot be changed regardless of the decision.
+
+Sunk costs are those that have already occurred and cannot be recouped.
+
+They should not be included. That concludes the material.
+
+Now let's take the final quiz. Be sure to write your answers down.
+
+Question one. You are calculating the intrinsic value of a preferred stock and deciding between the dividend discount model,
+
+capital asset pricing model, and the perpetuity model, which would be the best method to use.
+
+Question two. You calculated the intrinsic value of a common stock that you owned to be $30 per share.
+
+The stock is currently trading on the market at $25 per share.
+
+Is the stock overpriced or underpriced? Question three.
+
+A company is calculating the appropriate future cash flows for a net present value evaluation.
+
+The company introduced a new marketing campaign six months ago.
+
+Should they include the cost of the marketing campaign in the cash flows?
+
+Let's look at the correct answers.
+
+Question one you are calculating the intrinsic value of a preferred stock and deciding between the dividend discount model,
+
+capital asset pricing model and the perpetuity model, which would be the best method to use.
+
+The answer is the perpetuity model. Question two.
+
+You calculated the intrinsic value of a common stock that you owned to be $30 per share.
+
+The stock is currently trading on the market at $25 per share.
+
+Is the stock overpriced or underpriced? The answer is underpriced.
+
+Question three. A company is calculating the appropriate future cash flows for a net present value evaluation.
+
+The company introduced a new marketing campaign six months ago.
+
+Should they include the cost of the marketing campaign in the cash flows?
+
+The answer is no. That would be a sunk cost and not included.
+
+That concludes the unit six cohort. If you have any questions, please schedule an appointment with any available instructor.
+
